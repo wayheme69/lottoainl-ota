@@ -9,6 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 scripts/fetch.py
+      - run: if [ -f scripts/extra.py ]; then python3 scripts/extra.py; fi
       - run: |
           git config user.name "results-bot"; git config user.email "actions@github.com"
           git add out; git commit -m "fetch" -q || true

@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<BODY BACKGROUND="http://www.lotto.nl//background.gif" BGCOLOR="#FFFF33">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+    
+   	   
+       
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+    
+   	   
+       
+
+
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+</HEAD>
+<BODY BACKGROUND="http://www.lotto.nl/background.gif">
+
+
+<SCRIPT LANGUAGE="JavaScript">
+Name = navigator.appName;
+Version = parseInt(navigator.appVersion);
+if (Version >= 3)
+        Browser = "n3";
+else
+        Browser = "n2";
+if (Browser == "n3") {
+        toto0        = new Image(75,25);
+        toto0.src    = "/site/graphics/toto_mo.gif";
+        toto1        = new Image(75,25);
+        toto1.src    = "/site/graphics/toto.gif";
+
+        lotto0        = new Image(65,25);
+        lotto0.src    = "/site/graphics/lotto_gif_mo.gif";
+        lotto1        = new Image(65,25);
+        lotto1.src    = "/site/graphics/lotto_gif.gif";
+
+        lucky100        = new Image(99,25);
+        lucky100.src    = "/site/graphics/lucky_mo.gif";
+        lucky101        = new Image(99,25);
+        lucky101.src    = "/site/graphics/lucky.gif";
+
+        kras0        = new Image(107,25);
+        kras0.src    = "/site/graphics/kras_mo.gif";
+        kras1        = new Image(107,25);
+        kras1.src    = "/site/graphics/kras.gif";
+
+        nieuws0        = new Image(68,90);
+        nieuws0.src    = "/site/graphics/news_01.gif";
+        nieuws1        = new Image(68,90);
+        nieuws1.src    = "/site/graphics/news_03.gif";
+
+        mail0        = new Image(66,95);
+        mail0.src    = "/site/graphics/mail.gif";
+        mail1        = new Image(66,95);
+        mail1.src    = "/site/graphics/mail_mo.gif";
+		
+}
+
+function verander(Naam,No) { if (Browser == "n3") document [Naam].src = eval(Naam + No + ".src"); }
+
+
+
+function lottoland()
+{
+        if (navigator.appName == "Netscape") {
+                window2=open("download.html", "infoWindow", "scrollbars=0,width=600,height=385")
+        }
+        else {
+            window2=open("download.html","infoWindow", "scrollbars=0,width=600,height=385")
+        }
+}
+//-->
+
+</SCRIPT>
+
+		 
+		       
+<TABLE WIDTH="100%" >
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=RIGHT><A HREF="/site/productpaginas/default.cfm?id=66&function=ProductPagina"><IMG SRC="http://www.lotto.nl/site/graphics/logotje.gif" BORDER=0 HEIGHT=100 WIDTH=92></A>&nbsp;</TD>
+</TR>
+</TABLE>
+    
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=20>
+	<TR>
+		<TD ALIGN="left" VALIGN="top">
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=1&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Lotto</A></font><BR>
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=2&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Lotto 4\5</A></font><BR>
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=8&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Cijferspel</A></font><BR>
+			
+		</TD>
+		<TD ALIGN="left" VALIGN="top">
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=3&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Lucky Day</A></font><BR>
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=5&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Toto<FONT SIZE=-1>&reg;</FONT> 13</A></font><BR>
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=6&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Toto<FONT SIZE=-1>&reg;</FONT>-<I>Select</I></A></font><BR>
+			
+		</TD>
+		<TD ALIGN="left" VALIGN="top">
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=7&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Toto<FONT SIZE=-1>&reg;</FONT>-<I>Score</I></A></font><BR>
+			
+			<font face="Tahoma">
+			<A HREF="/site/uitslagen/default.cfm?ProductId=9&function=LastEntry" STYLE="text-decoration: none; color: Black;"><font size=+1>Toto<FONT SIZE=-1>&reg;</FONT>-<I>Tip</I></A></font><BR>
+			
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+
+<TR><TD>
+
+
+<TABLE CELLSPACING=10>
+<TR>
+
+  
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/poort.cfm"><IMG SRC="/MediaItems/zon_blauw.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/poort.cfm">Homepage</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/Uitslagen/default.cfm?function=all"><IMG SRC="/MediaItems/zon_groen.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/Uitslagen/default.cfm?function=all">Alle Uitslagen</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/delotto.htm"><IMG SRC="/MediaItems/zon_blauw.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/delotto.htm">Waar gaat de opbrengst heen ?</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/winkeliers"><IMG SRC="/MediaItems/zon_roze.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/winkeliers">Uw Kansspel-winkelier</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+
+</TR>
+
+</TABLE>
+
+
+
+
+</TD></TR>
+</TABLE> 
+
+
+</body>
+</html>  
+
+
+
+

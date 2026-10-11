@@ -1,0 +1,58 @@
+<HTML>
+
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+
+<BODY BACKGROUND="achterg.gif">
+
+<TABLE WIDTH=100%>
+<TR>
+<TD ALIGN=bottom>
+<IMG SRC="uitslagen.gif" WIDTH=350 HEIGHT=75 BORDER=0>
+</TD>
+<TD ALIGN=right>
+<A HREF="mail.html"><IMG SRC="logotje.gif" WIDTH=92 HEIGHT=100 BORDER=0></A>
+</TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=+1>
+
+<A HREF="rjackpot.html">Lotto Jackpot</A>
+
+<P>
+
+<A HREF="rlotto45.html">Lotto 4\5</A>
+
+<P>
+
+<A HREF="rtoto.html">Toto</A>
+
+<P>
+
+<A HREF="rtotos.html">Toto-Select</A>
+
+<P>
+
+<A HREF="rscore.html">Score</A>
+
+<P>
+
+<A HREF="rwin.html">Winnerstip</A>
+
+<P>
+
+<A HREF="rlucky10.html">Lucky 10</A>
+
+<P>
+
+<A HREF="rcspel.html">Cijferspel</A>
+
+</FONT>
+
+<BR>
+
+</BODY>
+
+</HTML>

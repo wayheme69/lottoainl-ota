@@ -1,0 +1,395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Lotto - Bekijk de laatste trekking</title>
+	<link rel="shortcut icon" href="/static/images/favicon.ico" />
+        <meta name="keywords" content="WebManager" />
+        <meta name="description" content="(onder voorbehoud van typefouten)" />
+	<link href="/static/css/style.css" rel="stylesheet" type="text/css" />
+	<script src="/wm/f/lib.js" type="text/javascript"></script>
+	<script src="/static/js/util.js" type="text/javascript"></script>
+	<script src="/static/js/flashobject.js" type="text/javascript"></script>
+</head>
+<body>
+<table class="containertable" cellpadding="0" cellspacing="0" border="0" id="container">
+	<col width="4" />
+	<col width="962" />
+	<col width="4" />
+	<tr>
+		<td colspan="3"><div id="hoofdnav">
+        <div style="position:relative;width:1px;height:1px;">
+                <div style="position:absolute;top:70px;left:730px;">
+                        <div id="goldcardbanner">Flash object</div>
+                        <script type="text/javascript">
+                        //<![CDATA[
+                                var fo = new FlashObject("/static/swf/help_banner_release.swf", "help", "240", "150", "7", "#ffffff");
+                                fo.addParam("menu",     "false");
+                                fo.addParam("quality",  "high");
+                                fo.addParam("wmode", "transparent");
+                                fo.write("goldcardbanner");
+                        //]]>
+                        </script>
+                </div>
+        </div>
+	<script type="text/javascript">
+	// <![CDATA[
+		menuImage[100] = new imageObj("tnimg0", "/static/images/nav/f3_toto.gif", "/static/images/nav/f3_toto_hi.gif");
+		menuImage[102] = new imageObj("tnimg2", "/static/images/nav/f3_krasloten.gif", "/static/images/nav/f3_krasloten_hi.gif");
+	// ]]>
+	</script>
+	<div class="left"><a href="/web/show"><img src="/static/images/f3_toplogo.gif" width="197" height="69" alt="" /></a></div>
+	<div class="right" style="margin-top: 35px;"><a href="http://www.krasloten.nl/" onmouseover="makeHilite(102)" onmouseout="makeNormal(102)" target="_blank"><img src="/static/images/nav/f3_krasloten.gif" id="tnimg2" width="99" height="34" alt="" class="block" /></a></div>
+	<div class="right" style="margin-top: 35px;"><a href="http://www.toto.nl/" onmouseover="makeHilite(100)" onmouseout="makeNormal(100)" target="_blank"><img src="/static/images/nav/f3_toto.gif" id="tnimg0" width="52" height="34" alt="" class="block" /></a></div>
+</div>
+</td>
+	</tr>
+	<tr>
+		<td class="bordercell"></td>
+		<td id="contentcontainer">
+			<div id="flashheader">Flash object</div>
+			<script type="text/javascript">
+			//<![CDATA[
+				var fo = new FlashObject("/static/swf/header.swf", "headerflash", "962", "150", "7", "#ffffff");
+				fo.addParam("menu",	"false");
+				fo.addParam("quality",	"high");
+				fo.addParam("wmode", "transparent");
+				fo.write("flashheader");
+			//]]>
+			</script>
+			<div id="subnav">
+			<div>
+				<a href="/web/show/id=43708"
+				><img src="/upload/44063_424_1184845521446-44063_424_1181568749516-lotto_spelen.gif" class="block" alt="" /></a>
+			</div>
+			<div>
+				<a href="/web/show/id=43702"
+				onmouseover="showSSNav(1)" onmouseout="hideSSNav(1)"><img src="/upload/44068_424_1184846744578-44068_424_1181568770299-trekkingen.gif" class="block" alt="Trekkingen" /></a>
+				<script type="text/javascript">
+				// <![CDATA[
+					menuImage[0] = new imageObj("ssnimg0", "/web/nav?text=WAT+HEB+IK+GEWONNEN%3F", "/web/nav_hi?text=WAT+HEB+IK+GEWONNEN%3F");
+					menuImage[1] = new imageObj("ssnimg1", "/web/nav?text=KIES+DE+BESTE+GETALLEN", "/web/nav_hi?text=KIES+DE+BESTE+GETALLEN");
+					menuImage[2] = new imageObj("ssnimg2", "/web/nav?text=WANNEER+ZIJN+DE+TREKKINGEN%3F", "/web/nav_hi?text=WANNEER+ZIJN+DE+TREKKINGEN%3F");
+					menuImage[3] = new imageObj("ssnimg3", "/web/nav?text=BEKIJK+ALLE+TREKKINGEN", "/web/nav_hi?text=BEKIJK+ALLE+TREKKINGEN");
+					menuImage[4] = new imageObj("ssnimg4", "/web/nav?text=BEKIJK+DE+LAATSTE+TREKKING", "/web/nav_hi?text=BEKIJK+DE+LAATSTE+TREKKING");
+				// ]]>
+				</script>
+				<div id="subsubnav1"><div class="subsubnav">
+					<a href="/web/show/id=43702" onmouseover="showSSNav(1)" onmouseout="hideSSNav(1)"><img src="/static/images/nav/ssntopborder.gif" width="207" height="1" class="block" alt="" /></a>
+					<a href="/web/show/id=43714" onmouseover="makeHilite(0,1)" onmouseout="makeNormal(0,1)"><img id="ssnimg0" src="/web/nav?text=WAT+HEB+IK+GEWONNEN%3F" width="207" height="18" class="block" alt="Wat heb ik gewonnen?" /></a><a href="/web/show/id=43735" onmouseover="makeHilite(1,1)" onmouseout="makeNormal(1,1)"><img id="ssnimg1" src="/web/nav?text=KIES+DE+BESTE+GETALLEN" width="207" height="18" class="block" alt="Kies de beste getallen" /></a><a href="/web/show/id=43743" onmouseover="makeHilite(2,1)" onmouseout="makeNormal(2,1)"><img id="ssnimg2" src="/web/nav?text=WANNEER+ZIJN+DE+TREKKINGEN%3F" width="207" height="18" class="block" alt="Wanneer zijn de trekkingen?" /></a><a href="/alle_trekkingen.html" onmouseover="makeHilite(3,1)" onmouseout="makeNormal(3,1)"><img id="ssnimg3" src="/web/nav?text=BEKIJK+ALLE+TREKKINGEN" width="207" height="18" class="block" alt="Bekijk alle trekkingen" /></a><a href="/laatste_trekking.html" onmouseover="makeHilite(4,1)" onmouseout="makeNormal(4,1)"><img id="ssnimg4" src="/web/nav?text=BEKIJK+DE+LAATSTE+TREKKING" width="207" height="18" class="block" alt="Bekijk de laatste trekking" /></a>
+					<img src="/static/images/nav/ssnbotborder.gif" width="207" height="7" class="block" alt="" />
+				</div></div>
+			</div>
+			<div>
+				<a href="/web/show/id=43757"
+				onmouseover="showSSNav(2)" onmouseout="hideSSNav(2)"><img src="/upload/44069_424_1184846033482-44069_424_1181568784585-acties_nieuws.gif" class="block" alt="Actie en nieuws" /></a>
+				<script type="text/javascript">
+				// <![CDATA[
+					menuImage[5] = new imageObj("ssnimg5", "/web/nav?text=LAATSTE+NIEUWS", "/web/nav_hi?text=LAATSTE+NIEUWS");
+					menuImage[6] = new imageObj("ssnimg6", "/web/nav?text=NIEUWSOVERZICHT", "/web/nav_hi?text=NIEUWSOVERZICHT");
+					menuImage[7] = new imageObj("ssnimg7", "/web/nav?text=ACTIEOVERZICHT", "/web/nav_hi?text=ACTIEOVERZICHT");
+				// ]]>
+				</script>
+				<div id="subsubnav2"><div class="subsubnav">
+					<a href="/web/show/id=43757" onmouseover="showSSNav(2)" onmouseout="hideSSNav(2)"><img src="/static/images/nav/ssntopborder.gif" width="207" height="1" class="block" alt="" /></a>
+					<a href="/web/show/id=43783" onmouseover="makeHilite(5,2)" onmouseout="makeNormal(5,2)"><img id="ssnimg5" src="/web/nav?text=LAATSTE+NIEUWS" width="207" height="18" class="block" alt="Laatste nieuws" /></a><a href="/web/show/id=43791" onmouseover="makeHilite(6,2)" onmouseout="makeNormal(6,2)"><img id="ssnimg6" src="/web/nav?text=NIEUWSOVERZICHT" width="207" height="18" class="block" alt="Nieuwsoverzicht" /></a><a href="/web/show/id=46867" onmouseover="makeHilite(7,2)" onmouseout="makeNormal(7,2)"><img id="ssnimg7" src="/web/nav?text=ACTIEOVERZICHT" width="207" height="18" class="block" alt="Actieoverzicht" /></a>
+					<img src="/static/images/nav/ssnbotborder.gif" width="207" height="7" class="block" alt="" />
+				</div></div>
+			</div>
+			<div>
+				<a href="/web/show/id=43846"
+				onmouseover="showSSNav(3)" onmouseout="hideSSNav(3)"><img src="/upload/44072_424_1184846061314-44072_424_1181568798911-informatie.gif" class="block" alt="Informatie" /></a>
+				<script type="text/javascript">
+				// <![CDATA[
+					menuImage[8] = new imageObj("ssnimg8", "/web/nav?text=WAAROM+LOTTO+SPELEN%3F", "/web/nav_hi?text=WAAROM+LOTTO+SPELEN%3F");
+					menuImage[9] = new imageObj("ssnimg9", "/web/nav?text=WAT+WINT+U+MET+LOTTO%3F", "/web/nav_hi?text=WAT+WINT+U+MET+LOTTO%3F");
+					menuImage[10] = new imageObj("ssnimg10", "/web/nav?text=WAAR+VALLEN+DE+PRIJZEN%3F", "/web/nav_hi?text=WAAR+VALLEN+DE+PRIJZEN%3F");
+					menuImage[11] = new imageObj("ssnimg11", "/web/nav?text=HOE+IN+IK+MIJN+PRIJZEN%3F", "/web/nav_hi?text=HOE+IN+IK+MIJN+PRIJZEN%3F");
+					menuImage[12] = new imageObj("ssnimg12", "/web/nav?text=INSTELLEN+BERICHTEN+SERVICE", "/web/nav_hi?text=INSTELLEN+BERICHTEN+SERVICE");
+					menuImage[13] = new imageObj("ssnimg13", "/web/nav?text=ZO+WERKT+LOTTO", "/web/nav_hi?text=ZO+WERKT+LOTTO");
+					menuImage[14] = new imageObj("ssnimg14", "/web/nav?text=ZO+WERKT+LOTTO+4%5C5", "/web/nav_hi?text=ZO+WERKT+LOTTO+4%5C5");
+					menuImage[15] = new imageObj("ssnimg15", "/web/nav?text=ZO+WERKT+LOTTO+SYSTEEM", "/web/nav_hi?text=ZO+WERKT+LOTTO+SYSTEEM");
+					menuImage[16] = new imageObj("ssnimg16", "/web/nav?text=ZO+WERKT+EURO+LOTERIJ", "/web/nav_hi?text=ZO+WERKT+EURO+LOTERIJ");
+					menuImage[17] = new imageObj("ssnimg17", "/web/nav?text=ZO+WERKT+SUPER+ZATERDAG", "/web/nav_hi?text=ZO+WERKT+SUPER+ZATERDAG");
+					menuImage[18] = new imageObj("ssnimg18", "/web/nav?text=ONZE+HISTORIE", "/web/nav_hi?text=ONZE+HISTORIE");
+					menuImage[19] = new imageObj("ssnimg19", "/web/nav?text=GOEDE+DOELEN", "/web/nav_hi?text=GOEDE+DOELEN");
+					menuImage[20] = new imageObj("ssnimg20", "/web/nav?text=CONTACT", "/web/nav_hi?text=CONTACT");
+					menuImage[21] = new imageObj("ssnimg21", "/web/nav?text=PRIVACY", "/web/nav_hi?text=PRIVACY");
+					menuImage[22] = new imageObj("ssnimg22", "/web/nav?text=GEDRAGSCODE", "/web/nav_hi?text=GEDRAGSCODE");
+				// ]]>
+				</script>
+				<div id="subsubnav3"><div class="subsubnav">
+					<a href="/web/show/id=43846" onmouseover="showSSNav(3)" onmouseout="hideSSNav(3)"><img src="/static/images/nav/ssntopborder.gif" width="207" height="1" class="block" alt="" /></a>
+					<a href="/web/show/id=43852" onmouseover="makeHilite(8,3)" onmouseout="makeNormal(8,3)"><img id="ssnimg8" src="/web/nav?text=WAAROM+LOTTO+SPELEN%3F" width="207" height="18" class="block" alt="Waarom Lotto spelen?" /></a><a href="/wat_wint_u_met_lotto.html" onmouseover="makeHilite(9,3)" onmouseout="makeNormal(9,3)"><img id="ssnimg9" src="/web/nav?text=WAT+WINT+U+MET+LOTTO%3F" width="207" height="18" class="block" alt="Wat wint u met Lotto?" /></a><a href="/web/show/id=43763" onmouseover="makeHilite(10,3)" onmouseout="makeNormal(10,3)"><img id="ssnimg10" src="/web/nav?text=WAAR+VALLEN+DE+PRIJZEN%3F" width="207" height="18" class="block" alt="Waar vallen de prijzen?" /></a><a href="/web/show/id=43867" onmouseover="makeHilite(11,3)" onmouseout="makeNormal(11,3)"><img id="ssnimg11" src="/web/nav?text=HOE+IN+IK+MIJN+PRIJZEN%3F" width="207" height="18" class="block" alt="Hoe in ik mijn prijzen?" /></a><a href="/web/show/id=43878" onmouseover="makeHilite(12,3)" onmouseout="makeNormal(12,3)"><img id="ssnimg12" src="/web/nav?text=INSTELLEN+BERICHTEN+SERVICE" width="207" height="18" class="block" alt="Instellen berichten service" /></a><a href="/web/show/id=43885" onmouseover="makeHilite(13,3)" onmouseout="makeNormal(13,3)"><img id="ssnimg13" src="/web/nav?text=ZO+WERKT+LOTTO" width="207" height="18" class="block" alt="Zo werkt Lotto" /></a><a href="/web/show/id=43895" onmouseover="makeHilite(14,3)" onmouseout="makeNormal(14,3)"><img id="ssnimg14" src="/web/nav?text=ZO+WERKT+LOTTO+4%5C5" width="207" height="18" class="block" alt="Zo werkt Lotto 4\5" /></a><a href="/web/show/id=43902" onmouseover="makeHilite(15,3)" onmouseout="makeNormal(15,3)"><img id="ssnimg15" src="/web/nav?text=ZO+WERKT+LOTTO+SYSTEEM" width="207" height="18" class="block" alt="Zo werkt Lotto systeem" /></a><a href="/web/show/id=43910" onmouseover="makeHilite(16,3)" onmouseout="makeNormal(16,3)"><img id="ssnimg16" src="/web/nav?text=ZO+WERKT+EURO+LOTERIJ" width="207" height="18" class="block" alt="Zo werkt Euro Loterij" /></a><a href="/web/show/id=43770" onmouseover="makeHilite(17,3)" onmouseout="makeNormal(17,3)"><img id="ssnimg17" src="/web/nav?text=ZO+WERKT+SUPER+ZATERDAG" width="207" height="18" class="block" alt="Zo werkt Super Zaterdag" /></a><a href="/web/show/id=43954" onmouseover="makeHilite(18,3)" onmouseout="makeNormal(18,3)"><img id="ssnimg18" src="/web/nav?text=ONZE+HISTORIE" width="207" height="18" class="block" alt="Onze historie" /></a><a href="/web/show/id=43930" onmouseover="makeHilite(19,3)" onmouseout="makeNormal(19,3)"><img id="ssnimg19" src="/web/nav?text=GOEDE+DOELEN" width="207" height="18" class="block" alt="Goede doelen" /></a><a href="/web/show/id=43938" onmouseover="makeHilite(20,3)" onmouseout="makeNormal(20,3)"><img id="ssnimg20" src="/web/nav?text=CONTACT" width="207" height="18" class="block" alt="CONTACT" /></a><a href="/web/show/id=47597" onmouseover="makeHilite(21,3)" onmouseout="makeNormal(21,3)"><img id="ssnimg21" src="/web/nav?text=PRIVACY" width="207" height="18" class="block" alt="PRIVACY" /></a><a href="/web/show/id=47611" onmouseover="makeHilite(22,3)" onmouseout="makeNormal(22,3)"><img id="ssnimg22" src="/web/nav?text=GEDRAGSCODE" width="207" height="18" class="block" alt="GEDRAGSCODE" /></a>
+					<img src="/static/images/nav/ssnbotborder.gif" width="207" height="7" class="block" alt="" />
+				</div></div>
+			</div>
+			<div>
+				<a href="/web/show/id=44081"
+				onmouseover="showSSNav(4)" onmouseout="hideSSNav(4)"><img src="/upload/44086_424_1184846075120-44086_424_1181568814436-vragen.gif" class="block" alt="Vragen" /></a>
+				<script type="text/javascript">
+				// <![CDATA[
+					menuImage[23] = new imageObj("ssnimg23", "/web/nav?text=MEEST+GESTELDE+VRAGEN", "/web/nav_hi?text=MEEST+GESTELDE+VRAGEN");
+					menuImage[24] = new imageObj("ssnimg24", "/web/nav?text=STEL+UW+VRAAG", "/web/nav_hi?text=STEL+UW+VRAAG");
+				// ]]>
+				</script>
+				<div id="subsubnav4"><div class="subsubnav">
+					<a href="/web/show/id=44081" onmouseover="showSSNav(4)" onmouseout="hideSSNav(4)"><img src="/static/images/nav/ssntopborder.gif" width="207" height="1" class="block" alt="" /></a>
+					<a href="/web/show/id=45708" onmouseover="makeHilite(23,4)" onmouseout="makeNormal(23,4)"><img id="ssnimg23" src="/web/nav?text=MEEST+GESTELDE+VRAGEN" width="207" height="18" class="block" alt="Meest gestelde vragen" /></a><a href="/web/show/id=45715" onmouseover="makeHilite(24,4)" onmouseout="makeNormal(24,4)"><img id="ssnimg24" src="/web/nav?text=STEL+UW+VRAAG" width="207" height="18" class="block" alt="Stel uw vraag" /></a>
+					<img src="/static/images/nav/ssnbotborder.gif" width="207" height="7" class="block" alt="" />
+				</div></div>
+			</div>
+		</div>
+		<table cellpadding="0" cellspacing="0" border="0" id="contenttable">
+			<tr>
+			<td id="imagecontent">
+			<div class="pagetitle"><img src="/web/pagetitle?text=BEKIJK DE LAATSTE TREKKING" width="422" alt="BEKIJK DE LAATSTE TREKKING" /></div>
+			<!-- Content -->
+			<p class="normal">
+				(onder voorbehoud van typefouten)
+			</p>
+		<form name="drawresults" action="/web/show/id=43720" method="get" class="lottoform" style="width:538px;height:75px;">
+			<img src="/web/formheader?text=KIES%20EEN%20MAAND" alt="" class="block clear" style="margin-bottom:20px;" />
+		<div class="left" style="width:120px;"><img src="/web/formheader?text=Jaar:&amp;padding-right=8&amp;padding-top=2" alt="" />
+		<select name="year" style="vertical-align:top;">
+			<option value="1974">1974</option>
+			<option value="1975">1975</option>
+			<option value="1976">1976</option>
+			<option value="1977">1977</option>
+			<option value="1978">1978</option>
+			<option value="1979">1979</option>
+			<option value="1980">1980</option>
+			<option value="1981">1981</option>
+			<option value="1982">1982</option>
+			<option value="1983">1983</option>
+			<option value="1984">1984</option>
+			<option value="1985">1985</option>
+			<option value="1986">1986</option>
+			<option value="1987">1987</option>
+			<option value="1988">1988</option>
+			<option value="1989">1989</option>
+			<option value="1990">1990</option>
+			<option value="1991">1991</option>
+			<option value="1992">1992</option>
+			<option value="1993">1993</option>
+			<option value="1994">1994</option>
+			<option value="1995">1995</option>
+			<option value="1996">1996</option>
+			<option value="1997">1997</option>
+			<option value="1998">1998</option>
+			<option value="1999">1999</option>
+			<option value="2000">2000</option>
+			<option value="2001">2001</option>
+			<option value="2002">2002</option>
+			<option value="2003">2003</option>
+			<option value="2004">2004</option>
+			<option value="2005">2005</option>
+			<option value="2006">2006</option>
+			<option value="2007" selected="selected">2007</option>
+		</select>
+		</div>
+		<div class="left" style="width:160px;"><img src="/web/formheader?text=Maand:&amp;padding-right=8&amp;padding-top=2" alt="" />
+		<select name="month" style="vertical-align:top;">
+			<option value="1">Januari</option>
+			<option value="2">Februari</option>
+			<option value="3">Maart</option>
+			<option value="4">April</option>
+			<option value="5">Mei</option>
+			<option value="6">Juni</option>
+			<option value="7">Juli</option>
+			<option value="8">Augustus</option>
+			<option value="9" selected="selected">September</option>
+			<option value="10">Oktober</option>
+			<option value="11">November</option>
+			<option value="12">December</option>
+		</select>
+		</div>
+		<div class="left"><img src="/web/formheader?text=Datum:&amp;padding-right=8&amp;padding-top=2" alt="" />
+		<select name="date" style="vertical-align:top;">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+			<option value="8">8</option>
+			<option value="9">9</option>
+			<option value="10" selected="selected">10</option>
+			<option value="11">11</option>
+			<option value="12">12</option>
+			<option value="13">13</option>
+			<option value="14">14</option>
+			<option value="15">15</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+			<option value="19">19</option>
+			<option value="20">20</option>
+			<option value="21">21</option>
+			<option value="22">22</option>
+			<option value="23">23</option>
+			<option value="24">24</option>
+			<option value="25">25</option>
+			<option value="26">26</option>
+			<option value="27">27</option>
+			<option value="28">28</option>
+			<option value="29">29</option>
+			<option value="30">30</option>
+			<option value="31">31</option>
+		</select>
+		</div>
+		<div class="right"><img src="/web/formheader?text=TOON&amp;padding-top=2&amp;padding-right=10" alt="" />
+		<input type="image" src="/static/images/button.gif" value="true" style="vertical-align:top;" />
+		</div>
+		</form>
+		<img src="/web/header12px?text=TREKKINGSUITSLAGEN%20VAN%2010%20SEPTEMBER%202007" style="margin:10px 13px;" alt="TREKKINGSUITSLAGEN VAN 10 SEPTEMBER 2007" />
+						<div class="lijn" style="width:568px;"><br class="clear" /></div>
+						<div style="margin:8px 12px;"><b>Heeft u de eerste 6 getallen goed? Dan wint u de hoofdprijs van <span style="color:red;">€1.000.000</span></b><br />Zitten uw 6 getallen bij de eerste 7 getallen dan wint u €25.000,- etc. Zitten uw getallen bij de 39 getrokken ballen? Dan heeft u al een prijs. Geen enkel getal goed? Treur niet, u wint dan €10.000!<br /></div>
+						<table cellpadding="0" cellspacing="0" border="0" class="clear" width="568">
+							<tr>
+								<td width="5"><img src="/static/images/ballen/daily/1-39_bg.gif" width="5" height="50" alt="" /></td>
+								<td colspan="6"><img src="/static/images/ballen/daily/1-6.gif" width="252" height="50" alt="" /></td>
+								<td width="11"></td>
+								<td colspan="7"><img src="/static/images/ballen/daily/7-13.gif" width="294" height="50" alt="" /></td>
+								<td width="6"><img src="/static/images/ballen/daily/1-39_bg.gif" width="6" height="50" alt="" /></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td><img src="/static/images/ballen/daily/2.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/17.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/33.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/41.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/35.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/22.jpg" width="42" height="54" alt="" /></td>
+								<td width="11"></td>
+								<td><img src="/static/images/ballen/daily/21.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/37.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/10.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/27.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/9.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/40.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/4.jpg" width="42" height="54" alt="" /></td>
+								<td></td>
+							</tr>
+						</table>
+						<table cellpadding="0" cellspacing="0" border="0" width="568">
+							<tr>
+								<td width="11"><img src="/static/images/ballen/daily/1-39_bg.gif" width="11" height="50" alt="" /></td>
+								<td colspan="13"><img src="/static/images/ballen/daily/14-26.gif" width="546" height="50" alt="" /></td>
+								<td width="11"><img src="/static/images/ballen/daily/1-39_bg.gif" width="11" height="50" alt="" /></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td><img src="/static/images/ballen/daily/26.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/7.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/39.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/28.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/38.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/29.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/8.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/18.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/13.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/24.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/19.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/20.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/1.jpg" width="42" height="54" alt="" /></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td width="11"><img src="/static/images/ballen/daily/1-39_bg.gif" width="11" height="50" alt="" /></td>
+								<td colspan="13"><img src="/static/images/ballen/daily/27-39.gif" width="546" height="50" alt="" /></td>
+								<td width="11"><img src="/static/images/ballen/daily/1-39_bg.gif" width="11" height="50" alt="" /></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td><img src="/static/images/ballen/daily/36.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/30.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/15.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/16.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/25.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/23.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/14.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/31.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/3.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/11.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/6.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/45.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/42.jpg" width="42" height="54" alt="" /></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td colspan="15"><div class="stippellijn" style="width:568px; margin:10px 0px;"><br class="clear" /></div></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="7"><div style="width:200px;"><br /><b>DE 6 NIET GETROKKEN GETALLEN:</b><br />Zijn dit uw getallen? Treur niet, u wint dan €10.000!</div></td>
+								<td><img src="/static/images/ballen/daily/5.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/12.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/32.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/34.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/43.jpg" width="42" height="54" alt="" /></td>
+								<td><img src="/static/images/ballen/daily/44.jpg" width="42" height="54" alt="" /></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="13" align="right"><b>* Speltegoed</b></td>
+								<td></td>
+							<tr>
+								<td colspan="15"><div style="width:568px; margin:10px 0px;"><br class="clear" /></div></td>
+							</tr>
+						</table>
+<div style="clear:both;background-color: #e8e8e8;height:24px;">
+	<div class="left"><a href="/web/show/id=43720?year=2007&amp;month=9&amp;date=9"><img src="/static/images/leftbutton.gif" height="24" width="24" alt="" /><img src="/web/greyheader12px?text=VORIGE%20DAG&amp;padding-bottom=4&amp;padding-left=5" alt="Vorige dag" /></a></div>
+	<div class="right"><a href="/web/show/id=43720?year=2007&amp;month=9&amp;date=11"><img src="/web/greyheader12px?text=VOLGENDE%20DAG&amp;padding-right=5&amp;padding-bottom=4" alt="Volgende dag" /><img src="/static/images/button.gif" height="24" width="24" alt="" /></a></div>
+</div>
+			</td>
+			<td id="rightmargin">
+			<!-- Content -->
+				<div class="presentation44478">
+	<a href="/web/show/id=43695" class="normal" title="Vind een winkelier"><img src="/web/f3_headerrm?text=Vind een Lotto-winkelier" alt="Vind een Lotto-winkelier" class="block" /></a>
+<div class="text_element_15pt">
+					<span><a href="/web/show/id=43695" class="normal" title="Vind een winkelier">Lees verder</a></span>
+</div>
+				</div>
+</td>
+			</tr>
+		</table>
+		</td>
+		<td class="bordercell"></td>
+	</tr>
+	<tr>
+		<td class="bordercell"><div id="tagline"><div id="innertagline"><img src="/static/images/f3_tagline.gif" width="236" height="56" alt="" class="block" /></div></div></td>
+		<td id="footer">
+			<div class="left">Lotto is een onderdeel van De Lotto. Copyright(c) 2007 by De Lotto, the Netherlands.</div>
+<div class="right">
+	<span><a href="/web/show/id=43938" class="navigation" title="CONTACT">CONTACT</a></span>
+		<span><a href="http://www.delotto.nl/btob/" onclick="windowObj = top.open('http://www.delotto.nl/btob/','new27029','width=800,height=600,directories=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,status=yes,toolbar=yes');if (windowObj != null) {windowObj.focus()};return false;" class="navigation" title="http://www.delotto.nl/btob/">ZAKELIJKE MARKT</a></span>
+		<span><a href="/web/show/id=44244" class="navigation" title="DEELNEMERSREGLEMENT">DEELNEMERSREGLEMENT</a></span>
+		<span></span>
+		<span><a href="/web/show/id=44024" class="navigation" title="DISCLAIMER">DISCLAIMER</a></span>
+</div>
+		</td>
+		<td class="bordercell"></td>
+	</tr>
+	<tr>
+		<td colspan="3" class="bordercell"><div style="height:3px;"></div></td>
+	</tr>
+</table>
+<script type="text/javascript">
+//<![CDATA[
+	if (document.getElementById('toplinkcontainer')) {
+		var bodyheight = document.getElementById('container').offsetHeight - 70
+		var toplinkposition = document.getElementById('toplinkcontainer').style.top.replace(/px/gi, '')
+		if (bodyheight < toplinkposition) {
+			document.getElementById('toplinkcontainer').style.display = "none"
+		}
+	}
+//]]>
+</script>
+<script type="text/javascript" src="http://server1.dmfacts.nl/cgi-bin/lotto/script.pjs?name=Home.Trekkingen.Bekijk+de+laatste+trekking"></script>
+<noscript><img src="http://server1.dmfacts.nl/cgi-bin/lotto/log.pgif?name=Home.Trekkingen.Bekijk+de+laatste+trekking&amp;script=no" alt="" /></noscript>
+</body>
+</html>

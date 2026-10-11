@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>uitslagen</TITLE>
+<LINK REL="stylesheet" TYPE="text/css" HREF="css/style.css">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="art/bg_content.gif" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TOPMARGIN="0">
+<img src="art/mpt.gif" width="2" height="2" alt="" border="0"><br>
+<img src="art/vvpheaders/balk_groen.gif" width="283" height="44" alt="" border="0"><br>
+<img src="art/vvpheaders/lottouit_subpag.gif" width="283" height="41" alt="" border="0">
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="10">
+<TR>
+	<TD class="tekst"  ALIGN="left" VALIGN="top">
+			
+De gegevens op deze pagina zijn allen onder voorbehoud van (type)fouten<BR><B>datum Lotto-trekking: zaterdag 24 november 2001</B><P>
+<IMG SRC="art/uitslagen/balletjes/1.gif" NAME="img_getal1" WIDTH="34" HEIGHT="34" ALT="(1)"> <IMG SRC="art/uitslagen/balletjes/12.gif" NAME="img_getal2" WIDTH="34" HEIGHT="34" ALT="(12)"> <IMG SRC="art/uitslagen/balletjes/20.gif" NAME="img_getal3" WIDTH="34" HEIGHT="34" ALT="(20)"> <IMG SRC="art/uitslagen/balletjes/21.gif" NAME="img_getal4" WIDTH="34" HEIGHT="34" ALT="(21)"> <IMG SRC="art/uitslagen/balletjes/24.gif" NAME="img_getal5" WIDTH="34" HEIGHT="34" ALT="(24)"> <IMG SRC="art/uitslagen/balletjes/34.gif" NAME="img_getal6" WIDTH="34" HEIGHT="34" ALT="(34)"> <IMG SRC="art/mpt.gif" WIDTH="20" HEIGHT="1" ALT=""><IMG SRC="art/uitslagen/bonus.gif" WIDTH="90" HEIGHT="34" ALT="Bonusgetal: "><IMG SRC="art/uitslagen/balletjes/44.gif" NAME="img_bonus" WIDTH="34" HEIGHT="34" ALT="(44)"><BR>
+<IMG SRC="art/mpt.gif" WIDTH="1" HEIGHT="10" ALT=""><BR><IMG SRC="art/uitslagen/jackpot.gif" WIDTH="80" HEIGHT="34" ALT="Jackpot:"> <IMG SRC="art/uitslagen/balletjes/kleurpaars.gif"NAME="img_jackpot" WIDTH="100" HEIGHT="34" ALT="paars">		</TD>
+	</TR>
+</TABLE>
+
+<img src="art/vvpheaders/eurouit_subpag.gif" width="283" height="41" alt="" border="0">	
+	
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="10">
+<TR>
+	<TD class="tekst" ALIGN="left" VALIGN="top">
+<IMG SRC="art/euro.gif" WIDTH="38" HEIGHT="39" ALT=""> <IMG SRC="art/uitslagen/balletjes/4.gif" NAME="img_getal0" WIDTH="34" HEIGHT="34" ALT="(4)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/2.gif" NAME="img_getal1" WIDTH="34" HEIGHT="34" ALT="(2)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/1.gif" NAME="img_getal2" WIDTH="34" HEIGHT="34" ALT="(1)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/8.gif" NAME="img_getal3" WIDTH="34" HEIGHT="34" ALT="(8)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/0.gif" NAME="img_getal4" WIDTH="34" HEIGHT="34" ALT="(0)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/7.gif" NAME="img_getal5" WIDTH="34" HEIGHT="34" ALT="(7)" VSPACE="4"> <p><a href='/con_ui.phtml?id=588'>&lt;&lt; vorige</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href='/con_ui.phtml?id=590'>volgende &gt;&gt;</a> </p>		</TD>
+	</TR>
+</TABLE>
+	</TD>
+</TR>
+</TABLE>
+
+
+</BODY>
+</HTML>

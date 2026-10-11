@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>uitslagen</TITLE>
+<LINK REL="stylesheet" TYPE="text/css" HREF="css/style.css">
+<style type="text/css">
+body {
+ background-repeat: no-repeat; 
+   background-attachment: fixed;
+   background-position:top left;
+   }
+ </style>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="art/bg_content.gif" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" TOPMARGIN="0">
+<img src="art/mpt.gif" width="2" height="2" alt="" border="0"><br>
+<img src="art/vvpheaders/balk_groen.gif" width="283" height="44" alt="" border="0"><br>
+<img src="art/vvpheaders/lottouit_subpag.gif" width="283" height="41" alt="" border="0"><br>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="10">
+<TR>
+	<TD class="tekst"  ALIGN="left" VALIGN="top">
+			
+De gegevens op deze pagina zijn allen onder voorbehoud van (type)fouten<BR><B>datum Lotto-trekking: zaterdag 13 juli 2002</B><P>
+<IMG SRC="art/uitslagen/balletjes/4.gif" NAME="img_getal1" WIDTH="34" HEIGHT="34" ALT="(4)"> <IMG SRC="art/uitslagen/balletjes/8.gif" NAME="img_getal2" WIDTH="34" HEIGHT="34" ALT="(8)"> <IMG SRC="art/uitslagen/balletjes/17.gif" NAME="img_getal3" WIDTH="34" HEIGHT="34" ALT="(17)"> <IMG SRC="art/uitslagen/balletjes/29.gif" NAME="img_getal4" WIDTH="34" HEIGHT="34" ALT="(29)"> <IMG SRC="art/uitslagen/balletjes/42.gif" NAME="img_getal5" WIDTH="34" HEIGHT="34" ALT="(42)"> <IMG SRC="art/uitslagen/balletjes/44.gif" NAME="img_getal6" WIDTH="34" HEIGHT="34" ALT="(44)"> <IMG SRC="art/mpt.gif" WIDTH="20" HEIGHT="1" ALT=""><IMG SRC="art/uitslagen/bonus.gif" WIDTH="90" HEIGHT="34" ALT="Bonusgetal: "><IMG SRC="art/uitslagen/balletjes/18.gif" NAME="img_bonus" WIDTH="34" HEIGHT="34" ALT="(18)"><BR>
+<IMG SRC="art/mpt.gif" WIDTH="1" HEIGHT="10" ALT=""><BR><IMG SRC="art/uitslagen/jackpot.gif" WIDTH="80" HEIGHT="34" ALT="Jackpot:"> <IMG SRC="art/uitslagen/balletjes/kleurgeel.gif"NAME="img_jackpot" WIDTH="100" HEIGHT="34" ALT="geel"><br><!-- 		</TD>
+	</TR>
+</TABLE> -->
+
+<img src="art/vvpheaders/eurouit_subpag.gif" width="283" height="41" alt="" border="0"><br>	
+	
+<!-- <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="10">
+<TR>
+	<TD class="tekst" ALIGN="left" VALIGN="top"> -->
+<IMG SRC="art/euro.gif" WIDTH="38" HEIGHT="39" ALT=""> <IMG SRC="art/uitslagen/balletjes/4.gif" NAME="img_getal0" WIDTH="34" HEIGHT="34" ALT="(4)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/9.gif" NAME="img_getal1" WIDTH="34" HEIGHT="34" ALT="(9)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/7.gif" NAME="img_getal2" WIDTH="34" HEIGHT="34" ALT="(7)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/1.gif" NAME="img_getal3" WIDTH="34" HEIGHT="34" ALT="(1)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/3.gif" NAME="img_getal4" WIDTH="34" HEIGHT="34" ALT="(3)" VSPACE="4"> <IMG SRC="art/uitslagen/balletjes/6.gif" NAME="img_getal5" WIDTH="34" HEIGHT="34" ALT="(6)" VSPACE="4"> <br><a href="http://www.kijkersvraag.nl/" target="_blank"><img src="art/uitslagen/happy_hour.gif" width="37" height="50" alt="" border="0" align="left"></a><img src="art/spacer.gif" width="1" height="2" alt="" border="0"><br>Nog meer leuke spelletjes spelen en prijzen winnen? <br>Kijk naar Happy Hour. Elke dag, behalve zondag, <br>tussen 11 en 12 uur op SBS6.<p><a href='/con_ui.phtml?id=631'>&lt;&lt; vorige</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href='/con_ui.phtml?id=633'>volgende &gt;&gt;</a> </p>		</TD>
+	</TR>
+</TABLE>
+	</TD>
+</TR>
+</TABLE>
+
+
+</BODY>
+</HTML>

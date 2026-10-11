@@ -1,0 +1,1562 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<BODY BACKGROUND="http://www.lotto.nl//background.gif" BGCOLOR="#FFFF33">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+		
+			
+		
+		
+		
+			
+		
+		
+		
+	
+
+    
+    
+
+    
+
+		
+	
+	
+
+
+
+	
+    
+    
+    
+    
+	
+	
+    
+    
+    
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+   	   
+       
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	    
+		
+		
+		
+		
+		
+	       
+		
+			
+		
+		
+	    
+		
+		
+		
+		
+		
+		   
+			
+			
+		
+	  
+	
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<HTML>
+<TITLE></TITLE>
+<HEAD></HEAD>
+
+<BODY BACKGROUND="http://www.lotto.nl//background.gif" BGCOLOR="#FFFF33">
+
+
+<SCRIPT LANGUAGE="JavaScript">
+Name = navigator.appName;
+Version = parseInt(navigator.appVersion);
+if (Version >= 3)
+        Browser = "n3";
+else
+        Browser = "n2";
+if (Browser == "n3") {
+        toto0        = new Image(75,25);
+        toto0.src    = "/site/graphics/toto_mo.gif";
+        toto1        = new Image(75,25);
+        toto1.src    = "/site/graphics/toto.gif";
+
+        lotto0        = new Image(65,25);
+        lotto0.src    = "/site/graphics/lotto_gif_mo.gif";
+        lotto1        = new Image(65,25);
+        lotto1.src    = "/site/graphics/lotto_gif.gif";
+
+        lucky100        = new Image(99,25);
+        lucky100.src    = "/site/graphics/lucky_mo.gif";
+        lucky101        = new Image(99,25);
+        lucky101.src    = "/site/graphics/lucky.gif";
+
+        kras0        = new Image(107,25);
+        kras0.src    = "/site/graphics/kras_mo.gif";
+        kras1        = new Image(107,25);
+        kras1.src    = "/site/graphics/kras.gif";
+
+        nieuws0        = new Image(68,90);
+        nieuws0.src    = "/site/graphics/news_01.gif";
+        nieuws1        = new Image(68,90);
+        nieuws1.src    = "/site/graphics/news_03.gif";
+
+        mail0        = new Image(66,95);
+        mail0.src    = "/site/graphics/mail.gif";
+        mail1        = new Image(66,95);
+        mail1.src    = "/site/graphics/mail_mo.gif";
+		
+}
+
+function verander(Naam,No) { if (Browser == "n3") document [Naam].src = eval(Naam + No + ".src"); }
+
+
+
+function lottoland()
+{
+        if (navigator.appName == "Netscape") {
+                window2=open("download.html", "infoWindow", "scrollbars=0,width=600,height=385")
+        }
+        else {
+            window2=open("download.html","infoWindow", "scrollbars=0,width=600,height=385")
+        }
+}
+//-->
+
+</SCRIPT>
+
+		 
+		       
+
+<TABLE WIDTH="100%" ><TR><td align="LEFT"><IMG SRC="/Site/graphics/logo/lotto_jackpot.gif" BORDER=0 alt=""></TD></TR></TABLE>    
+
+
+
+
+<FONT SIZE=-1>De gegevens op deze pagina's zijn allen onder
+voorbehoud van (type)fouten</FONT><BR><BR><STRONG><BR>
+Uitslag Lotto van   Zaterdag 19  februari 2000 
+</STRONG>
+<TABLE border=0 WIDTH=400><TR><TD>
+
+
+<HR><TABLE WIDTH="600" BORDER="0" CELLSPACING="4" CELLPADDING="2" ALIGN="CENTER">
+<tr valign="MIDDLE">
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/5.gif" Alt="5" WIDTH=47 HEIGHT=46 BORDER=0></TD>
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/7.gif" Alt="7" WIDTH=47 HEIGHT=46 BORDER=0></TD>
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/11.gif" Alt="11" WIDTH=47 HEIGHT=46 BORDER=0></TD>
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/18.gif" Alt="18" WIDTH=47 HEIGHT=46 BORDER=0></TD>
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/24.gif" Alt="24" WIDTH=47 HEIGHT=46 BORDER=0></TD>
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/42.gif" Alt="42" WIDTH=47 HEIGHT=46 BORDER=0></TD>
+<td valign="MIDDLE"><FONT COLOR=RED><B>Bonusgetal:</TD>
+<TD valign="MIDDLE"><IMG SRC="/site/graphics/balletjes/44.gif"  Alt="44" WIDTH=47 HEIGHT=46 BORDER=0></TD><TD></TD></TR>
+</TABLE><HR>
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+	<P>
+	Wijs met je muis op een balkje boven een getal en bekijk hoe vaak het getal in het verleden is gevallen.
+	</P><TABLE border="1" cellspacing="0" cellpadding="0" bgcolor="Black" bordercolor="Black" bordercolorlight="Black" bordercolordark="Black">
+		<TR>
+			<TD>
+				<TABLE cellspacing="0" cellpadding="1" border="0">
+					<TR>
+						<TD valign="bottom" bgcolor="white" colspan="47">&nbsp;
+						</TD>
+					</TR>
+					<TR>
+						<TD valign="bottom" bgcolor="white">&nbsp;
+						</TD>
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="44 x" height="18" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="38 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="29 x" height="12" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="38 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="33 x" height="13" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="32 x" height="13" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="48 x" height="20" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="37 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="35 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="44 x" height="18" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="41 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="29 x" height="12" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="33 x" height="13" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="34 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="50 x" height="20" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="36 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="42 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="35 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="37 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="34 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="34 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="43 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="38 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="37 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="31 x" height="12" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="42 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="30 x" height="12" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="36 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="35 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="38 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="34 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="39 x" height="16" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="38 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="41 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="49 x" height="20" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="34 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="30 x" height="12" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="37 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="41 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="37 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="35 x" height="14" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="41 x" height="17" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="38 x" height="15" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="22 x" height="9" src="pixel.gif" width="12">
+								</TD>
+							
+						
+							
+								<TD valign="bottom" bgcolor="white"><IMG alt="44 x" height="18" src="pixel.gif" width="12">
+								</TD>
+							
+						
+</FONT>
+						<TD valign="bottom" bgcolor="white">&nbsp;
+						</TD>
+					</TR>
+					<TR bgcolor="#ffcc33">
+						<TD>&nbsp;
+						</TD>
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>1</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>2</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>3</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>4</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>5</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>6</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>7</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>8</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>9</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>10</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>11</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>12</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>13</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>14</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>15</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>16</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>17</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>18</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>19</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>20</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>21</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>22</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>23</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>24</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>25</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>26</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>27</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>28</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>29</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>30</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>31</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>32</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>33</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>34</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>35</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>36</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>37</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>38</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>39</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>40</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>41</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>42</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>43</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>44</SUP></FONT>
+								</TD>
+							
+						
+							
+								<TD><FONT face="Tahoma" size="3"><SUP>45</SUP></FONT>
+								</TD>
+							
+						
+						<TD>&nbsp;
+						</TD>
+					</TR>
+				</TABLE>
+			</TD>
+		</TR>
+	</TABLE><BR><BR>
+<BR>
+<p>
+Op zoek naar een bepaalde trekking?
+</P>
+<FORM action="/site/Uitslagen/default.cfm?Productid=1&function=QueryDate" method="post" name="date">
+	<TABLE border="1" cellpadding="0" cellspacing="0" bgcolor="#000000" bordercolor="#000000" bordercolordark="#000000" bordercolorlight="#000000">
+		<TR>
+			<TD>
+				<TABLE border="0" cellpadding="3" cellspacing="0">
+					<TR>
+						<TD bgcolor="#FFCC33" align="left">
+						
+						<A href="/site/Uitslagen/default.cfm?Productid=1&Detailid=2794&function=PreviewFromId">
+						Vorige</A>
+						</TD>
+						<TD bgcolor="#FFCC33">Zoeken op datum
+						</TD>
+						<TD bgcolor="#FFCC33" align="right">
+     					
+                            <A href="/site/Uitslagen/default.cfm?Productid=1&Detailid=2807&function=PreviewFromId">
+						Volgende</A>
+						</TD>
+					</TR>
+					<TR>
+						<TD bgcolor="#FFFFFF" colspan="3">
+							<TABLE border="0">
+								<TR>
+									<TD>Dag
+									</TD>
+									<TD>Maand
+									</TD>
+									<TD>Jaar
+									</TD>
+									<TD>&nbsp;
+									</TD>
+								</TR>
+								<TR>
+									<TD valign="top">
+										<SELECT name="searchday" size="1">
+											
+												<OPTION  >01
+											
+												<OPTION  >02
+											
+												<OPTION  >03
+											
+												<OPTION  >04
+											
+												<OPTION  >05
+											
+												<OPTION  >06
+											
+												<OPTION SELECTED  >07
+											
+												<OPTION  >08
+											
+												<OPTION  >09
+											
+												<OPTION  >10
+											
+												<OPTION  >11
+											
+												<OPTION  >12
+											
+												<OPTION  >13
+											
+												<OPTION  >14
+											
+												<OPTION  >15
+											
+												<OPTION  >16
+											
+												<OPTION  >17
+											
+												<OPTION  >18
+											
+												<OPTION  >19
+											
+												<OPTION  >20
+											
+												<OPTION  >21
+											
+												<OPTION  >22
+											
+												<OPTION  >23
+											
+												<OPTION  >24
+											
+												<OPTION  >25
+											
+												<OPTION  >26
+											
+												<OPTION  >27
+											
+												<OPTION  >28
+											
+												<OPTION  >29
+											
+												<OPTION  >30
+											
+												<OPTION  >31
+											
+										</SELECT>
+									</TD>
+									<TD valign="top">
+										<SELECT name="searchmonth" size="1">
+											
+												
+													<OPTION value="01" >januari
+											
+												
+													<OPTION value="02" > februari
+											
+												
+													<OPTION value="03" > maart
+											
+												
+													<OPTION value="04" > april
+											
+												
+													<OPTION value="05" > mei
+											
+												
+													<OPTION value="06" SELECTED  > juni
+											
+												
+													<OPTION value="07" > juli
+											
+												
+													<OPTION value="08" > augustus
+											
+												
+													<OPTION value="09" > september
+											
+												
+													<OPTION value="10" > oktober
+											
+												
+													<OPTION value="11" > november
+											
+												
+													<OPTION value="12" > december
+											
+										</SELECT>
+									</TD>
+									<TD valign="top">
+										<SELECT name="searchyear" size="1">
+											
+												<OPTION  >1996
+											
+												<OPTION  >1997
+											
+												<OPTION  >1998
+											
+												<OPTION  >1999
+											
+												<OPTION SELECTED >2000
+											
+												<OPTION  >2001
+											
+												<OPTION  >2002
+											
+												<OPTION  >2003
+											
+												<OPTION  >2004
+											
+												<OPTION  >2005
+											
+												<OPTION  >2006
+											
+												<OPTION  >2007
+											
+												<OPTION  >2008
+											
+												<OPTION  >2009
+											
+												<OPTION  >2010
+											
+										</SELECT>
+									</TD>
+									<TD valign="top">
+										<INPUT type="Submit" name="Zoek" value="Zoek">
+									</TD>
+								</TR>
+							</TABLE>
+						</TD>
+					</TR>
+				</TABLE>
+			</TD>
+		</TR>
+	</TABLE><BR><BR>
+</FORM>
+		<TABLE border="1" cellspacing="0" cellpadding="0" bgcolor="Black" bordercolor="Black" bordercolorlight="Black" bordercolordark="Black">
+		<TR>
+			<TD>
+				<TABLE border="0" cellpadding="3" cellspacing="0">
+					<TR>
+						<TD bgcolor="#ffcc33">Minst gevallen
+						</TD>
+					</TR>
+					
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+44
+                                <FONT size="-2">(22x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+12
+                                <FONT size="-2">(29x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+3
+                                <FONT size="-2">(29x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+27
+                                <FONT size="-2">(30x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+37
+                                <FONT size="-2">(30x)
+								
+							</TD>
+						</TR>
+					
+				</TABLE>
+			</TD>
+			<TD>
+				<TABLE border="0" cellpadding="3" cellspacing="0">
+					<TR>
+						<TD bgcolor="#ffcc33">Meest gevallen
+						</TD>
+					</TR>
+					
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+15
+                                <FONT size="-2">(50x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+35
+                                <FONT size="-2">(49x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+7
+                                <FONT size="-2">(48x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+45
+                                <FONT size="-2">(44x)
+								
+							</TD>
+						</TR>
+					
+						<TR>
+							<TD bgcolor="#FFFFFF">
+								
+1
+                                <FONT size="-2">(44x)
+								
+							</TD>
+						</TR>
+					
+				</TABLE>
+			</TD>
+		</TR>
+	</TABLE>
+<P>
+	<FORM action="/site/uitslagen/default.cfm?productid=1&function=QueryCombi" method="post" name="combi">
+
+	<TABLE border="1" cellpadding="0" cellspacing="0" bgcolor="#000000" bordercolor="#000000" bordercolordark="#000000" bordercolorlight="#000000">
+		<TR>
+			<TD>
+				<TABLE border="0" cellpadding="3" cellspacing="0">
+					<TR>
+						<TD bgcolor="#ffcc33">Wanneer is een 
+                        getal of combinatie voor het laatst 
+                        gevallen ?
+						</TD>
+					</TR>
+					<TR>
+						<TH nowrap bgcolor="white">
+<INPUT name="combi" value="" size="2">
+<INPUT name="combi" value="" size="2">
+<INPUT name="combi" value="" size="2">
+<INPUT name="combi" value="" size="2">
+<INPUT name="combi" value="" size="2">
+<INPUT type="submit" name="Zoek" value="Zoek ->">  
+
+			</TD>
+		</TR>
+	</TABLE>
+</TD>
+</TR>
+</TABLE>
+</FORM>
+	
+	
+</TD></TR>             
+
+<TR><TD>
+
+
+<TABLE CELLSPACING=10>
+<TR>
+
+  
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/poort.cfm"><IMG SRC="/MediaItems/zon_blauw.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/poort.cfm">Homepage</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/Uitslagen/default.cfm?function=all"><IMG SRC="/MediaItems/zon_groen.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/Uitslagen/default.cfm?function=all">Alle Uitslagen</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/delotto.htm"><IMG SRC="/MediaItems/zon_blauw.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/delotto.htm">Waar gaat de opbrengst heen ?</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+   <TD VALIGN=TOP WIDTH="25%">
+   <CENTER><A HREF="/site/winkeliers"><IMG SRC="/MediaItems/zon_roze.gif" BORDER=0 Height="43" Width="44"></A></CENTER>
+   <CENTER><FONT SIZE=-1><A HREF="/site/winkeliers">Uw Kansspel-winkelier</A></FONT><I>&nbsp;</I></CENTER>
+   </TD>
+   
+
+</TR>
+
+</TABLE>
+
+
+
+
+</TD></TR>
+</TABLE> 
+
+
+</body>
+</html>  
+
+
+
+

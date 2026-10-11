@@ -1,0 +1,2261 @@
+<!DOCTYPE html>
+<html class="no-js has-navbar-fixed-top" lang="en">
+
+
+
+
+
+
+<head>
+    <title>Netherlands Lottery Results and Winning Numbers</title>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" >
+    <meta name="google-site-verification" content="HZTNnMGWQ1EOiUoTyy0bRYsY-LI50KopmdFlD2sqhwE"/>
+    <meta content="Netherlands Lottery Results and Winning Numbers" property="og:title" />
+    <meta content="https://lotteryguru.com/netherlands-lottery-results" property="og:url"/>
+    
+        <meta content="Latest Netherlands lottery results for EUROJACKPOT ✔, LOTTO ✔, LOTTO XL ✔, LUCKY DAY ✔. All the information you need about lotteries in Netherlands. " property="og:description"/>
+        <meta content="Latest Netherlands lottery results for EUROJACKPOT ✔, LOTTO ✔, LOTTO XL ✔, LUCKY DAY ✔. All the information you need about lotteries in Netherlands. " property="description"/>
+        <meta name="description" content="Latest Netherlands lottery results for EUROJACKPOT ✔, LOTTO ✔, LOTTO XL ✔, LUCKY DAY ✔. All the information you need about lotteries in Netherlands. ">
+    
+    <meta content="lotteryguru.com" property="og:site_name"/>
+    <meta content="en" property="og:locale"/>
+    <meta content="lotteryguru.com" name="author"/>
+    <meta content="summary_large_image" name="twitter:card"/>
+
+    
+    <meta property="og:image" content="/static/assets/images/fb-share-homepage-9cdd35ce6aee9a5fb74d38077b7fa0c5.png">
+    
+
+    
+        <meta name="robots" content="index, follow" />
+    
+
+    
+
+
+    <link href="/static/assets/styles-fba469fc99df88d582c2248d8e2626f7.css"  rel="stylesheet"/>
+    <link href="/static/assets/vendors-3545010909d35dcfd4b2ce7709ae5e4b.css" rel="stylesheet"/>
+    <link rel="canonical" href="https://lotteryguru.com/netherlands-lottery-results"/>
+    
+        <link rel="alternate" hreflang="en" href="https://lotteryguru.com/netherlands-lottery-results"/>
+    
+        <link rel="alternate" hreflang="es" href="https://loteria.guru/resultados-loteria-paises-bajos"/>
+    
+        <link rel="alternate" hreflang="pt" href="https://loteriaguru.com/holanda-resultados-loteria"/>
+    
+        <link rel="alternate" hreflang="ru" href="https://loterejaguru.com/rezultaty-loterej-niderlandi"/>
+    
+        <link rel="alternate" hreflang="de" href="https://lottoguru.de/lottozahlen-niederlande"/>
+    
+
+    <link rel="apple-touch-icon" sizes="180x180"  href="/static/assets/images/favicon/apple-touch-icon-607ba1bc6425f72462b7e2aa5bfac058.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/assets/images/favicon/favicon-32x32-b6b8234299cba59e030f00e1301ebdd8.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/assets/images/favicon/favicon-16x16-a96c59262638de3fe019b80607506822.png">
+    <link rel="manifest" href="/static/assets/images/favicon/site-332b39d35c9a9f96f49ba62ac1574c44.webmanifest">
+
+    <script src="//cdn.jsdelivr.net/npm/js-cookie@rc"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script>
+            function browserSupportsAllFeatures() {
+                return Array.prototype.entries && window.IntersectionObserver && window.fetch;
+            }
+
+            function loadScript(src, done) {
+                var js = document.createElement('script');
+                js.src = src;
+                js.onload = function () {
+                    done();
+                };
+                js.onerror = function () {
+                    done(new Error('Failed to load script ' + src));
+                };
+                document.head.appendChild(js);
+            }
+    </script>
+
+    
+
+    
+    
+
+
+
+    
+
+        
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-5ZDRTSV' );
+
+        </script>
+        
+
+    
+
+
+ <script>
+
+   function redirectToBannerExit(exitUrl){
+     fetch(exitUrl)
+     .then(e => console.log("Done " + exitUrl));
+   }
+    const message = "Close";
+    function showImagePopup (url) {
+       Swal.fire({
+          imageUrl: url,
+          imageAlt: 'A tall image',
+          grow : 'fullscreen',
+          showConfirmButton : true,
+          confirmButtonText : message,
+          confirmButtonColor : 'black',
+          showCloseButton : true
+       });
+    }
+
+    function handleClick (e){
+        const url = e.target.getAttribute("href");
+        showImagePopup(url);
+    }
+
+    function attachEvents (){
+        const popups = document.querySelector(".popup");
+
+        for(let cur of popups){
+          cur.onclick  = handleClick;
+        }
+    }
+
+      function showPrizePayoutPopup (id) {
+            const prizeDiv = document.querySelector('#prize' + id);
+            const message = "Close";
+               Swal.fire({
+                      html : prizeDiv.innerHTML,
+                      showConfirmButton : true,
+                      confirmButtonText : message,
+                      confirmButtonColor : 'black',
+                      showCloseButton : true
+               });
+     }
+
+
+
+    </script>
+
+
+
+
+
+</head>
+
+
+<body>
+
+
+
+    <div style="display : none" id="frontendDay">day</div>
+
+    <div style="display : none" id="frontendDays">days</div>
+    
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZDRTSV"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    
+
+
+    
+
+
+    <header class="lg-header">
+
+        <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+            
+                <div id="lg-announcement-bar">
+                    <div class="message">&#8702; <a href='https://lotteryguru.com/best-online-lottery-sites' class='message'>Play Biggest US Lotteries</a> &#8701;</div>
+                </div>
+            
+
+
+            <div class="navbar-brand">
+                <a class="lg-logo navbar-item" href="/">
+                    
+                        <img src="/static/assets/images/lotteryguru-logo2x-297581d4cc99aad3846731e58aa9b8f2.png"
+                             alt="Lottery Guru - The Ultimate Guide to World Lotteries"/>
+                    
+
+                </a>
+                <a id="burger" role="button" class="lg-hamburger navbar-burger burger" aria-label="menu"
+                   aria-expanded="false" data-target="navMenu">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+            <div id="navMenu" class="navbar-menu">
+                <div class="navbar-start">
+                    <a class="navbar-item" href="/">
+                        <img src="/static/assets/images/ico-home-48x48-8754b1fff36ebd07d47a83ecff7ccdbd.svg" alt="ico-home-48x48" class="lg-icon"/>
+                        <span>Home</span>
+                    </a>
+                    <a class="navbar-item" href="/mexico-lottery-results">
+                        <img src="/static/assets/images/ico-results-48x48-714579a11a86370dea77e4ce2208ab03.svg" alt="ico-results-48x48"
+                             class="lg-icon"/>
+                        <span>Results</span>
+                    </a>
+
+                    
+                        <a class="navbar-item" href="/best-online-lottery-sites">
+                            <img src="/static/assets/images/ico-agents-48x48-7cfd829ee91f1ee0bc7bdc08ead0d04e.svg" alt="ico-agents-48x48"
+                                 class="lg-icon"/>
+                            Best Online Lottery Sites
+                        </a>
+                    
+
+                    <a class="navbar-item" href="/world-lotteries">
+                        <img src="/static/assets/images/ico-worldlotteries-48x48-f583b4797838e75be0efbf846cae7d85.svg"
+                             alt="ico-worldlotteries-48x48" class="lg-icon"/>
+                        World Lotteries
+                    </a>
+
+                    <a class="navbar-item" href="/jackpots">
+                        <img src="/static/assets/images/ico-jackpot-48x48-07fbe6bc0c8b9a2ad6f6474ee0aac5a8.svg" alt="ico-jackpot-48x48"
+                             class="lg-icon"/>
+                        Jackpots
+                    </a>
+
+<!--                    <a class="navbar-item navbar-item-highlighted" th:href="${scratchAndWinUrl}"-->
+<!--                       th:if="${showScratchAndWin}">-->
+<!--                        <img th:src="@{/static/assets/images/ico-scratch-and-win-48x48.svg}"-->
+<!--                             alt="ico-scratch-and-win-48x48" class="lg-icon"/>-->
+<!--                        <th:block th:utext="#{frontend.navMenu.scratchAndWin}">-->
+
+<!--                        </th:block>-->
+<!--                    </a>-->
+                    <!--                <a class="navbar-item navbar-item-highlighted" th:href="${gamesUrl}">-->
+                    <!--                    <img th:src="@{/static/assets/images/ico-scratch-and-win-48x48.svg}" alt="ico-scratch-and-win-48x48" class="lg-icon"/>-->
+                    <!--                    <th:block th:utext="#{frontend.navMenu.games}">-->
+
+                    <!--                    </th:block>-->
+                    <!--                </a>-->
+                </div>
+
+                <div class="navbar-end">
+
+                    <div class="dropdown is-hoverable lg-flags">
+
+                        <div class="dropdown-trigger">
+                            <button class="" aria-haspopup="true" aria-controls="dropdown-menu3">
+                                
+                                    
+
+
+                                        <img class="lg-flag"
+                                             src="/static/assets/images/flags/en-db68882cbf4beac3f3ee3923f1a91b82.svg"
+                                             alt="en"/>
+                                        <span>en</span>
+                                        <span class="icon">
+                                            <i class="fas fa-lg fa-caret-down" aria-hidden="true"></i>
+                                        </span>
+
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+                                    
+                                
+
+
+                            </button>
+                        </div>
+
+                        <div class="dropdown-menu" id="dropdown-menu3" role="menu">
+
+                            <div class="dropdown-content">
+
+                                
+                                    
+                                        <a href="https://lotteryguru.com/netherlands-lottery-results"
+                                           class="dropdown-item is-active">
+                                            <img class="lg-flag"
+                                                 src="/static/assets/images/flags/en-db68882cbf4beac3f3ee3923f1a91b82.svg"
+                                                 alt="en"/>
+                                            <span>English</span>
+                                        </a>
+                                    
+                                    
+
+                                
+                                    
+                                    
+
+                                        <a href="https://loteria.guru/resultados-loteria-paises-bajos"
+
+                                           class="dropdown-item">
+
+                                            <img class="lg-flag"
+                                                 src="/static/assets/images/flags/es-a62a83f37b05e303205142ff51d7a990.svg"
+                                                 alt="es"/>
+                                            <span>Spanish</span> </a>
+
+                                    
+
+                                
+                                    
+                                    
+
+                                        <a href="https://loterejaguru.com/rezultaty-loterej-niderlandi"
+
+                                           class="dropdown-item">
+
+                                            <img class="lg-flag"
+                                                 src="/static/assets/images/flags/ru-562474efbaa31ee8de76df31c4bd2116.svg"
+                                                 alt="ru"/>
+                                            <span>Russian</span> </a>
+
+                                    
+
+                                
+                                    
+                                    
+
+                                        <a href="https://loteriaguru.com/holanda-resultados-loteria"
+
+                                           class="dropdown-item">
+
+                                            <img class="lg-flag"
+                                                 src="/static/assets/images/flags/pt-23c03a16d37a9f3adc973d8cab4da97c.svg"
+                                                 alt="pt"/>
+                                            <span>Portuguese</span> </a>
+
+                                    
+
+                                
+                                    
+                                    
+
+                                        <a href="https://lottoguru.de/lottozahlen-niederlande"
+
+                                           class="dropdown-item">
+
+                                            <img class="lg-flag"
+                                                 src="/static/assets/images/flags/de-5c9661f66b30896a0667a78ea18f2847.svg"
+                                                 alt="de"/>
+                                            <span>German</span> </a>
+
+                                    
+
+                                
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+<main class="lg-results">
+
+    <section class="hero">
+        <div class="hero-body">
+            <div class="container">
+                <html>
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+    <ul>
+        
+
+            <li class="has-text-weight-bold">
+                <a href="http://lotteryguru.com">Home</a>
+            </li>
+
+            
+        
+
+            
+
+            <li class="is-active">
+                <a href="/" aria-current="page">Results</a>
+            </li>
+        
+
+    </ul>
+</nav>
+</html>
+                <h1>Netherlands Lottery Results</h1>
+
+                <p>Latest Netherlands lottery results for EUROJACKPOT ✔, LOTTO ✔, LOTTO XL ✔, LUCKY DAY ✔. All the information you need about lotteries in Netherlands. </p>
+            </div>
+        </div>
+
+    </section>
+
+    
+
+    <section class="container lg-cards">
+        <div class="container">
+            <div class="columns is-gapless is-vcentered">
+                <div class="column is-two-thirds">
+                    <h2>Netherlands Winning Numbers</h2>
+
+                </div>
+                <div class="column is-one-third">
+                    <html>
+
+
+
+
+
+<script>
+
+    function changeState(e) {
+
+        const opt = e.target;
+
+        const selectedState = opt.options[opt.selectedIndex].value;
+        window.location.href = selectedState;
+    }
+
+
+</script>
+                </div>
+            </div>
+        </div>
+
+        
+
+    
+        <div class="lg-card lg-link" onclick="window.location=&#39;/netherlands-lottery-results/nl-eurojackpot&#39;;">
+
+  <div class="columns is-mobile lg-card-row">
+    <h3 class="column is-10 lg-name">Eurojackpot</h3>
+    <div class="column is-2 lg-flag">
+      
+        <img src="/static/assets/images/flags/netherlands-ebcd669e6540a2f9500d9af1847d37f2.svg" title="Netherlands"
+          alt="Netherlands Flag" />
+      
+    </div>
+    <div class="column is-12 lg-logo">
+
+      
+        <img src="https://lotteryguru.com/pict/98136/eurojackpot-lg-2x-png" alt="eurojackpot-lg-2x" />
+      
+      
+      
+
+    </div>
+  </div>
+
+
+  
+    <div class="lg-card-row">
+      <div class="lg-time">
+        <div class="lg-label">
+
+          Last Result
+        </div>
+        <span class="lg-day"><strong>Friday</strong></span>
+        <span class="lg-date">09 Oct 2026</span>
+        
+      </div>
+
+
+      
+
+      
+      
+          <ul class="lg-numbers game-number">
+          <!-- Hey Scrapper! -->
+<!-- Save time by using our API. -->
+<!-- Send us an email for more information. -->
+
+          
+            <li class="lg-number">18</li>
+          
+            <li class="lg-number">38</li>
+          
+            <li class="lg-number">41</li>
+          
+            <li class="lg-number">43</li>
+          
+            <li class="lg-number">46</li>
+          
+          
+            <li class="lg-number lg-reversed">7</li>
+          
+            <li class="lg-number lg-reversed">10</li>
+          
+        </ul>
+      
+
+
+      <div class="lg-additional-info">
+        
+        
+      </div>
+    </div>
+  
+
+
+  
+    <div class="lg-card-row lg-jackpot-info">
+      <div class="lg-label">
+        Next Draw
+      </div>
+      <div class="lg-time">
+        <span class="lg-day"><strong>Tuesday</strong></span>
+        <span class="lg-date">13 Oct 2026</span>
+        
+      </div>
+
+      
+        <div class="lg-label">
+          Next Jackpot
+        </div>
+      
+      <div class="lg-sum">120,000,000€</div>
+    </div>
+  
+  <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+
+    <a class="button" href="/netherlands-lottery-results/nl-eurojackpot">
+      <div>
+        <div>Eurojackpot</div> Results
+      </div>
+    </a>
+    
+      <a class="button is-primary exit" rel="nofollow" target="_blank"
+         id="lottery_nl-eurojackpot"
+        href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=235&amp;component=lottery">
+        <div>Buy Ticket <span> via TheLotter</span></div>
+      </a>
+    
+
+  </div>
+</div>
+
+        
+    
+        <div class="lg-card lg-link" onclick="window.location=&#39;/netherlands-lottery-results/nl-lotto&#39;;">
+
+  <div class="columns is-mobile lg-card-row">
+    <h3 class="column is-10 lg-name">Lotto</h3>
+    <div class="column is-2 lg-flag">
+      
+        <img src="/static/assets/images/flags/netherlands-ebcd669e6540a2f9500d9af1847d37f2.svg" title="Netherlands"
+          alt="Netherlands Flag" />
+      
+    </div>
+    <div class="column is-12 lg-logo">
+
+      
+        <img src="https://lotteryguru.com/pict/97052/nl-lotto-2x-png" alt="nl-lotto@2x" />
+      
+      
+      
+
+    </div>
+  </div>
+
+
+  
+    <div class="lg-card-row">
+      <div class="lg-time">
+        <div class="lg-label">
+
+          Last Result
+        </div>
+        <span class="lg-day"><strong>Saturday</strong></span>
+        <span class="lg-date">10 Oct 2026</span>
+        
+      </div>
+
+
+      
+
+      
+      
+          <ul class="lg-numbers game-number">
+          <!-- Hey Scrapper! -->
+<!-- Save time by using our API. -->
+<!-- Send us an email for more information. -->
+
+          
+            <li class="lg-number">12</li>
+          
+            <li class="lg-number">21</li>
+          
+            <li class="lg-number">22</li>
+          
+            <li class="lg-number">25</li>
+          
+            <li class="lg-number">35</li>
+          
+            <li class="lg-number">44</li>
+          
+          
+            <li class="lg-number lg-reversed">43</li>
+          
+        </ul>
+      
+
+
+      <div class="lg-additional-info">
+        
+        
+      </div>
+    </div>
+  
+
+
+  
+  <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+
+    <a class="button" href="/netherlands-lottery-results/nl-lotto">
+      <div>
+        <div>Lotto</div> Results
+      </div>
+    </a>
+    
+      <a class="button is-primary exit" rel="nofollow" target="_blank"
+         id="lottery_nl-lotto"
+        href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=lotteryOfficial&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;id=236&amp;component=lottery">
+        <div>Visit Website</div>
+      </a>
+    
+
+  </div>
+</div>
+
+        
+    
+        <div class="lg-card lg-link" onclick="window.location=&#39;/netherlands-lottery-results/nl-lotto-xl&#39;;">
+
+  <div class="columns is-mobile lg-card-row">
+    <h3 class="column is-10 lg-name">Lotto XL</h3>
+    <div class="column is-2 lg-flag">
+      
+        <img src="/static/assets/images/flags/netherlands-ebcd669e6540a2f9500d9af1847d37f2.svg" title="Netherlands"
+          alt="Netherlands Flag" />
+      
+    </div>
+    <div class="column is-12 lg-logo">
+
+      
+        <img src="https://lotteryguru.com/pict/97053/nl-lotto-xl-2x-png" alt="nl-lotto-xl@2x" />
+      
+      
+      
+
+    </div>
+  </div>
+
+
+  
+    <div class="lg-card-row">
+      <div class="lg-time">
+        <div class="lg-label">
+
+          Last Result
+        </div>
+        <span class="lg-day"><strong>Saturday</strong></span>
+        <span class="lg-date">10 Oct 2026</span>
+        
+      </div>
+
+
+      
+
+      
+      
+          <ul class="lg-numbers game-number">
+          <!-- Hey Scrapper! -->
+<!-- Save time by using our API. -->
+<!-- Send us an email for more information. -->
+
+          
+            <li class="lg-number">10</li>
+          
+            <li class="lg-number">19</li>
+          
+            <li class="lg-number">23</li>
+          
+            <li class="lg-number">38</li>
+          
+            <li class="lg-number">43</li>
+          
+            <li class="lg-number">45</li>
+          
+          
+            <li class="lg-number lg-reversed">42</li>
+          
+        </ul>
+      
+
+
+      <div class="lg-additional-info">
+        
+        
+      </div>
+    </div>
+  
+
+
+  
+  <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+
+    <a class="button" href="/netherlands-lottery-results/nl-lotto-xl">
+      <div>
+        <div>Lotto XL</div> Results
+      </div>
+    </a>
+    
+      <a class="button is-primary exit" rel="nofollow" target="_blank"
+         id="lottery_nl-lotto-xl"
+        href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=lotteryOfficial&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;id=237&amp;component=lottery">
+        <div>Visit Website</div>
+      </a>
+    
+
+  </div>
+</div>
+
+        
+
+            
+    
+
+        
+    
+        <div class="lg-card lg-link" onclick="window.location=&#39;/netherlands-lottery-results/nl-lucky-day&#39;;">
+
+  <div class="columns is-mobile lg-card-row">
+    <h3 class="column is-10 lg-name">Lucky Day</h3>
+    <div class="column is-2 lg-flag">
+      
+        <img src="/static/assets/images/flags/netherlands-ebcd669e6540a2f9500d9af1847d37f2.svg" title="Netherlands"
+          alt="Netherlands Flag" />
+      
+    </div>
+    <div class="column is-12 lg-logo">
+
+      
+      
+      
+        <h3>Lucky Day</h3>
+      
+
+    </div>
+  </div>
+
+
+  
+    <div class="lg-card-row">
+      <div class="lg-time">
+        <div class="lg-label">
+
+          Last Result
+        </div>
+        <span class="lg-day"><strong>Saturday</strong></span>
+        <span class="lg-date">10 Oct 2026</span>
+        
+      </div>
+
+
+      
+
+      
+      
+          <ul class="lg-numbers game-number">
+          <!-- Hey Scrapper! -->
+<!-- Save time by using our API. -->
+<!-- Send us an email for more information. -->
+
+          
+            <li class="lg-number">4</li>
+          
+            <li class="lg-number">5</li>
+          
+            <li class="lg-number">25</li>
+          
+            <li class="lg-number">28</li>
+          
+            <li class="lg-number">30</li>
+          
+            <li class="lg-number">32</li>
+          
+            <li class="lg-number">36</li>
+          
+            <li class="lg-number">38</li>
+          
+            <li class="lg-number">41</li>
+          
+            <li class="lg-number">44</li>
+          
+            <li class="lg-number">46</li>
+          
+            <li class="lg-number">48</li>
+          
+            <li class="lg-number">60</li>
+          
+            <li class="lg-number">64</li>
+          
+            <li class="lg-number">65</li>
+          
+            <li class="lg-number">67</li>
+          
+            <li class="lg-number">70</li>
+          
+            <li class="lg-number">76</li>
+          
+            <li class="lg-number">77</li>
+          
+            <li class="lg-number">78</li>
+          
+          
+        </ul>
+      
+
+
+      <div class="lg-additional-info">
+        
+          Bonusfactor
+        
+        
+          <span>5</span>
+        
+      </div>
+    </div>
+  
+
+
+  
+  <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+
+    <a class="button" href="/netherlands-lottery-results/nl-lucky-day">
+      <div>
+        <div>Lucky Day</div> Results
+      </div>
+    </a>
+    
+
+  </div>
+</div>
+
+        
+    
+    
+    
+
+
+
+    </section>
+
+    <section class="container">
+        <br>
+        
+    
+
+        <br>
+    </section>
+
+    <section class="container lg-cards">
+
+        <h2>World Lotteries</h2>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/united-states-lottery-results/us-powerball&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Powerball</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/united-states-936feee6e8061e6bf4006dce278384dd.svg" title="United States"
+                    alt="United States Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97460/us-powerball-2x-png" alt="us-powerball@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Monday</strong></span>
+
+                <span class="lg-date"><strong>12 Oct</strong>
+                    2026
+                </span>
+
+                <span class="lg-draw-label">Main Draw</span>
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="97894">
+
+            
+                <span>
+                    <span class="lg-days-number">1</span>
+                    <span class="lg-days">
+                        day
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">03</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">$538,000,000</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/united-states-lottery-results/us-powerball" >
+                    <div><div>Powerball</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_us-powerball"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=471&amp;component=draw">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/united-states-lottery-results/us-mega-millions&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Mega Millions</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/united-states-936feee6e8061e6bf4006dce278384dd.svg" title="United States"
+                    alt="United States Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97461/us-mega-millions-2x-png" alt="us-mega-millions@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Tuesday</strong></span>
+
+                <span class="lg-date"><strong>13 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="184294">
+
+            
+                <span>
+                    <span class="lg-days-number">2</span>
+                    <span class="lg-days">
+                        
+                        
+                            days
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">03</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">$385,000,000</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/united-states-lottery-results/us-mega-millions" >
+                    <div><div>Mega Millions</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_us-mega-millions"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=472&amp;component=draw">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/germany-lottery-results/de-eurojackpot&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Eurojackpot</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/germany-5c9661f66b30896a0667a78ea18f2847.svg" title="Germany"
+                    alt="Germany Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/98142/eurojackpot-lg-2x-png" alt="eurojackpot-lg-2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Tuesday</strong></span>
+
+                <span class="lg-date"><strong>13 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="155494">
+
+            
+                <span>
+                    <span class="lg-days-number">1</span>
+                    <span class="lg-days">
+                        day
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">19</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">120,000,000€</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/germany-lottery-results/de-eurojackpot" >
+                    <div><div>Eurojackpot</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_de-eurojackpot"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=37&amp;lotteryId=129&amp;component=draw">
+                <div>Buy Ticket <span> via Lottofy</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/canada-lottery-results/ca-lotto-max&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Lotto Max</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/canada-5d08ccab9059d0350d3777b7a708c3b8.svg" title="Canada"
+                    alt="Canada Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97467/ca-lotto-max-2x-png" alt="ca-lotto-max@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Tuesday</strong></span>
+
+                <span class="lg-date"><strong>13 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="182494">
+
+            
+                <span>
+                    <span class="lg-days-number">2</span>
+                    <span class="lg-days">
+                        
+                        
+                            days
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">02</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">41</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">$85,000,000</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/canada-lottery-results/ca-lotto-max" >
+                    <div><div>Lotto Max</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_ca-lotto-max"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=4&amp;lotteryId=417&amp;component=draw">
+                <div>Buy Ticket <span> via Lotto Agent</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/ireland-lottery-results/ie-euromillions&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">EuroMillions</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/ireland-1b45bacee15133ecc409470f4a9ef212.svg" title="Ireland"
+                    alt="Ireland Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97527/ie-euromillions-2x-png" alt="ie-euromillions@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Tuesday</strong></span>
+
+                <span class="lg-date"><strong>13 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="159094">
+
+            
+                <span>
+                    <span class="lg-days-number">1</span>
+                    <span class="lg-days">
+                        day
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">20</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">40,000,000€</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/ireland-lottery-results/ie-euromillions" >
+                    <div><div>EuroMillions</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_ie-euromillions"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=164&amp;component=draw">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/italy-lottery-results/it-superenalotto&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">SuperEnalotto</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/italy-f04de15f5111b19af062e0e7f2830950.svg" title="Italy"
+                    alt="Italy Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97462/it-superenalotto-superstar-2x-png" alt="it-superenalotto-superstar@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Tuesday</strong></span>
+
+                <span class="lg-date"><strong>13 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="151894">
+
+            
+                <span>
+                    <span class="lg-days-number">1</span>
+                    <span class="lg-days">
+                        day
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">18</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">39,500,000€</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/italy-lottery-results/it-superenalotto" >
+                    <div><div>SuperEnalotto</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_it-superenalotto"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=182&amp;component=draw">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/spain-lottery-results/es-el-gordo&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">El Gordo</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/spain-a62a83f37b05e303205142ff51d7a990.svg" title="Spain"
+                    alt="Spain Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97465/es-el-gordo-2x-png" alt="es-el-gordo@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Sunday</strong></span>
+
+                <span class="lg-date"><strong>18 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="589294">
+
+            
+                <span>
+                    <span class="lg-days-number">6</span>
+                    <span class="lg-days">
+                        
+                        
+                            days
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">19</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">41</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">19,300,000€</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/spain-lottery-results/es-el-gordo" >
+                    <div><div>El Gordo</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_es-el-gordo"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=354&amp;component=draw">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/canada-lottery-results/ca-lotto-6-49&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Lotto 6/49</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/canada-5d08ccab9059d0350d3777b7a708c3b8.svg" title="Canada"
+                    alt="Canada Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97466/ca-lotto-6x49-2x-png" alt="ca-lotto-6x49@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Wednesday</strong></span>
+
+                <span class="lg-date"><strong>14 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="268894">
+
+            
+                <span>
+                    <span class="lg-days-number">3</span>
+                    <span class="lg-days">
+                        
+                        
+                            days
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">02</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">41</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+        <div class="lg-card-row lg-jackpot-info">
+            <div class="lg-label">Next Jackpot</div>
+            <div class="lg-sum">$22,000,000</div>
+        </div>
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/canada-lottery-results/ca-lotto-6-49" >
+                    <div><div>Lotto 6/49</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_ca-lotto-6-49"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=415&amp;component=draw">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/brazil-lottery-results/br-mega-sena&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Mega Sena</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/brazil-23c03a16d37a9f3adc973d8cab4da97c.svg" title="Brazil"
+                    alt="Brazil Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97464/br-mega-sena-2x-png" alt="br-mega-sena@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Tuesday</strong></span>
+
+                <span class="lg-date"><strong>13 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="169894">
+
+            
+                <span>
+                    <span class="lg-days-number">1</span>
+                    <span class="lg-days">
+                        day
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">23</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/brazil-lottery-results/br-mega-sena" >
+                    <div><div>Mega Sena</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_br-mega-sena"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=37&amp;lotteryId=46&amp;component=draw">
+                <div>Buy Ticket <span> via Lottofy</span></div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+            <div class="lg-card lg-link" onclick="window.location=&#39;/lithuania-lottery-results/lt-vikinglotto&#39;">
+    <div class="columns is-mobile lg-card-row">
+        <h3 class="column is-10 lg-name">Vikinglotto</h3>
+        <span class="column is-2 lg-flag">
+            
+                <img src="/static/assets/images/flags/lithuania-7fc1ec8da6ef9bcec31ff335102235e6.svg" title="Lithuania"
+                    alt="Lithuania Flag" />
+            
+        </span>
+        <span class="column is-12 lg-logo lg-draw">
+            
+                <img src="https://lotteryguru.com/pict/97026/lt-vikinglotto-2x-png" alt="lt-vikinglotto@2x" />
+            
+            
+            </span>
+    </div>
+
+    <div class="columns is-mobile lg-card-row lg-highlighted">
+
+        <div class="column is-full has-text-center ">
+            <div class="lg-label">Next draw</div>
+            <div class="lg-time">
+                <span class="lg-day"><strong>Wednesday</strong></span>
+
+                <span class="lg-date"><strong>14 Oct</strong>
+                    2026
+                </span>
+
+                
+
+
+            </div>
+        </div>
+
+        <div class="column  is-full lg-countdown lg-draw" data-total="238294">
+
+            
+                <span>
+                    <span class="lg-days-number">2</span>
+                    <span class="lg-days">
+                        
+                        
+                            days
+                        
+                    </span>
+
+                </span>
+
+                <span>
+                    <span class="lg-hours-number">18</span><span class="lg-days"> h</span> : <span class="lg-minutes-number">11</span><span class="lg-days"> m</span> : <span class="lg-seconds-number">34</span>
+                </span>
+
+                <div class="lg-progress-bar">
+                    <span style="width:60%;"></span>
+                </div>
+
+            
+            
+
+        </div>
+    </div>
+
+    
+
+    <div class="lg-card-row lg-buttons" onclick="event.stopPropagation()">
+        
+            
+                <a class="button" href="/lithuania-lottery-results/lt-vikinglotto" >
+                    <div><div>Vikinglotto</div> Results</div>
+                </a>
+            
+
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="draw_lt-vikinglotto"
+                href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=lotteryOfficial&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;id=208&amp;component=draw">
+                <div>Visit Website</div>
+            </a>
+
+        
+        
+            
+        
+    </div>
+</div>
+
+        
+
+        <div class="lg-buttons">
+            <a href="/world-lotteries" class="button">More World Lotteries</a>
+        </div>
+
+    </section>
+
+    <section class="container">
+        <div class="content lg-country-content"><h2> Netherlands Lottery Games </h2>
+<p> Multiple Netherlands lotteries are available for daily opportunities to win significant sums of money. All national
+  lottery games are owned and operated by Nederlandse Loterij. The Netherlands also participates in the popular
+  Eurojackpot transnational game with 17 other countries. </p>
+<h3> <a href="https://lotteryguru.com/netherlands-lottery-results/nl-eurojackpot"> Eurojackpot </a> </h3>
+<p> Eurojackpot is a popular transnational lottery game that costs €2.00 to enter (in the Netherlands). </p>
+<p> Players choose five numbers between 1 and 50 and two Euro Numbers between 1 and 10. Quick Picks are also available
+  for random selections. </p>
+<p> Participants can buy up to 50 tickets at a time for a single draw, with advance play also being available for the
+  next five draws. Subscriptions can be taken out to ensure draws are never missed. </p>
+<h3> Lucky Day </h3>
+<p> Lucky Day is a Keno-style lottery game with multiple entry options. Stakes are available in increments of €1.50, up
+  to a maximum of €22.50. </p>
+<p> To enter, first choose how many numbers to bet on matching from one to 10. Next, choose the relevant number of
+  selections from a pool of 1 to 80. </p>
+<p> Players can enter up to 24 draws at a time, with subscriptions being available to ensure the draw is never missed.
+</p>
+<h3> <a href="https://lotteryguru.com/netherlands-lottery-results/nl-lotto"> Lotto </a> </h3>
+<p> Lotto is the main lottery game in the Netherlands. Tickets cost €2.00. </p>
+<p> Participants choose six numbers between 1 and 45, or can go for a Quick Pick for random selections. For an
+  additional €1.00, players can add Lotto XL to their ticket to reutilize their chosen lottery numbers in a secondary
+  draw, for the chance to win up to €1 million. </p>
+<h3> State Lottery </h3>
+<p> The Netherlands State Lottery is a raffle draw held 16 times a year. Entry costs a minimum of €3.50. </p>
+<p> To enter, participants first buy a ticket printed with a random number. Tickets range from the 1/5 State Lottery,
+  for a chance to win one fifth of each prize, to Boulevard for 100 full State Lottery tickets. Boulevard is a great way
+  to increase the odds of winning, but costs €1,750! </p>
+<h3> Million Dollar Game </h3>
+<p> The Million Dollar Game is a unique lottery that costs €5.00 to enter. </p>
+<p> Each ticket contains a random five-digit number and a letter of the alphabet. Players can change their chosen letter
+  if they wish. </p>
+<p> A colored ball is drawn at the start of each draw, with the €1 million jackpot only available if the green ball is
+  drawn. If a purple ball is drawn, the starting jackpot of €10,000 is doubled. If any other color ball is drawn, the
+  game has a fixed jackpot of €10,000. </p>
+<h2> Netherlands Lottery Game Schedule </h2>
+<p> The table below provides an overview of the schedule for each Netherlands lottery game. </p>
+<div class="lg-responsive-table">
+  <table>
+    <tr>
+      <th>
+
+        Lottery Game </th>
+      <th> MON </th>
+      <th> TUE </th>
+      <th> WED </th>
+      <th> THU </th>
+      <th> FRI </th>
+      <th> SAT </th>
+      <th> SUN </th>
+    </tr>
+    <tr>
+      <td> Eurojackpot </td>
+      <td> </td>
+      <td> 20:00 </td>
+      <td> </td>
+      <td> </td>
+      <td> 20:00 </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> Lucky Day </td>
+      <td> 18:00 </td>
+      <td> 18:00 </td>
+      <td> 18:00 </td>
+      <td> 18:00 </td>
+      <td> 18:00 </td>
+      <td> 18:00 </td>
+      <td> 18:00 </td>
+    </tr>
+    <tr>
+      <td> Lotto </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> 20:30 </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> State Lottery </td>
+      <td colspan="7"> On the 10th day of every month, with additional special draws on April 27, July 1, October 1 and
+        December 31 </td>
+    </tr>
+    <tr>
+      <td> Million Dollar Game </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> 21:30 </td>
+      <td> </td>
+    </tr>
+  </table>
+</div>
+<h2> Netherlands Lottery Odds and Jackpots </h2>
+<div class="lg-responsive-table">
+  <table>
+    <tr>
+      <th> Lottery Game </th>
+      <th> Winning Odds </th>
+      <th> Minimum Jackpot </th>
+    </tr>
+    <tr>
+      <td> Eurojackpot </td>
+      <td> 1 in 139,838,160 </td>
+      <td> €10 million </td>
+    </tr>
+    <tr>
+      <td> Lucky Day </td>
+      <td> 1 in 8,911,711 </td>
+      <td> €450,000 </td>
+    </tr>
+    <tr>
+      <td> Lotto </td>
+      <td> 1 in 8,145,060 </td>
+      <td> €2.5 million </td>
+    </tr>
+    <tr>
+      <td> State Lottery </td>
+      <td> 1 in 4,900,000 </td>
+      <td> €7.5 million </td>
+    </tr>
+    <tr>
+      <td> Million Dollar Game </td>
+      <td> 1 in 2,600,000 </td>
+      <td> €10,000 </td>
+    </tr>
+  </table>
+</div>
+<h3> What are the Biggest Netherlands Lottery Wins? </h3>
+<p> The biggest Netherlands lottery prize to date is <strong>€38.4 million</strong>, won on the State Lottery in May
+  2013. </p>
+<h3> Is Tax Paid on Dutch Lottery Winnings? </h3>
+<p> 29% tax is levied on winnings over €449, which is deducted by the lottery operator before prizes are paid. </p>
+<h2> Mobile Apps for Netherlands Lotteries </h2>
+<div class="lg-responsive-table">
+  <table>
+    <tr>
+      <th> Lottery Operator </th>
+      <th> Lottery Game </th>
+      <th> Mobile Website </th>
+      <th> Mobile App </th>
+      <th> Buy Ticket </th>
+      <th> iTunes </th>
+      <th> Google Play </th>
+    </tr>
+    <tr>
+      <td> Nationale Loterij </td>
+      <td> State Lottery <br> Lotto <br> Eurojackpot <br> Lucky Day <br> Million Dollar Game </td>
+      <td> Yes </td>
+      <td> Yes </td>
+      <td> Yes </td>
+      <td> <a href="https://www.nederlandseloterij.nl/apps">Link</a> </td>
+      <td> <a href="https://www.nederlandseloterij.nl/apps">Link</a> </td>
+    </tr>
+  </table>
+</div>
+<p> Contact information for each Netherlands lottery operator is listed below. </p>
+<div class="lg-responsive-table">
+  <table>
+    <tr>
+      <th> Operator </th>
+      <th> Games </th>
+      <th> Official Website </th>
+      <th> Main Address </th>
+      <th> Local Tel. No. </th>
+    </tr>
+    <tr>
+      <td> Nederlandse Loterij </td>
+      <td> State Lottery <br> Lotto <br> Eurojackpot <br> Lucky Day <br> Million Dollar Game </td>
+      <td> https://www.nederlandseloterij.nl/ </td>
+      <td> Laan van Hoornwijck 55, <br /> 2289 DG Rijswijk, <br /> The Hague, <br /> Netherlands </td>
+      <td> +31 070 550 08 52 </td>
+    </tr>
+  </table>
+</div>
+
+<h3> How Can I Purchase Lottery Tickets in the Netherlands? </h3>
+<p> Lottery tickets are sold at authorized retailers across the Netherlands, as well as online and via the mobile app.
+</p>
+<h3> Can Overseas Players Play Netherlands Lottery Games? </h3>
+<p> Eurojackpot is the only game currently available on Lottery Agent websites. </p>
+<h3> How Old Must I Be to Play Netherlands Lottery Games? </h3>
+<p> Players must be at least 18 years of age to play Netherlands lottery games. </p>
+<h3> How Do I Claim Netherlands Lottery Prizes? </h3>
+<p> Players have one year to claim prizes, which are always paid out as lump sums. </p>
+<h3> How are the Proceeds of Netherlands Lotteries Spent? </h3>
+<p> Nederlandse Loterij distributes over €188 million a year. Beneficiaries include the country's Ministry of Finance,
+  as well as nearly 80 sports federations and 18 charities. </p></div>
+    </section>
+
+</main>
+
+
+
+    
+
+
+    <footer class="footer">
+        <div class="container">
+            <div class="lg-primary-links">
+                <ul class="list">
+                    <li class="list-item"><a href="/">Home</a></li>
+                    <li class="list-item"><a href="/mexico-lottery-results">Results</a></li>
+                    
+                    <li class="list-item"><a href="/best-online-lottery-sites">Best Online Lottery Sites</a></li>
+                    
+                    <li class="list-item"><a href="/world-lotteries">World Lotteries</a></li>
+
+                    
+                        <li class="list-item"><a href="/agents">Agents</a></li>
+                    
+
+                    <li class="list-item"><a href="/jackpots">Jackpots</a></li>
+                    <li class="list-item"><a href="/next-draws">Draws</a></li>
+                    <li class="list-item"><a href="/blog">Blog</a></li>
+                    <li class="list-item"><a href="/scratchcards">Scratchcards</a></li>
+<!--                    <li th:if="${showScratchAndWin}" class="list-item"><a th:href="${scratchAndWinUrl}" th:utext="#{frontend.navMenu.scratchAndWin}"></a></li>-->
+                </ul>
+            </div>
+
+            <div class="columns lg-secondary-links is-multiline">
+                <div class="column is-12 is-10-desktop">
+                    <ul class="list">
+                        <li class="list-item">
+                            <a href="/faq">FAQ</a>
+                        </li>
+                        <li class="list-item">
+                            <a href="/how-to-play-lottery-5-simple-steps">How To Play Lottery</a>
+                        </li>
+                        <li class="list-item">
+                            <a href="/is-online-lottery-legal">Is Online Lottery Legal</a></li>
+                        <li class="list-item"><a href="/about-us">About us</a></li>
+                        <li class="list-item"><a href="/contact-us">Contact us</a></li>
+                        <li class="list-item"><a href="/terms-and-conditions">Terms of use</a></li>
+                        <li class="list-item"><a href="/cookie-policy">Cookie Policy</a></li>
+                    </ul>
+                </div>
+
+                <div class="column is-12 is-2-desktop">
+                    &copy;
+                         Lottery Guru  2026
+
+                </div>
+            </div>
+            <div class="lg-secondary-links is-multiline has-text-centered">
+
+                <span class="lg-footer-logo">
+                    <img alt="18+" src="/static/assets/images/footer-logo-18-90c5fbbd83631de1879bb1aff0a2fc96.png"/>
+                </span>
+                <a class="lg-footer-logo" target="_blank" rel="nofollow" href="https://certify.gpwa.org/verify/lotteryguru.com">
+                    <img alt="GPWA" src="/static/assets/images/footer-logo-gpwa-f9bbb95c826ce4ba1b3cb3b5044e7437.png"/>
+                </a>
+                <a class="lg-footer-logo" target="_blank" rel="nofollow" href="https://www.begambleaware.org">
+                    <img alt="GAMBLE AWARE" src="/static/assets/images/footer-logo-gambleaware-3df06344ef61a67a176054ebe1d9c0d6.png"/>
+                </a>
+                <a class="lg-footer-logo" target="_blank" rel="nofollow" href="https://www.ncpgambling.org">
+                    <img alt="NCPG" src="/static/assets/images/footer-logo-ncpg-3c96c1b9e0c34d10544d9b541eaceda3.png"/>
+                </a>
+            </div>
+
+            <div class="column lg-disclaimer">Lotteryguru.com is an independent source of information about world lotteries, not controlled by third-party gambling operators. All of our reviews and guides are created for information purposes only and in full accordance with the best knowledge and judgement of our independent and expert team, which should not be construed as, or relied upon, as legal advice. Readers should ensure that they meet all regulatory requirements before playing any of the selected lotteries.</div>
+        </div>
+    </footer>
+
+    <script src="/static/assets/scripts-a43d31857bf9351f3d5fa528c274c389.js" type="text/javascript" async></script>
+    <script src="/static/assets/vendors-6fd59420b05db0475c530e78ef6f908c.js" type="text/javascript" async></script>
+
+
+     
+        <div id="biggestJackpot" class="lg-continent-jackpot fixed-pos">
+
+
+            
+                <div class="sticker-item" >
+                    <div class="lg-sticky-container">
+    <div class="lg-lottery-info">
+        
+            <img src="https://lotteryguru.com/pict/97460/us-powerball-2x-png" alt="us-powerball@2x" />
+        
+    </div>
+
+    <div class="lg-jackpot-info">
+        <div class="lg-label">
+            Next Jackpot | 12 Oct 2026
+        </div>
+        <div class="lg-sum">$538,000,000</div>
+        <div class="lg-label lg-country-label">You can play & win from Mexico</div>
+    </div>
+
+    
+        <div class="lg-button" onclick="event.stopPropagation()">
+            <a class="button is-primary exit" rel="nofollow" target="_blank"
+               id="jackpotSticker_us-powerball"
+               href="https://lotteryguru.com/exit?v=1&amp;requestedCountryId=137&amp;state=CHP&amp;originalUrl=http://lotteryguru.com/netherlands-lottery-results&amp;type=agentCtr&amp;pageTypeId=LOTTERIES_BY_COUNTRY&amp;langs=3,2&amp;visitorId=22664832&amp;agentId=1&amp;lotteryId=471&amp;component=jackpot-sticker">
+                <div>Buy Ticket <span> via TheLotter</span></div>
+            </a>
+        </div>
+    
+</div>
+                </div>
+
+            
+
+
+    
+            <div class="lg-hide" onclick="hideJackpot(event)">
+                <svg height="15" width="15">
+                    <line x1="0" y1="0" x2="15" y2="15" style="stroke:#fff; stroke-width:2" />
+                    <line x1="15" y1="0" x2="0" y2="15" style="stroke:#fff; stroke-width:2" />
+                </svg>
+            </div>
+        </div>
+    
+      <script>
+    
+    
+         function showRundomSticker(){
+    
+           const stickers = document.querySelectorAll('.sticker-item');
+           const randomIndex = getRandomInt(0, stickers.length - 1 );
+           showStickerWithIndex(randomIndex);
+    
+         }
+    
+    
+         function showStickerWithIndex(ind){
+             const bigJackpotParent = document.querySelector("#biggestJackpot");
+             bigJackpotParent.style.zIndex = 10;
+            const stickers = document.querySelectorAll('.sticker-item');
+           if(stickers.length === 0) {
+             return;
+           }
+            for(let cur of stickers){
+              cur.style.display = 'none';
+            }
+            stickers[ind].style.display = 'block';
+    
+        }
+    
+    
+    
+        /**
+         * Returns a random integer between min (inclusive) and max (inclusive).
+         * The value is no lower than min (or the next integer greater than min
+         * if min isn't an integer) and no greater than max (or the next integer
+         * lower than max if max isn't an integer).
+         * Using Math.round() will give you a non-uniform distribution!
+         */
+         function getRandomInt(min, max) {
+            min = Math.ceil(min);
+            max = Math.floor(max);
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+    
+          setInterval(() => {
+                 showRundomSticker();
+                         }, 5000);
+    
+            function checkBiggestJackpotBanner(){
+    
+                // if(!isMobile()){
+                //     banner.style.display = 'block';
+                // }
+    
+                    let banner = document.querySelector('#biggestJackpot');
+                    if (Cookies.get('hide_biggest_jackpot')){
+                        banner.classList.remove('visible');
+                    } else {
+                        setTimeout(() => {
+                            
+                            banner.classList.add('visible');
+                        }, 5000);
+                    }
+    
+            }
+    
+            checkBiggestJackpotBanner();
+    
+            function hideJackpot(e){
+    
+                document.querySelector('#biggestJackpot').classList.remove('visible');
+    
+                const minutesToExpire = 30;
+                let now = new Date();
+                let min30 = new Date(now.getTime() +  minutesToExpire * 60 * 1000);
+    
+    
+                 Cookies.set('hide_biggest_jackpot', 'true', {
+                    expires: min30,
+                    path : '',
+                     secure : false
+                });
+    
+                let k = Cookies.get('foo');
+                console.log(JSON.stringify(k));
+                e.stopPropagation();
+            }
+    
+            function isMobile(){
+                return /Android|webOS|iPhone|iPad|Mac|Macintosh|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    
+            }
+
+        </script>
+    
+
+     
+
+
+    <script type="application/ld+json">
+
+        {
+  "@context" : "http://schema.org",
+  "@type" : "WebPage",
+  "name" : "Netherlands Lottery Results and Winning Numbers",
+  "url" : "https://lotteryguru.com/netherlands-lottery-results",
+  "description" : "Latest Netherlands lottery results for EUROJACKPOT ✔, LOTTO ✔, LOTTO XL ✔, LUCKY DAY ✔. All the information you need about lotteries in Netherlands. ",
+  "breadcrumb" : {
+    "@type" : "BreadcrumbList",
+    "itemListElement" : [ {
+      "@type" : "ListItem",
+      "position" : 1,
+      "item" : {
+        "@id" : "http://lotteryguru.com",
+        "name" : "Lottery Guru - The Ultimate Guide to World Lotteries"
+      }
+    }, {
+      "@type" : "ListItem",
+      "position" : 2,
+      "item" : {
+        "@id" : "http://lotteryguru.com/netherlands-lottery-results",
+        "name" : "Netherlands Lottery Results and Winning Numbers"
+      }
+    } ]
+  },
+  "relatedLink" : [ "/netherlands-lottery-results/nl-eurojackpot", "/netherlands-lottery-results/nl-lotto", "/netherlands-lottery-results/nl-lotto-xl", "/netherlands-lottery-results/nl-lucky-day" ]
+}
+
+    </script>
+    <script type="application/ld+json">
+        {
+  "@context" : "http://schema.org/",
+  "@type" : "Organization",
+  "@id" : "https://lotteryguru.com/#organization",
+  "name" : "Lottery Guru",
+  "url" : "https://lotteryguru.com",
+  "logo" : {
+    "@type" : "ImageObject",
+    "url" : "https://lotteryguru.com/static/assets/images/lotteryguru-logo2x.png",
+    "width" : "360",
+    "height" : "60"
+  }
+}
+    </script>
+
+
+    
+
+
+</body>
+</html>

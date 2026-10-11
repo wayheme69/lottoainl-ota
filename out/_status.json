@@ -3421,5 +3421,47 @@
   "final": "http://web.archive.org/web/20071028002321id_/http://www.lotto.nl:80/laatste_trekking.html",
   "len": 150,
   "err": null
+ },
+ "p_magayo_xl": {
+  "url": "https://www.magayo.com/lotto/netherlands/lotto-xl-results/",
+  "code": 200,
+  "final": "https://www.magayo.com/lotto/netherlands/lotto-xl-results/",
+  "len": 22567,
+  "err": null
+ },
+ "p_lt_xl": {
+  "url": "https://lotterytexts.com/netherlands/lotto-xl/past-results/",
+  "code": 200,
+  "final": "https://lotterytexts.com/netherlands/lotto-xl/past-results/",
+  "len": 165027,
+  "err": null
+ },
+ "p_lt_xl2": {
+  "url": "https://lotterytexts.com/netherlands/lotto-xl/",
+  "code": 200,
+  "final": "https://lotterytexts.com/netherlands/lotto-xl/",
+  "len": 216260,
+  "err": null
+ },
+ "p_lg_xl": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history",
+  "len": 53331,
+  "err": null
+ },
+ "p_lg_idx": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results",
+  "len": 73707,
+  "err": null
+ },
+ "p_lx_xl": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-xl-results",
+  "code": 410,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-xl-results",
+  "len": 151,
+  "err": null
  }
 }

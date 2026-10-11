@@ -3463,5 +3463,68 @@
   "final": "https://www.lotteryextreme.com/netherlands/lotto-xl-results",
   "len": 151,
   "err": null
+ },
+ "lgxl_p1": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=1",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=1",
+  "len": 49153,
+  "err": null
+ },
+ "lgxl_p2": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=2",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=2",
+  "len": 49643,
+  "err": null
+ },
+ "lgxl_p3": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=3",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=3",
+  "len": 50344,
+  "err": null
+ },
+ "lgxl_p4": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=4",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=4",
+  "len": 50344,
+  "err": null
+ },
+ "lgxl_p5": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=5",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=5",
+  "len": 50338,
+  "err": null
+ },
+ "lgxl_p6": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=6",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=6",
+  "len": 50342,
+  "err": null
+ },
+ "lgxl_p7": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=7",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=7",
+  "len": 50341,
+  "err": null
+ },
+ "lgxl_p8": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=8",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=8",
+  "len": 49642,
+  "err": null
+ },
+ "lgxl_p9": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=9",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto-xl/nl-lotto-xl-results-history?page=9",
+  "len": 49136,
+  "err": null
  }
 }

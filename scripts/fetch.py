@@ -6,7 +6,12 @@ UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 st = {}
 sp = json.load(open('out/_status.json')) if os.path.exists('out/_status.json') else {}
 delay = float(os.environ.get('DELAY', '1.5'))
-if jobs and 'web.archive.org' in jobs[0][1]: delay = max(delay, 5)
+if jobs and 'web.archive.org' in jobs[0][1]: delay = max(delay, 8)
+import subprocess
+def commit():
+    json.dump({**sp, **st}, open('out/_status.json', 'w'), indent=1)
+    subprocess.run('git add out && git commit -qm partial && (git pull -q --rebase; git push -q)', shell=True)
+n_done = 0
 for job in jobs:
     jid, url = job[0], job[1]; post = job[2] if len(job) > 2 else None
     h = {'User-Agent': UA, 'Accept': 'text/html,application/json,*/*', 'Accept-Language': 'nl-NL,nl;q=0.9,en;q=0.8', 'Accept-Encoding': 'gzip'}
@@ -23,8 +28,8 @@ for job in jobs:
             break
         except urllib.error.HTTPError as e:
             code = e.code; body = e.read() or b''
-            if code in (429, 503, 502, 504) and attempt < 6:
-                print(jid, code, 'backoff', flush=True); time.sleep(30 * (attempt + 1)); continue
+            if code in (429, 503, 502, 504) and attempt < 2:
+                print(jid, code, 'backoff', flush=True); time.sleep(60); continue
             try:
                 if e.headers.get('Content-Encoding') == 'gzip': body = gzip.decompress(body)
             except Exception: pass
@@ -35,5 +40,7 @@ for job in jobs:
     st[jid] = {'url': url, 'code': code, 'final': final, 'len': len(body), 'err': err}
     print(jid, code, len(body), err, flush=True)
     time.sleep(delay)
+    n_done += 1
+    if n_done % 25 == 0: commit()
 sp.update(st)
 json.dump(sp, open('out/_status.json', 'w'), indent=1)

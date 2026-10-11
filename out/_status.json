@@ -1,0 +1,303 @@
+{
+ "api_published": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/draws/published",
+  "code": 200,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/draws/published",
+  "len": 1398,
+  "err": null
+ },
+ "api_results_latest": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/draws/results/2026-10-10",
+  "code": 200,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/draws/results/2026-10-10",
+  "len": 522,
+  "err": null
+ },
+ "api_results_20171111": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/draws/results/2017-11-11",
+  "code": 422,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/draws/results/2017-11-11",
+  "len": 317,
+  "err": null
+ },
+ "api_results_20240106": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/draws/results/2024-01-06",
+  "code": 422,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/draws/results/2024-01-06",
+  "len": 317,
+  "err": null
+ },
+ "api_gameinfo": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/settings/game-information",
+  "code": 200,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/settings/game-information",
+  "len": 177,
+  "err": null
+ },
+ "api_jackpotinfo": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/settings/jackpotinformation",
+  "code": 404,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/settings/jackpotinformation",
+  "len": 0,
+  "err": null
+ },
+ "api_settings": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/settings",
+  "code": 200,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/settings",
+  "len": 1685,
+  "err": null
+ },
+ "api_upcoming": {
+  "url": "https://lotto-api.nederlandseloterij.nl/api/draws/upcoming",
+  "code": 200,
+  "final": "https://lotto-api.nederlandseloterij.nl/api/draws/upcoming",
+  "len": 305,
+  "err": null
+ },
+ "lotterynet_2019": {
+  "url": "https://www.lottery.net/netherlands-lotto/results/2019",
+  "code": 404,
+  "final": "https://www.lottery.net/netherlands-lotto/results/2019",
+  "len": 17209,
+  "err": null
+ },
+ "lotterynet_idx": {
+  "url": "https://www.lottery.net/netherlands-lotto/results",
+  "code": 404,
+  "final": "https://www.lottery.net/netherlands-lotto/results",
+  "len": 17209,
+  "err": null
+ },
+ "lottonet_2019": {
+  "url": "https://www.lotto.net/netherlands-lotto/results/2019",
+  "code": 404,
+  "final": "https://www.lotto.net/netherlands-lotto/results/2019",
+  "len": 11678,
+  "err": null
+ },
+ "lottonet_idx": {
+  "url": "https://www.lotto.net/netherlands-lotto/results",
+  "code": 404,
+  "final": "https://www.lotto.net/netherlands-lotto/results",
+  "len": 11678,
+  "err": null
+ },
+ "lottonumbers_idx": {
+  "url": "https://www.lottonumbers.com/netherlands-lotto",
+  "code": 404,
+  "final": "https://www.lottonumbers.com/netherlands-lotto",
+  "len": 69231,
+  "err": null
+ },
+ "lottonumbers_2019": {
+  "url": "https://www.lottonumbers.com/netherlands-lotto/results/2019",
+  "code": 404,
+  "final": "https://www.lottonumbers.com/netherlands-lotto/results/2019",
+  "len": 69231,
+  "err": null
+ },
+ "lotterycorner_idx": {
+  "url": "https://www.lotterycorner.com/nl",
+  "code": 404,
+  "final": "https://www.lotterycorner.com/nl",
+  "len": 209973,
+  "err": null
+ },
+ "lotterycorner_2019": {
+  "url": "https://www.lotterycorner.com/nl/lotto/2019",
+  "code": 404,
+  "final": "https://www.lotterycorner.com/nl/lotto/2019",
+  "len": 209973,
+  "err": null
+ },
+ "lotteryguru_hist": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history",
+  "len": 49019,
+  "err": null
+ },
+ "magayo": {
+  "url": "https://www.magayo.com/lotto/netherlands/lotto-results/",
+  "code": 200,
+  "final": "https://www.magayo.com/lotto/netherlands/lotto-results/",
+  "len": 22588,
+  "err": null
+ },
+ "lotteryextreme": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 27266,
+  "err": null
+ },
+ "lotteryextreme2": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto/results",
+  "code": 410,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto/results",
+  "len": 151,
+  "err": null
+ },
+ "lotterypost_nl": {
+  "url": "https://www.lotterypost.com/results/nl",
+  "code": 403,
+  "final": "https://www.lotterypost.com/results/nl",
+  "len": 5717,
+  "err": null
+ },
+ "lotterypost_nl_hist": {
+  "url": "https://www.lotterypost.com/results/nl/lotto/past",
+  "code": 403,
+  "final": "https://www.lotterypost.com/results/nl/lotto/past",
+  "len": 5771,
+  "err": null
+ },
+ "lottoland_nl": {
+  "url": "https://www.lottoland.com/nl/lotto/uitslagen",
+  "code": 404,
+  "final": "https://www.lottoland.com/nl/lotto/uitslagen",
+  "len": 22,
+  "err": null
+ },
+ "lottoland_en": {
+  "url": "https://www.lottoland.com/en/dutch-lotto/results-winning-numbers",
+  "code": 404,
+  "final": "https://www.lottoland.com/en/dutch-lotto/results-winning-numbers",
+  "len": 22,
+  "err": null
+ },
+ "lottoresultsnet": {
+  "url": "https://www.lottery-results.net/netherlands-lotto",
+  "code": 404,
+  "final": "https://www.lottery-results.net/netherlands-lotto",
+  "len": 36633,
+  "err": null
+ },
+ "lotteryresultsonline": {
+  "url": "https://lotteryresultsonline.com/netherlands",
+  "code": null,
+  "final": "https://lotteryresultsonline.com/netherlands",
+  "len": 0,
+  "err": "URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)'))"
+ },
+ "lotterytexts": {
+  "url": "https://www.lotterytexts.com/netherlands/lotto/",
+  "code": 200,
+  "final": "https://lotterytexts.com/netherlands/lotto/",
+  "len": 220345,
+  "err": null
+ },
+ "lottery_com": {
+  "url": "https://www.lottery.com/results/nl",
+  "code": null,
+  "final": "https://www.lottery.com/results/nl",
+  "len": 0,
+  "err": "URLError(gaierror(-2, 'Name or service not known'))"
+ },
+ "lotteries_org": {
+  "url": "https://www.lotteries.org/netherlands",
+  "code": null,
+  "final": "https://www.lotteries.org/netherlands",
+  "len": 0,
+  "err": "URLError(TimeoutError('timed out'))"
+ },
+ "lottohelden": {
+  "url": "https://www.lottohelden.de/lotto-niederlande/",
+  "code": 403,
+  "final": "https://www.lottohelden.de/lotto-niederlande/",
+  "len": 5783,
+  "err": null
+ },
+ "lottostat_nl": {
+  "url": "https://www.lottostat.nl/",
+  "code": null,
+  "final": "https://www.lottostat.nl/",
+  "len": 0,
+  "err": "URLError(gaierror(-2, 'Name or service not known'))"
+ },
+ "lottonl_old": {
+  "url": "https://www.lotto.nl/lotto/uitslagen",
+  "code": 200,
+  "final": "https://lotto.nederlandseloterij.nl/lotto/uitslagen",
+  "len": 93700,
+  "err": null
+ },
+ "lottonl_async": {
+  "url": "https://www.lotto.nl/lotto/async/getDrawsOfMonth.html?firstDrawOfMonth=3/1/2015&gameId=5155",
+  "code": 500,
+  "final": "https://www.lotto.nl/lotto/async/getDrawsOfMonth.html?firstDrawOfMonth=3/1/2015&gameId=5155",
+  "len": 0,
+  "err": null
+ },
+ "lottoresults_co": {
+  "url": "https://www.lottoresults.co/netherlands-lotto",
+  "code": null,
+  "final": "https://www.lottoresults.co/netherlands-lotto",
+  "len": 0,
+  "err": "URLError(TimeoutError('timed out'))"
+ },
+ "loteriesdumonde": {
+  "url": "https://www.loteries-du-monde.com/pays-bas/lotto",
+  "code": 404,
+  "final": "https://www.loteries-du-monde.com/pays-bas/lotto",
+  "len": 1807,
+  "err": null
+ },
+ "lottoarchief": {
+  "url": "https://www.lottoarchief.nl/",
+  "code": null,
+  "final": "https://www.lottoarchief.nl/",
+  "len": 0,
+  "err": "URLError(gaierror(-2, 'Name or service not known'))"
+ },
+ "lottouitslagen_org": {
+  "url": "https://www.lottouitslagen.org/",
+  "code": null,
+  "final": "https://www.lottouitslagen.org/",
+  "len": 0,
+  "err": "URLError(gaierror(-2, 'Name or service not known'))"
+ },
+ "lottotrekking": {
+  "url": "https://www.lottotrekking.nl/",
+  "code": null,
+  "final": "https://www.lottotrekking.nl/",
+  "len": 0,
+  "err": "URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)'))"
+ },
+ "gh_search1": {
+  "url": "https://api.github.com/search/repositories?q=nederlandse+lotto",
+  "code": 200,
+  "final": "https://api.github.com/search/repositories?q=nederlandse+lotto",
+  "len": 6037,
+  "err": null
+ },
+ "gh_search2": {
+  "url": "https://api.github.com/search/repositories?q=dutch+lotto",
+  "code": 200,
+  "final": "https://api.github.com/search/repositories?q=dutch+lotto",
+  "len": 6690,
+  "err": null
+ },
+ "wiki_en_dutchlotto": {
+  "url": "https://en.wikipedia.org/w/index.php?title=Lotto_(Netherlands)&action=raw",
+  "code": 404,
+  "final": "https://en.wikipedia.org/w/index.php?title=Lotto_(Netherlands)&action=raw",
+  "len": 1928,
+  "err": null
+ },
+ "wiki_nl_raw": {
+  "url": "https://nl.wikipedia.org/w/index.php?title=Lotto_(Nederland)&action=raw",
+  "code": 404,
+  "final": "https://nl.wikipedia.org/w/index.php?title=Lotto_(Nederland)&action=raw",
+  "len": 1927,
+  "err": null
+ },
+ "wiki_nl_raw2": {
+  "url": "https://nl.wikipedia.org/w/index.php?title=Lotto&action=raw",
+  "code": 200,
+  "final": "https://nl.wikipedia.org/w/index.php?title=Lotto&action=raw",
+  "len": 10534,
+  "err": null
+ }
+}

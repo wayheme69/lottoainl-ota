@@ -1,0 +1,361 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset='utf-8' />
+<meta name='viewport' content='width=device-width' />
+<meta name='robots' content='noodp,noydir' />
+<link rel="stylesheet" href="/include/bootstrap.min.css">
+<link rel="stylesheet" href="/include/cookieconsent.min.css">
+<title>Latest & Recent Netherlands Lotto Results | magayo</title>
+<meta name='description' content='Latest Netherlands Lotto results and recent Lotto winning numbers.' />
+<meta property="og:site_name" content="magayo" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Latest & Recent Netherlands Lotto Results | magayo" />
+<meta property="og:description" content="Latest Netherlands Lotto results and recent Lotto winning numbers." />
+<meta property="og:url" content="https://www.magayo.com/lotto/netherlands/lotto-results/" />
+<meta property="og:image" content="https://www.magayo.com/media/magayo-logo.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Latest & Recent Netherlands Lotto Results | magayo" />
+<meta name="twitter:description" content="Latest Netherlands Lotto results and recent Lotto winning numbers." />
+<meta name="twitter:creator" content="@magayoLotto" />
+<meta name="twitter:site" content="@magayoLotto" />
+<meta name="twitter:image" content="https://www.magayo.com/media/magayoLotto-twitter.png" />
+<script src="/include/jquery-3.4.1.min.js"></script>
+<script src="/include/bootstrap.bundle.min.js"></script>
+<script src="/include/cookieconsent.min.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BC8WQFEKFT"></script>
+<script>
+window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+   revokeBtn: "<div class='cc-revoke'></div>",
+   type: "opt-in",
+   position: "bottom-right",
+   theme: "classic",
+   palette: {
+       popup: {
+           background: "#234",
+           text: "#fff"
+        },
+       button: {
+           background: "#58f",
+           text: "#fff"
+        }
+    },
+	content: {
+       message: "We only use Google Analytics and Google Adsense cookies on our website.",
+       link: "Privacy Policy",
+       allow: "Allow cookies",
+       deny: "Decline",
+       href: "/privacy-policy/"
+    },
+    onInitialise: function(status) {
+      if(status == cookieconsent.status.allow) myScripts();
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) myScripts();
+    }
+  })
+});
+
+function myScripts() {
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BC8WQFEKFT');
+}
+</script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<a class="navbar-brand" href="/">magayo</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+	<ul class="navbar-nav ml-auto">
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-software/">Lottery Software</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-feeds/">Lottery Feeds</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-analysis/">Lottery Analysis</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-results/">Lottery Results</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-statistics/">Lottery Statistics</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-numbers/">Lottery Numbers</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-prediction/">Lottery Prediction</a>
+		</li>
+		<li class="nav-item px-2">
+			<a class="nav-link" href="/lottery-strategy/">Lottery Strategy</a>
+		</li>
+	</ul>
+	</div>
+</nav>
+<div class="container mt-3">
+	<div class="row">
+		<div class="col">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Response01 -->
+			<ins class="adsbygoogle"
+				 style="display:block"
+				 data-ad-client="ca-pub-5224354595802808"
+				 data-ad-slot="7319299443"
+				 data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</div>
+	</div>
+</div>
+<div class="container mt-3">
+	<div class="row">
+		<div class="col">
+			<h1>Latest & Recent Netherlands Lotto Results</h1>
+		</div>
+	</div>
+</div>
+<div class="container mt-3">
+	<nav aria-label="breadcrumb">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item"><a href="/">magayo</a></li>
+			<li class="breadcrumb-item"><a href="/lottery-results/">Lottery Results</a></li>
+			<li class="breadcrumb-item">Netherlands</li>
+			<li class="breadcrumb-item active" aria-current="page">Lotto Results</li>
+		</ol>
+	</nav>
+</div>
+<div class="container mt-5">
+	<div class="row">
+		<div class="col">
+			<h2>Latest & Recent Netherlands Lotto Results</h2>
+		</div>
+	</div>
+</div>
+<div class="container mt-5 pb-5">
+	<div class="row">
+		<div class="col">
+			<h3>Latest Lotto Results</h3>
+		</div>
+	</div>
+	<div class="row mt-3">
+		<div class="col-lg">
+<h5>10 October 2026 (Saturday)</h5><p><img src="/scripts/show_ball.php?p1=M&amp;p2=12" alt="" /><img src="/scripts/show_ball.php?p1=M&amp;p2=21" alt="" /><img src="/scripts/show_ball.php?p1=M&amp;p2=22" alt="" /><img src="/scripts/show_ball.php?p1=M&amp;p2=25" alt="" /><img src="/scripts/show_ball.php?p1=M&amp;p2=35" alt="" /><img src="/scripts/show_ball.php?p1=M&amp;p2=44" alt="" /></p><p>Reservegetal &ensp;<img src="/scripts/show_ball.php?p1=B&amp;p2=43" alt="" /></p><p></p><h5><strong>Next Lotto Jackpot</strong></h5><p>10 October 2026 (Saturday)<br />&euro;1,700,000 (~US$1,903,896)</p>		</div>
+		<div class="col-lg-4">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LargeRect01 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-5224354595802808"
+     data-ad-slot="5824913040"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h4>Jackpot Lottery Winner</h4>
+			</div>
+		</div>
+		<div class="row mt-3 align-items-center">
+			<div class="col-3">
+				<p><a href="/lottery-software/magayo-lotto-reviews/"><img src="/media/20170304_mx_chispazo_thumb.jpg" alt="Mexico Chispazo winning Jackpot lottery ticket" title="Mexico Chispazo winning Jackpot lottery ticket" width="150" height="216"></a></p>
+			</div>
+			<div class="col-lg">
+				<blockquote class="blockquote">
+					<p class="mb-0">"I played the recommendation... and I won the first prize!"</p>
+					<footer class="blockquote-footer">magayo Lotto software user</footer>
+				</blockquote>
+				<p><a href="/lottery-software/magayo-lotto-reviews/">See the winning lottery tickets of magayo Lotto users</a></p>
+				<p><a href="/lottery-software/magayo-lotto-download/" class="btn btn-success btn-lg">Download magayo Lotto software</a></p>
+				<p><a href="/lottery-software/magayo-lotto-app/">magayo Lotto is also available as an Android app</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row mt-3">
+			<div class="col text-center">
+				<h3>121,054+ people use our lottery software, lottery app & lottery feeds!</h3>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h3>Recent Lotto Winning Numbers</h3>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col">
+<div class="row py-3"><div class="col-md-3">3 October 2026</div><div class="col-md-2">Saturday</div><div class="col-md">05&ensp;15&ensp;27&ensp;29&ensp;40&ensp;41&ensp;Reservegetal&ensp;37</div></div><div class="row py-3 border-top"><div class="col-md-3">26 September 2026</div><div class="col-md-2">Saturday</div><div class="col-md">05&ensp;08&ensp;19&ensp;25&ensp;32&ensp;42&ensp;Reservegetal&ensp;13</div></div><div class="row py-3 border-top"><div class="col-md-3">19 September 2026</div><div class="col-md-2">Saturday</div><div class="col-md">03&ensp;08&ensp;12&ensp;16&ensp;38&ensp;39&ensp;Reservegetal&ensp;18</div></div><div class="row py-3 border-top"><div class="col-md-3">12 September 2026</div><div class="col-md-2">Saturday</div><div class="col-md">30&ensp;32&ensp;37&ensp;38&ensp;41&ensp;44&ensp;Reservegetal&ensp;26</div></div><div class="row py-3 border-top"><div class="col-md-3">5 September 2026</div><div class="col-md-2">Saturday</div><div class="col-md">07&ensp;10&ensp;25&ensp;33&ensp;34&ensp;39&ensp;Reservegetal&ensp;22</div></div><div class="row py-3 border-top"><div class="col-md-3">29 August 2026</div><div class="col-md-2">Saturday</div><div class="col-md">22&ensp;26&ensp;28&ensp;35&ensp;37&ensp;39&ensp;Reservegetal&ensp;01</div></div><div class="row py-3 border-top"><div class="col-md-3">22 August 2026</div><div class="col-md-2">Saturday</div><div class="col-md">11&ensp;19&ensp;29&ensp;30&ensp;32&ensp;33&ensp;Reservegetal&ensp;40</div></div><div class="row py-3 border-top"><div class="col-md-3">15 August 2026</div><div class="col-md-2">Saturday</div><div class="col-md">25&ensp;27&ensp;37&ensp;41&ensp;43&ensp;45&ensp;Reservegetal&ensp;01</div></div><div class="row py-3 border-top"><div class="col-md-3">8 August 2026</div><div class="col-md-2">Saturday</div><div class="col-md">07&ensp;10&ensp;12&ensp;16&ensp;27&ensp;34&ensp;Reservegetal&ensp;05</div></div><div class="row py-3 border-top"><div class="col-md-3">1 August 2026</div><div class="col-md-2">Saturday</div><div class="col-md">04&ensp;18&ensp;26&ensp;37&ensp;43&ensp;44&ensp;Reservegetal&ensp;40</div></div><div class="row py-3 border-top"><div class="col-md-3">25 July 2026</div><div class="col-md-2">Saturday</div><div class="col-md">13&ensp;21&ensp;27&ensp;36&ensp;43&ensp;44&ensp;Reservegetal&ensp;35</div></div><div class="row py-3 border-top"><div class="col-md-3">18 July 2026</div><div class="col-md-2">Saturday</div><div class="col-md">01&ensp;02&ensp;09&ensp;14&ensp;15&ensp;16&ensp;Reservegetal&ensp;34</div></div><div class="row py-3 border-top"><div class="col-md-3">11 July 2026</div><div class="col-md-2">Saturday</div><div class="col-md">14&ensp;19&ensp;20&ensp;35&ensp;36&ensp;41&ensp;Reservegetal&ensp;33</div></div><div class="row py-3 border-top"><div class="col-md-3">6 July 2026</div><div class="col-md-2">Monday</div><div class="col-md">02&ensp;13&ensp;21&ensp;32&ensp;34&ensp;43&ensp;Reservegetal&ensp;07</div></div><div class="row py-3 border-top"><div class="col-md-3">4 July 2026</div><div class="col-md-2">Saturday</div><div class="col-md">17&ensp;28&ensp;34&ensp;35&ensp;38&ensp;39&ensp;Reservegetal&ensp;21</div></div><div class="row py-3 border-top"><div class="col-md-3">27 June 2026</div><div class="col-md-2">Saturday</div><div class="col-md">14&ensp;24&ensp;36&ensp;37&ensp;38&ensp;44&ensp;Reservegetal&ensp;09</div></div><div class="row py-3 border-top"><div class="col-md-3">20 June 2026</div><div class="col-md-2">Saturday</div><div class="col-md">23&ensp;25&ensp;36&ensp;37&ensp;39&ensp;43&ensp;Reservegetal&ensp;09</div></div><div class="row py-3 border-top"><div class="col-md-3">13 June 2026</div><div class="col-md-2">Saturday</div><div class="col-md">04&ensp;06&ensp;18&ensp;22&ensp;35&ensp;41&ensp;Reservegetal&ensp;20</div></div><div class="row py-3 border-top"><div class="col-md-3">6 June 2026</div><div class="col-md-2">Saturday</div><div class="col-md">02&ensp;13&ensp;21&ensp;32&ensp;34&ensp;43&ensp;Reservegetal&ensp;07</div></div><div class="row py-3 border-top"><div class="col-md-3">30 May 2026</div><div class="col-md-2">Saturday</div><div class="col-md">07&ensp;19&ensp;26&ensp;31&ensp;35&ensp;37&ensp;Reservegetal&ensp;23</div></div><div class="row py-3 border-top"><div class="col-md-3">23 May 2026</div><div class="col-md-2">Saturday</div><div class="col-md">12&ensp;14&ensp;19&ensp;22&ensp;34&ensp;38&ensp;Reservegetal&ensp;40</div></div><div class="row py-3 border-top"><div class="col-md-3">16 May 2026</div><div class="col-md-2">Saturday</div><div class="col-md">12&ensp;17&ensp;19&ensp;25&ensp;31&ensp;41&ensp;Reservegetal&ensp;05</div></div><div class="row py-3 border-top"><div class="col-md-3">9 May 2026</div><div class="col-md-2">Saturday</div><div class="col-md">06&ensp;16&ensp;19&ensp;23&ensp;24&ensp;42&ensp;Reservegetal&ensp;05</div></div><div class="row py-3 border-top"><div class="col-md-3">2 May 2026</div><div class="col-md-2">Saturday</div><div class="col-md">10&ensp;13&ensp;21&ensp;24&ensp;32&ensp;43&ensp;Reservegetal&ensp;44</div></div><div class="row py-3 border-top"><div class="col-md-3">25 April 2026</div><div class="col-md-2">Saturday</div><div class="col-md">04&ensp;14&ensp;17&ensp;27&ensp;29&ensp;40&ensp;Reservegetal&ensp;32</div></div><div class="row py-3 border-top"><div class="col-md-3">18 April 2026</div><div class="col-md-2">Saturday</div><div class="col-md">02&ensp;07&ensp;11&ensp;12&ensp;17&ensp;44&ensp;Reservegetal&ensp;26</div></div><div class="row py-3 border-top"><div class="col-md-3">11 April 2026</div><div class="col-md-2">Saturday</div><div class="col-md">07&ensp;13&ensp;14&ensp;17&ensp;20&ensp;39&ensp;Reservegetal&ensp;25</div></div><div class="row py-3 border-top"><div class="col-md-3">4 April 2026</div><div class="col-md-2">Saturday</div><div class="col-md">04&ensp;05&ensp;11&ensp;24&ensp;29&ensp;34&ensp;Reservegetal&ensp;33</div></div><div class="row py-3 border-top"><div class="col-md-3">28 March 2026</div><div class="col-md-2">Saturday</div><div class="col-md">07&ensp;11&ensp;17&ensp;18&ensp;21&ensp;44&ensp;Reservegetal&ensp;26</div></div><div class="row py-3 border-top"><div class="col-md-3">21 March 2026</div><div class="col-md-2">Saturday</div><div class="col-md">03&ensp;04&ensp;21&ensp;25&ensp;27&ensp;31&ensp;Reservegetal&ensp;43</div></div>			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h3>Historical Lotto results & latest winning numbers at your finger tips!</h3>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col">
+				<p>magayo Lotto software, our award-winning lottery software, provides the historical <strong>Lotto results</strong> and the latest winning numbers are also automatically downloaded!</p>
+				<p><a href="/lottery-software/magayo-lotto-software/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h3>Lotto Lottery Results Feeds & Lottery Results API</h3>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col">
+				<p>You can easily display <strong>Lotto lottery results</strong> in your website or integrate <strong>Lotto lottery draws</strong> in your application with our reliable lottery APIs.</p>
+				<p><a href="/lottery-feeds/lottery-data-api/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5"><div class="container"><div class="row"><div class="col"><h3>More lottery resources for Lotto</h3></div></div><div class="row mt-3"><div class="col"><p><a href="/lotto-stats/netherlands/lotto-statistics/">View the Lotto statistics and hits frequency</a></p><p><a href="/lotto-balls/netherlands/lotto-numbers/">Get your lucky Lotto numbers!</a></p><p><a href="/lotto-win/netherlands/lotto-prediction/">Learn how to play and win Lotto</a></p></div></div></div></div><div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/1107701982" width="500" height="281" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+		<div class="row mt-5">
+			<div class="col">
+				<p><a href="/lottery-software/magayo-lotto-reviews/">See the winning lottery tickets of magayo Lotto users</a><br />
+				<a href="/lottery-software/magayo-lotto-awards/">See the awards for magayo Lotto software</a></p>
+				<p><a href="/lottery-software/magayo-lotto-download/" class="btn btn-success btn-lg">Download magayo Lotto software</a></p>
+				<p>magayo Lotto software is FREE. It is also <a href="/lottery-software/magayo-lotto-awards/#clean">digitally signed and 100% safe & clean.</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<h3>Latest Netherlands Lotto results and recent winning numbers</h3>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container py-5">
+	<div class="row">
+		<div class="col">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Response02 -->
+			<ins class="adsbygoogle"
+				 style="display:block"
+				 data-ad-client="ca-pub-5224354595802808"
+				 data-ad-slot="1272765849"
+				 data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</div>
+	</div>
+</div>
+<div class="container-fluid border-top border-bottom py-5">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col">
+				<p><a href="https://transparencyreport.google.com/safe-browsing/search?url=magayo.com" target="_blank"><img src="/media/safe_google.png" alt="magayo.com is verified safe by Google Safe Browsing" title="magayo.com is verified safe by Google Safe Browsing" width="138" height="45" /></a></p>
+			</div>
+			<div class="col">
+				<p><a href="https://safeweb.norton.com/report/show?url=magayo.com" target="_blank"><img src="/media/safe_norton.png" alt="magayo.com is verified safe by Norton Safe Web" title="magayo.com is verified safe by Norton Safe Web" width="147" height="35" /></a></p>
+			</div>
+			<div class="col">
+				<p><a href="https://www.ssltrust.com/ssl-tools/website-security-check?domain=magayo.com" target="_blank"><img src="/media/safe_ssltrust.jpg" alt="magayo.com is verified safe by SSL Trust" title="magayo.com is verified safe by SSL Trust" width="170" height="45" /></a></p>
+			</div>
+			<div class="col">
+				<p><a href="https://sitecheck.sucuri.net/results/magayo.com" target="_blank"><img src="/media/safe_sucuri.jpg" alt="magayo.com is verified safe by Sucuri" title="magayo.com is verified safe by Sucuri" width="157" height="45" /></a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container-fluid bg-secondary text-white py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-md">
+				<p><strong>Sections</strong></p>
+				<p><a href="/lottery-software/" class="text-white">Lottery Software</a><br />
+				<a href="/lottery-feeds/" class="text-white">Lottery Feeds</a><br />
+				<a href="/lottery-analysis/" class="text-white">Lottery Analysis</a><br />
+				<a href="/lottery-results/" class="text-white">Lottery Results</a><br />
+				<a href="/lottery-statistics/" class="text-white">Lottery Statistics</a><br />
+				<a href="/lottery-numbers/" class="text-white">Lottery Numbers</a><br />
+				<a href="/lottery-prediction/" class="text-white">Lottery Prediction</a><br />
+				<a href="/lottery-strategy/" class="text-white">Lottery Strategy</a><br />
+				<a href="/top-lottery-jackpots/" class="text-white">Lottery Jackpots</a></p>
+			</div>
+			<div class="col-md">
+				<p><strong>For Users</strong></p>
+				<p><a href="/play-responsibly/" class="text-white">Play Responsibly</a><br />
+				<a href="/api-area/" class="text-white">API Area</a><br />
+				<a href="/vip-club/" class="text-white">VIP Club</a><br />
+				<a href="/client-area/" class="text-white">Client Area</a><br />
+				<a href="/faq/" class="text-white">FAQ</a><br />
+				<a href="/lottery-docs/" class="text-white">Documentation</a><br />
+				<a href="/contact-us/" class="text-white">Contact Us</a><br />
+				<a href="/lottery-software/why-us/" class="text-white">Why Us</a></p>
+			</div>
+			<div class="col-md">
+				<p><strong>Languages</strong></p>
+				<p><a href="/de/" class="text-white">Deutsche</a><br />
+				<a href="/es/" class="text-white">Español</a><br />
+				<a href="/fr/" class="text-white">Français</a><br />
+				<a href="/it/" class="text-white">Italiana</a><br />
+				<a href="/pt/" class="text-white">Portugués</a><br />
+				<a href="/jp/" class="text-white">日本語</a><br />
+				<a href="/kr/" class="text-white">한국인</a><br />
+				<a href="/zh/" class="text-white">简体中文</a><br />
+				<a href="/zht/" class="text-white">繁體中文</a></p>
+			</div>
+			<div class="col-md text-center">
+				<p><a href="/"><img src="/media/magayo-logo.png" alt="magayo" title="magayo" width="171" height="50" /></a></p>
+				<p><a href="https://www.facebook.com/Magayo-Lotto-199008750191613/" target="_blank"><img src="/media/social-round-facebook-48.png" alt="Follow us on Facebook" title="Follow us on Facebook" width="48" height="48" /></a><a href="https://twitter.com/magayoLotto" target="_blank"><img src="/media/social-round-twitter-48.png" alt="Follow us on Twitter" title="Follow us on Twitter" width="48" height="48" /></a><a href="https://www.instagram.com/magayolotto/" target="_blank"><img src="/media/social-round-instagram-48.png" alt="Follow us on Instagram" title="Follow us on Instagram" width="48" height="48" /></a></p>
+				<p class="small"><a href="/about-us/" class="text-white">About Us</a><br />
+				<a href="/site-terms/" class="text-white">Site Terms</a> | <a href="/privacy-policy/" class="text-white">Privacy Policy</a><br />
+				&copy; magayo 2010-2026</p>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="application/ld+json">
+{ "@context" : "https://schema.org",
+  "@type" : "Organization",
+  "name" : "magayo",
+  "description" : "Latest Netherlands Lotto results and recent Lotto winning numbers.",
+  "url" : "https://www.magayo.com/lotto/netherlands/lotto-results/",
+  "logo": "https://www.magayo.com/media/magayo-logo.png",
+  "sameAs" : [ "https://www.facebook.com/Magayo-Lotto-199008750191613/","https://twitter.com/magayoLotto","https://www.instagram.com/magayolotto/"] 
+}
+</script>
+</body>
+</html>

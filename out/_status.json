@@ -176,9 +176,9 @@
  },
  "lotteryresultsonline": {
   "url": "https://lotteryresultsonline.com/netherlands",
-  "code": null,
+  "code": 200,
   "final": "https://lotteryresultsonline.com/netherlands",
-  "len": 0,
+  "len": 862,
   "err": "URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)'))"
  },
  "lotterytexts": {
@@ -231,9 +231,9 @@
   "err": null
  },
  "lottoresults_co": {
-  "url": "https://www.lottoresults.co/netherlands-lotto",
+  "url": "https://lottoresults.co/netherlands-lotto/",
   "code": null,
-  "final": "https://www.lottoresults.co/netherlands-lotto",
+  "final": "https://lottoresults.co/netherlands-lotto/",
   "len": 0,
   "err": "URLError(TimeoutError('timed out'))"
  },
@@ -298,6 +298,1574 @@
   "code": 200,
   "final": "https://nl.wikipedia.org/w/index.php?title=Lotto&action=raw",
   "len": 10534,
+  "err": null
+ },
+ "lx_2010-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20377,
+  "err": null
+ },
+ "lx_2010-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2010-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20298,
+  "err": null
+ },
+ "lx_2010-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20067,
+  "err": null
+ },
+ "lx_2010-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20523,
+  "err": null
+ },
+ "lx_2010-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20294,
+  "err": null
+ },
+ "lx_2010-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20519,
+  "err": null
+ },
+ "lx_2010-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20291,
+  "err": null
+ },
+ "lx_2010-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20298,
+  "err": null
+ },
+ "lx_2010-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20513,
+  "err": null
+ },
+ "lx_2010-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2010-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2011-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20523,
+  "err": null
+ },
+ "lx_2011-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20072,
+  "err": null
+ },
+ "lx_2011-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20290,
+  "err": null
+ },
+ "lx_2011-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20517,
+  "err": null
+ },
+ "lx_2011-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20293,
+  "err": null
+ },
+ "lx_2011-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20299,
+  "err": null
+ },
+ "lx_2011-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20283,
+  "err": null
+ },
+ "lx_2011-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20295,
+  "err": null
+ },
+ "lx_2011-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20303,
+  "err": null
+ },
+ "lx_2011-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20294,
+  "err": null
+ },
+ "lx_2011-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20298,
+  "err": null
+ },
+ "lx_2011-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20525,
+  "err": null
+ },
+ "lx_2012-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20525,
+  "err": null
+ },
+ "lx_2012-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20301,
+  "err": null
+ },
+ "lx_2012-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20518,
+  "err": null
+ },
+ "lx_2012-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2012-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2012-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20513,
+  "err": null
+ },
+ "lx_2012-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20070,
+  "err": null
+ },
+ "lx_2012-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20067,
+  "err": null
+ },
+ "lx_2012-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20294,
+  "err": null
+ },
+ "lx_2012-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20302,
+  "err": null
+ },
+ "lx_2012-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20302,
+  "err": null
+ },
+ "lx_2012-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20520,
+  "err": null
+ },
+ "lx_2013-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20075,
+  "err": null
+ },
+ "lx_2013-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20301,
+  "err": null
+ },
+ "lx_2013-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20516,
+  "err": null
+ },
+ "lx_2013-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2013-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2013-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20287,
+  "err": null
+ },
+ "lx_2013-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2013-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20523,
+  "err": null
+ },
+ "lx_2013-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20301,
+  "err": null
+ },
+ "lx_2013-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20295,
+  "err": null
+ },
+ "lx_2013-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20524,
+  "err": null
+ },
+ "lx_2013-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20070,
+  "err": null
+ },
+ "lx_2014-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20301,
+  "err": null
+ },
+ "lx_2014-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2014-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20520,
+  "err": null
+ },
+ "lx_2014-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2014-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20516,
+  "err": null
+ },
+ "lx_2014-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20293,
+  "err": null
+ },
+ "lx_2014-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20293,
+  "err": null
+ },
+ "lx_2014-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20518,
+  "err": null
+ },
+ "lx_2014-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2014-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2014-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20518,
+  "err": null
+ },
+ "lx_2014-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20299,
+  "err": null
+ },
+ "lx_2015-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20521,
+  "err": null
+ },
+ "lx_2015-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2015-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20299,
+  "err": null
+ },
+ "lx_2015-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20295,
+  "err": null
+ },
+ "lx_2015-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20519,
+  "err": null
+ },
+ "lx_2015-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20292,
+  "err": null
+ },
+ "lx_2015-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20299,
+  "err": null
+ },
+ "lx_2015-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20520,
+  "err": null
+ },
+ "lx_2015-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20296,
+  "err": null
+ },
+ "lx_2015-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20516,
+  "err": null
+ },
+ "lx_2015-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20298,
+  "err": null
+ },
+ "lx_2015-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2016-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20515,
+  "err": null
+ },
+ "lx_2016-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20299,
+  "err": null
+ },
+ "lx_2016-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20291,
+  "err": null
+ },
+ "lx_2016-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20515,
+  "err": null
+ },
+ "lx_2016-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20288,
+  "err": null
+ },
+ "lx_2016-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20296,
+  "err": null
+ },
+ "lx_2016-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20523,
+  "err": null
+ },
+ "lx_2016-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20297,
+  "err": null
+ },
+ "lx_2016-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20301,
+  "err": null
+ },
+ "lx_2016-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20519,
+  "err": null
+ },
+ "lx_2016-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20298,
+  "err": null
+ },
+ "lx_2016-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20519,
+  "err": null
+ },
+ "lx_2017-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20302,
+  "err": null
+ },
+ "lx_2017-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20301,
+  "err": null
+ },
+ "lx_2017-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20294,
+  "err": null
+ },
+ "lx_2017-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20513,
+  "err": null
+ },
+ "lx_2017-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20296,
+  "err": null
+ },
+ "lx_2017-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20294,
+  "err": null
+ },
+ "lx_2017-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20516,
+  "err": null
+ },
+ "lx_2017-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20300,
+  "err": null
+ },
+ "lx_2017-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20528,
+  "err": null
+ },
+ "lx_2017-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20293,
+  "err": null
+ },
+ "lx_2017-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 20946,
+  "err": null
+ },
+ "lx_2017-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21499,
+  "err": null
+ },
+ "lx_2018-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21110,
+  "err": null
+ },
+ "lx_2018-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2018-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21490,
+  "err": null
+ },
+ "lx_2018-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2018-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21097,
+  "err": null
+ },
+ "lx_2018-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21485,
+  "err": null
+ },
+ "lx_2018-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21103,
+  "err": null
+ },
+ "lx_2018-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2018-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21489,
+  "err": null
+ },
+ "lx_2018-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2018-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2018-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21488,
+  "err": null
+ },
+ "lx_2019-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2019-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2019-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21485,
+  "err": null
+ },
+ "lx_2019-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21099,
+  "err": null
+ },
+ "lx_2019-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2019-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21484,
+  "err": null
+ },
+ "lx_2019-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21103,
+  "err": null
+ },
+ "lx_2019-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21490,
+  "err": null
+ },
+ "lx_2019-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2019-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2019-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21495,
+  "err": null
+ },
+ "lx_2019-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2020-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2020-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21490,
+  "err": null
+ },
+ "lx_2020-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2020-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2020-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21476,
+  "err": null
+ },
+ "lx_2020-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21101,
+  "err": null
+ },
+ "lx_2020-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2020-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21486,
+  "err": null
+ },
+ "lx_2020-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21104,
+  "err": null
+ },
+ "lx_2020-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21488,
+  "err": null
+ },
+ "lx_2020-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2020-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21114,
+  "err": null
+ },
+ "lx_2021-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21487,
+  "err": null
+ },
+ "lx_2021-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2021-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21098,
+  "err": null
+ },
+ "lx_2021-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2021-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21483,
+  "err": null
+ },
+ "lx_2021-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2021-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21484,
+  "err": null
+ },
+ "lx_2021-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2021-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2021-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21487,
+  "err": null
+ },
+ "lx_2021-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2021-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2022-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21493,
+  "err": null
+ },
+ "lx_2022-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21112,
+  "err": null
+ },
+ "lx_2022-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2022-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21492,
+  "err": null
+ },
+ "lx_2022-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21104,
+  "err": null
+ },
+ "lx_2022-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21101,
+  "err": null
+ },
+ "lx_2022-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21489,
+  "err": null
+ },
+ "lx_2022-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2022-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2022-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21490,
+  "err": null
+ },
+ "lx_2022-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21108,
+  "err": null
+ },
+ "lx_2022-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21491,
+  "err": null
+ },
+ "lx_2023-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21103,
+  "err": null
+ },
+ "lx_2023-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2023-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2023-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21488,
+  "err": null
+ },
+ "lx_2023-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21099,
+  "err": null
+ },
+ "lx_2023-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2023-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21489,
+  "err": null
+ },
+ "lx_2023-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21101,
+  "err": null
+ },
+ "lx_2023-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21494,
+  "err": null
+ },
+ "lx_2023-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2023-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21108,
+  "err": null
+ },
+ "lx_2023-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21487,
+  "err": null
+ },
+ "lx_2024-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21104,
+  "err": null
+ },
+ "lx_2024-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2024-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21484,
+  "err": null
+ },
+ "lx_2024-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2024-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21104,
+  "err": null
+ },
+ "lx_2024-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21488,
+  "err": null
+ },
+ "lx_2024-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2024-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21487,
+  "err": null
+ },
+ "lx_2024-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2024-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21104,
+  "err": null
+ },
+ "lx_2024-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21486,
+  "err": null
+ },
+ "lx_2024-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2025-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21111,
+  "err": null
+ },
+ "lx_2025-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2025-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21488,
+  "err": null
+ },
+ "lx_2025-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2025-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21488,
+  "err": null
+ },
+ "lx_2025-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2025-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21102,
+  "err": null
+ },
+ "lx_2025-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21486,
+  "err": null
+ },
+ "lx_2025-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21106,
+  "err": null
+ },
+ "lx_2025-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21108,
+  "err": null
+ },
+ "lx_2025-11": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21482,
+  "err": null
+ },
+ "lx_2025-12": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21114,
+  "err": null
+ },
+ "lx_2026-01": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21492,
+  "err": null
+ },
+ "lx_2026-02": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21104,
+  "err": null
+ },
+ "lx_2026-03": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21107,
+  "err": null
+ },
+ "lx_2026-04": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21105,
+  "err": null
+ },
+ "lx_2026-05": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21490,
+  "err": null
+ },
+ "lx_2026-06": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21101,
+  "err": null
+ },
+ "lx_2026-07": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21103,
+  "err": null
+ },
+ "lx_2026-08": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21489,
+  "err": null
+ },
+ "lx_2026-09": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 21109,
+  "err": null
+ },
+ "lx_2026-10": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-results",
+  "len": 19806,
+  "err": null
+ },
+ "lg_p1": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=1",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=1",
+  "len": 49019,
+  "err": null
+ },
+ "lg_p2": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=2",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=2",
+  "len": 49515,
+  "err": null
+ },
+ "lg_p3": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=3",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=3",
+  "len": 50205,
+  "err": null
+ },
+ "lg_p4": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=4",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=4",
+  "len": 50203,
+  "err": null
+ },
+ "lg_p5": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=5",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=5",
+  "len": 50206,
+  "err": null
+ },
+ "lg_p6": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=6",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=6",
+  "len": 50198,
+  "err": null
+ },
+ "lg_p7": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=7",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=7",
+  "len": 50208,
+  "err": null
+ },
+ "lg_p8": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=8",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=8",
+  "len": 49499,
+  "err": null
+ },
+ "lg_p9": {
+  "url": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=9",
+  "code": 200,
+  "final": "https://lotteryguru.com/netherlands-lottery-results/nl-lotto/nl-lotto-results-history?page=9",
+  "len": 49006,
+  "err": null
+ },
+ "lt_past": {
+  "url": "https://lotterytexts.com/netherlands/lotto/past-results/",
+  "code": 200,
+  "final": "https://lotterytexts.com/netherlands/lotto/past-results/",
+  "len": 173751,
+  "err": null
+ },
+ "mg_arch1": {
+  "url": "https://www.magayo.com/lotto/netherlands/lotto-results-archive/",
+  "code": 200,
+  "final": "https://www.magayo.com/",
+  "len": 27062,
+  "err": null
+ },
+ "mg_arch2": {
+  "url": "https://www.magayo.com/lotto-results/netherlands/lotto-results-archive/",
+  "code": 200,
+  "final": "https://www.magayo.com/404.php",
+  "len": 16303,
+  "err": null
+ },
+ "mg_balls": {
+  "url": "https://www.magayo.com/lotto-balls/netherlands/lotto-numbers/",
+  "code": 200,
+  "final": "https://www.magayo.com/lotto-balls/netherlands/lotto-numbers/",
+  "len": 19749,
+  "err": null
+ },
+ "thelotter": {
+  "url": "https://www.thelotter.com/lottery-results/netherlands-lotto/",
+  "code": 404,
+  "final": "https://www.thelotter.com/lottery-results/netherlands-lotto/",
+  "len": 75072,
+  "err": null
+ },
+ "multilotto": {
+  "url": "https://www.multilotto.com/en/lotto-nl/results",
+  "code": 404,
+  "final": "https://www.multilotto.com/en/lotto-nl/results",
+  "len": 9122,
+  "err": null
+ },
+ "lottosend": {
+  "url": "https://www.lottosend.com/lottery-results/netherlands-lotto",
+  "code": null,
+  "final": "https://www.lottosend.com/lottery-results/netherlands-lotto",
+  "len": 0,
+  "err": "TimeoutError('The read operation timed out')"
+ },
+ "lottoagent": {
+  "url": "https://www.lottoagent.com/netherlands-lotto/results/",
+  "code": 200,
+  "final": "https://www.lottoagent.com/netherlands-lotto/results/",
+  "len": 114,
+  "err": null
+ },
+ "lotteryheroes": {
+  "url": "https://www.lotteryheroes.com/netherlands-lotto/results",
+  "code": 500,
+  "final": "https://www.lotteryheroes.com/netherlands-lotto/results",
+  "len": 732,
+  "err": "URLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lotteryheroes.com'. (_ssl.c:1000)\"))"
+ },
+ "lottery_ie": {
+  "url": "https://www.lottoresults.ie/",
+  "code": null,
+  "final": "https://www.lottoresults.ie/",
+  "len": 0,
+  "err": "URLError(gaierror(-3, 'Temporary failure in name resolution'))"
+ },
+ "euro_lotto_nl": {
+  "url": "https://www.lotto-nl.com/",
+  "code": null,
+  "final": "https://www.lotto-nl.com/",
+  "len": 0,
+  "err": "URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)'))"
+ },
+ "lx_stats5y": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-statistics_last5years",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-statistics_last5years",
+  "len": 21232,
+  "err": null
+ },
+ "lx_freq": {
+  "url": "https://www.lotteryextreme.com/netherlands/lotto-number_frequency",
+  "code": 200,
+  "final": "https://www.lotteryextreme.com/netherlands/lotto-number_frequency",
+  "len": 23087,
   "err": null
  }
 }

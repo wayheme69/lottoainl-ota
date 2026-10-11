@@ -1,0 +1,423 @@
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+    <!-- base template with header and footer -->
+    <meta name="format-detection" content="telephone=no">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.22/require.min.js" crossorigin></script>
+<script>var Pipe=(function(n,e){function t(){for(var n,e=c.length-1;e>=0;e--)if((n=c[e]).hasAttribute("data-pipe"))return n.removeAttribute("data-pipe"),n}function o(){0!==l.length||!n.readyState||"complete"!==n.readyState&&"interactive"!==n.readyState||v.onDone()}function r(n){return null!=n&&"object"==typeof n&&"function"==typeof n.then}function i(n,e,t,i){v.onBeforeInit(t,i);var a=n(e),f=function(){l.pop(),v.onAfterInit(t,i),o(t)};r(a)?a.then(f).catch(f):f()}function a(n,t){!1 in e||p.push({name:n,duration:Number(t),entryType:"tailor",startTime:e.now()||Date.now()-e.timing.navigationStart})}function f(n){return function(e){v[n]=e}}var u={},d={},c=n.getElementsByTagName("script"),l=[],p=[],s=function(){},v={onStart:s,onBeforeInit:s,onAfterInit:s,onDone:s};return{placeholder:function(n){u[n]=t()},start:function(n,e,o){d[n]=t(),e&&(l.push(n),v.onStart(o,n),require([e]))},end:function(n,e,r){var a,f=u[n],c=d[n],p=t(),s=c;if(f){do{a=s,s=s.nextSibling,f.parentNode.insertBefore(a,f)}while(a!==p);f.parentNode.removeChild(f)}for(a=c.nextSibling;a&&1!==a.nodeType;)a=a.nextSibling;a===p&&(a=void 0),c.parentNode.removeChild(c),p.parentNode.removeChild(p),e&&require([e],function(e){var t=e&&e.__esModule?e.default:e;if("function"!=typeof t)return l.pop(),v.onBeforeInit(r,n),v.onAfterInit(r,n),void o();i(t,a,r,n)})},loadCSS:/* @preserve - loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+function(e){function t(e){if(n.body)return e();setTimeout(function(){t(e)})}function o(){i.addEventListener&&i.removeEventListener("load",o),i.media="all"}var r,i=n.createElement("link"),a=(n.body||n.getElementsByTagName("head")[0]).childNodes;r=a[a.length-1];var f=n.styleSheets;i.rel="stylesheet",i.href=e,i.media="only x",t(function(){r.parentNode.insertBefore(i,r.nextSibling)});var u=function(n){for(var e=i.href,t=f.length;t--;)if(f[t].href===e)return n();setTimeout(function(){u(n)})};return i.addEventListener&&i.addEventListener("load",o),i.onloadcssdefined=u,u(o),i},onStart:f("onStart"),onBeforeInit:f("onBeforeInit"),onAfterInit:f("onAfterInit"),onDone:function(n){var e=v.onDone;v.onDone=function(){e(),n()}},addPerfEntry:a,addTTFMPEntry:function(n){a("ttfmp",n)},getEntries:function(){return p}}})(window.document,window.performance);</script>
+
+      <link rel="preload" href="/resources/fonts/NotoSans-Regular.woff2" as="font" type="font/woff2" crossorigin><link href="/resources/fonts/NotoSans-Regular.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="/resources/fonts/NotoSans-Bold.woff2" as="font" type="font/woff2" crossorigin><link href="/resources/fonts/NotoSans-Bold.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="/resources/fonts/Commissioner-Regular.woff2" as="font" type="font/woff2" crossorigin><link href="/resources/fonts/Commissioner-Regular.woff" as="font" type="font/woff" crossorigin><link rel="preload" href="/resources/fonts/Commissioner-Bold.woff2" as="font" type="font/woff2" crossorigin><link href="/resources/fonts/Commissioner-Bold.woff" as="font" type="font/woff" crossorigin>
+      <style>
+        
+          @font-face {
+            font-family:"NotoSans-Regular";
+            src:url("/resources/fonts/NotoSans-Regular.woff2") format("woff2"),url("/resources/fonts/NotoSans-Regular.woff") format("woff");
+          }
+        
+          @font-face {
+            font-family:"NotoSans-Bold";
+            src:url("/resources/fonts/NotoSans-Bold.woff2") format("woff2"),url("/resources/fonts/NotoSans-Bold.woff") format("woff");
+          }
+        
+          @font-face {
+            font-family:"Commissioner-Regular";
+            src:url("/resources/fonts/Commissioner-Regular.woff2") format("woff2"),url("/resources/fonts/Commissioner-Regular.woff") format("woff");
+          }
+        
+          @font-face {
+            font-family:"Commissioner-Bold";
+            src:url("/resources/fonts/Commissioner-Bold.woff2") format("woff2"),url("/resources/fonts/Commissioner-Bold.woff") format("woff");
+          }
+        
+      </style>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <style data-styled="true" data-styled-version="6.1.12">.jEa-dnR{cursor:inherit;color:#0d1d33;font-size:28px;line-height:40px;text-transform:none;text-decoration:none;text-align:inherit;opacity:1;font-family:Commissioner-Bold,NotoSans-Bold,sans-serif;margin:0;}/*!sc*/
+.gnYZMr{cursor:inherit;color:#4f5a69;font-size:16px;line-height:24px;text-transform:none;text-decoration:none;text-align:inherit;opacity:1;font-family:NotoSans-Regular,sans-serif;margin:0;}/*!sc*/
+data-styled.g2[id="not-found__sc-1ytsgco-0"]{content:"jEa-dnR,gnYZMr,"}/*!sc*/
+.gPtGiu{display:inline-block;color:currentColor;height:20px;width:20px;opacity:1;box-sizing:border-box;}/*!sc*/
+.gPtGiu>svg{width:100%;height:100%;fill:currentcolor;}/*!sc*/
+data-styled.g6[id="not-found__sc-m9ivf2-0"]{content:"gPtGiu,"}/*!sc*/
+.hntQyN{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:center;align-content:stretch;align-items:center;}/*!sc*/
+data-styled.g10[id="not-found__sc-1axb4is-0"]{content:"hntQyN,"}/*!sc*/
+.REWej{position:relative;display:inline-flex;align-items:center;box-sizing:border-box;box-shadow:none;background-color:#f22c4d;color:#ffffff;height:48px;font-size:16px;line-height:24px;border-radius:80px;font-family:NotoSans-Bold,sans-serif;padding:0 24px 0 24px;cursor:pointer;pointer-events:auto;opacity:1;white-space:nowrap;width:100%;text-align:center;justify-content:center;}/*!sc*/
+.REWej:focus{outline:none;}/*!sc*/
+.REWej:after{display:none;}/*!sc*/
+.REWej:hover::after,.REWej.hover-class::after{box-sizing:border-box;content:' ';border-radius:80px;display:block;background-color:#ffffff;opacity:0.08;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+.REWej:active::after,.REWej.active-class::after{box-sizing:border-box;background-color:#ffffff;content:' ';border-radius:80px;display:block;opacity:0.32;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+data-styled.g18[id="not-found__sc-jqmg7o-0"]{content:"REWej,"}/*!sc*/
+.eNHgiZ{display:inline-block;text-decoration:none;position:relative;align-items:center;-moz-appearance:none;-webkit-appearance:none;background:none;border:none;outline:none;font-size:inherit;min-width:144px;border-radius:80px;box-shadow:none;}/*!sc*/
+.eNHgiZ.focus-class .not-found__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(242,44,77,0.76);}/*!sc*/
+.eNHgiZ:focus .not-found__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(242,44,77,0.76);}/*!sc*/
+data-styled.g19[id="not-found__sc-jqmg7o-1"]{content:"eNHgiZ,"}/*!sc*/
+.kGdacR{display:inline-flex;pointer-events:auto;border-radius:0px;overflow:hidden;position:relative;background-color:transparent;}/*!sc*/
+.kGdacR:focus{outline:none;}/*!sc*/
+.not-found__sc-47m12a-0:focus-visible .kGdacR{box-shadow:0 0 0 6px rgba(0,76,198,0.32);}/*!sc*/
+data-styled.g26[id="not-found__sc-47m12a-1"]{content:"kGdacR,"}/*!sc*/
+.eegXXD{font-size:14px;line-height:24px;color:#000000;vertical-align:top;border-radius:0px;opacity:1;transition:.3s ease-out;}/*!sc*/
+.eegXXD:hover{transform:unset;}/*!sc*/
+data-styled.g28[id="not-found__sc-47m12a-3"]{content:"eegXXD,"}/*!sc*/
+.kRSiiC{font-size:0;display:flex;order:0;flex-basis:auto;flex-grow:0;flex-shrink:1;align-self:auto;}/*!sc*/
+.cZCrJg{display:flex;order:0;flex-basis:auto;flex-grow:0;flex-shrink:1;align-self:center;}/*!sc*/
+data-styled.g30[id="not-found__sc-k0d70m-0"]{content:"kRSiiC,cZCrJg,"}/*!sc*/
+.jRaZNh{margin-inline-end:8px;}/*!sc*/
+data-styled.g31[id="not-found__sc-qk582b-0"]{content:"jRaZNh,"}/*!sc*/
+.dKYFiE{display:flex;justify-content:center;margin:0 16px 56px 16px;}/*!sc*/
+data-styled.g182[id="not-found__sc-2fyt54-0"]{content:"dKYFiE,"}/*!sc*/
+.iHMHEf{width:100%;max-width:1248px;}/*!sc*/
+data-styled.g183[id="not-found__sc-2fyt54-1"]{content:"iHMHEf,"}/*!sc*/
+.FNhKu{display:flex;}/*!sc*/
+data-styled.g477[id="not-found__sc-1ps8wx2-0"]{content:"FNhKu,"}/*!sc*/
+.jlZcCv{max-width:824px;width:100%;justify-content:space-between;gap:24px;padding:40px 0;align-items:center;margin:0 auto;}/*!sc*/
+data-styled.g478[id="not-found__sc-1ps8wx2-1"]{content:"jlZcCv,"}/*!sc*/
+.czmUYX{flex-direction:column;flex:1;gap:16px;max-width:506px;}/*!sc*/
+data-styled.g479[id="not-found__sc-1ps8wx2-2"]{content:"czmUYX,"}/*!sc*/
+.honpRn{padding-bottom:8px;}/*!sc*/
+data-styled.g480[id="not-found__sc-1ps8wx2-3"]{content:"honpRn,"}/*!sc*/
+.dTdwqU{width:176px;height:176px;}/*!sc*/
+data-styled.g481[id="not-found__sc-1ps8wx2-4"]{content:"dTdwqU,"}/*!sc*/
+.iDfuRh{align-self:flex-start;}/*!sc*/
+data-styled.g482[id="not-found__sc-1ps8wx2-5"]{content:"iDfuRh,"}/*!sc*/
+</style><style data-styled="true" data-styled-version="6.1.12">.bZGORK{cursor:inherit;color:#0d1d33;font-size:14px;line-height:24px;text-transform:none;text-decoration:none;text-align:inherit;opacity:1;font-family:NotoSans-Regular,sans-serif;margin:0;}/*!sc*/
+.eWjcDG{cursor:inherit;color:#004cc6;font-size:12px;line-height:16px;text-transform:none;text-decoration:none;text-align:inherit;opacity:1;font-family:NotoSans-Regular,sans-serif;margin:0;}/*!sc*/
+data-styled.g2[id="footer-nestjs__sc-1ytsgco-0"]{content:"bZGORK,eWjcDG,"}/*!sc*/
+.bwfcBw{display:inline-block;color:#004cc6;height:16px;width:16px;opacity:1;box-sizing:border-box;}/*!sc*/
+.bwfcBw>svg{width:100%;height:100%;fill:currentcolor;}/*!sc*/
+data-styled.g6[id="footer-nestjs__sc-m9ivf2-0"]{content:"bwfcBw,"}/*!sc*/
+.kqhtGe{display:inline-flex;font-size:18px;line-height:24px;font-family:NotoSans-Regular,sans-serif;color:#004cc6;opacity:1;text-decoration:none;text-decoration-color:#004cc6;outline:none;cursor:pointer;}/*!sc*/
+.kqhtGe:hover,.kqhtGe.hover-class{text-decoration-color:#0041aa;text-decoration:underline;color:#0041aa;}/*!sc*/
+.kqhtGe:focus,.kqhtGe.focus-class{border-radius:6px;box-shadow:0 0 0 6px rgba(0,76,198,0.32);}/*!sc*/
+data-styled.g7[id="footer-nestjs__sc-jffbti-0"]{content:"kqhtGe,"}/*!sc*/
+.dyGSMJ{display:flex;flex-direction:row;align-items:center;gap:8px;}/*!sc*/
+data-styled.g8[id="footer-nestjs__sc-jffbti-1"]{content:"dyGSMJ,"}/*!sc*/
+.iQCotY{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:center;}/*!sc*/
+.gOQKvM{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:stretch;}/*!sc*/
+data-styled.g10[id="footer-nestjs__sc-1axb4is-0"]{content:"iQCotY,gOQKvM,"}/*!sc*/
+.ggcfso{display:block;width:4px;height:1px;max-width:none;min-width:none;max-height:none;text-align:inherit;margin:0;padding:0;direction:inherit;overflow:visible;color:#0d1d33;box-sizing:content-box;justify-content:center;}/*!sc*/
+.ggcfso::-webkit-scrollbar{width:14px;border-radius:0 6px 6px 0;}/*!sc*/
+.ggcfso::-webkit-scrollbar-thumb{height:30px;background-color:#717171;background-clip:content-box;border-radius:10px;border:4px solid transparent;}/*!sc*/
+data-styled.g13[id="footer-nestjs__sc-1q42c02-0"]{content:"ggcfso,"}/*!sc*/
+.jDkkIZ{display:block;order:0;flex-basis:auto;flex-grow:0;flex-shrink:1;align-self:auto;}/*!sc*/
+data-styled.g30[id="footer-nestjs__sc-k0d70m-0"]{content:"jDkkIZ,"}/*!sc*/
+.Vidof{display:flex;justify-content:center;margin:120px 0 0 0;}/*!sc*/
+data-styled.g186[id="footer-nestjs__sc-2fyt54-0"]{content:"Vidof,"}/*!sc*/
+.dNLEqh{width:100%;}/*!sc*/
+data-styled.g187[id="footer-nestjs__sc-2fyt54-1"]{content:"dNLEqh,"}/*!sc*/
+.dwlwhR{background-color:#f4f4f4;width:100%;display:flex;justify-content:center;user-select:none;}/*!sc*/
+data-styled.g1758[id="footer-nestjs__sc-1pom33w-0"]{content:"dwlwhR,"}/*!sc*/
+.bgOJgc{display:flex;flex-direction:column;max-width:824px;width:100%;padding:40px 16px 56px;gap:24px;align-items:center;}/*!sc*/
+data-styled.g1759[id="footer-nestjs__sc-1pom33w-1"]{content:"bgOJgc,"}/*!sc*/
+.eDLaCl{display:flex;flex-direction:column;gap:16px;align-items:self-start;padding-bottom:32px;border-bottom:1px solid #d1d3d7;user-select:text;}/*!sc*/
+data-styled.g1760[id="footer-nestjs__sc-1pom33w-2"]{content:"eDLaCl,"}/*!sc*/
+.duHCyB{display:flex;padding-bottom:24px;width:100%;justify-content:center;gap:48px;flex-wrap:wrap;border-bottom:1px solid #d1d3d7;}/*!sc*/
+data-styled.g1761[id="footer-nestjs__sc-1pom33w-3"]{content:"duHCyB,"}/*!sc*/
+.dxDCBQ{display:flex;width:100%;justify-content:center;padding-bottom:32px;border-bottom:1px solid #d1d3d7;user-select:none;}/*!sc*/
+data-styled.g1762[id="footer-nestjs__sc-1czmrh6-0"]{content:"dxDCBQ,"}/*!sc*/
+.DScp{display:flex;flex-direction:column;gap:8px;color:#0d1d33;font-size:16px;font-weight:600;line-height:24px;}/*!sc*/
+data-styled.g1763[id="footer-nestjs__sc-1czmrh6-1"]{content:"DScp,"}/*!sc*/
+.hcUdLI{justify-content:center;width:100%;display:inherit;gap:80px;align-content:center;font-family:Commissioner-Bold,NotoSans-Bold,sans-serif;}/*!sc*/
+data-styled.g1764[id="footer-nestjs__sc-1czmrh6-2"]{content:"hcUdLI,"}/*!sc*/
+.gCzbgY{color:inherit;font-size:14px;font-style:normal;text-decoration:none;font-weight:400;font-family:NotoSans-Regular,sans-serif;}/*!sc*/
+.gCzbgY:hover{color:#004cc6;text-decoration:underline;}/*!sc*/
+data-styled.g1765[id="footer-nestjs__sc-1czmrh6-3"]{content:"gCzbgY,"}/*!sc*/
+.gDqZyA{color:inherit;font-style:normal;text-decoration:underline;font-weight:600;}/*!sc*/
+.gDqZyA a{color:inherit;text-decoration:inherit;font-weight:inherit;font-family:inherit;font-style:normal;}/*!sc*/
+data-styled.g1766[id="footer-nestjs__sc-1czmrh6-4"]{content:"gDqZyA,"}/*!sc*/
+.kDUWVZ{line-height:0;}/*!sc*/
+data-styled.g1767[id="footer-nestjs__sc-qex9wl-0"]{content:"kDUWVZ,"}/*!sc*/
+.dIIxCI{display:flex;justify-content:center;gap:24px 24px;flex-wrap:wrap;max-width:625px;}/*!sc*/
+data-styled.g1768[id="footer-nestjs__sc-1hqnnpp-0"]{content:"dIIxCI,"}/*!sc*/
+.chlyJA{display:flex;justify-content:center;flex-wrap:wrap;gap:24px;font-size:14px;font-style:normal;font-weight:400;color:#0d1d33;}/*!sc*/
+data-styled.g1769[id="footer-nestjs__sc-1j0mivf-0"]{content:"chlyJA,"}/*!sc*/
+.kVMFro{opacity:0.38;font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;text-decoration:none;pointer-events:none;cursor:auto;}/*!sc*/
+.kVMFro:hover{opacity:0.38;}/*!sc*/
+.gukwLv{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;text-decoration:none;}/*!sc*/
+.gukwLv:hover{opacity:0.38;}/*!sc*/
+data-styled.g1770[id="footer-nestjs__sc-1j0mivf-1"]{content:"kVMFro,gukwLv,"}/*!sc*/
+.jAJeZb{display:flex;gap:16px;}/*!sc*/
+data-styled.g1771[id="footer-nestjs__sc-1pazsso-0"]{content:"jAJeZb,"}/*!sc*/
+.dkrcCQ{display:flex;gap:24px;align-items:center;}/*!sc*/
+data-styled.g1772[id="footer-nestjs__sc-1kl4vxs-0"]{content:"dkrcCQ,"}/*!sc*/
+</style><style data-styled="true" data-styled-version="6.1.12">.joHjIk{cursor:inherit;color:#0d1d33;font-size:14px;line-height:24px;text-transform:none;text-decoration:none;text-align:inherit;opacity:1;font-family:NotoSans-Regular,sans-serif;margin:0;}/*!sc*/
+.brqzZx{cursor:inherit;color:#ffffff;font-size:14px;line-height:24px;text-transform:none;text-decoration:none;text-align:inherit;opacity:1;font-family:NotoSans-Regular,sans-serif;margin:0;}/*!sc*/
+data-styled.g2[id="header__sc-1ytsgco-0"]{content:"joHjIk,brqzZx,"}/*!sc*/
+.dAxArF{display:inline-block;color:#0d1d33;height:24px;width:24px;opacity:1;box-sizing:border-box;}/*!sc*/
+.dAxArF>svg{width:100%;height:100%;fill:currentcolor;}/*!sc*/
+.cFBlzb{display:inline-block;color:currentColor;height:16px;width:16px;opacity:1;box-sizing:border-box;}/*!sc*/
+.cFBlzb>svg{width:100%;height:100%;fill:currentcolor;}/*!sc*/
+data-styled.g6[id="header__sc-m9ivf2-0"]{content:"dAxArF,cFBlzb,"}/*!sc*/
+.cuIUqW{display:inline-flex;font-size:14px;line-height:24px;font-family:NotoSans-Regular,sans-serif;color:#0d1d33;opacity:1;text-decoration:none;text-decoration-color:#0d1d33;outline:none;cursor:pointer;}/*!sc*/
+.cuIUqW:focus,.cuIUqW.focus-class{border-radius:6px;box-shadow:0 0 0 6px rgba(0,76,198,0.32);}/*!sc*/
+data-styled.g7[id="header__sc-jffbti-0"]{content:"cuIUqW,"}/*!sc*/
+.jqAmMb{display:flex;flex-direction:row;align-items:center;gap:8px;}/*!sc*/
+data-styled.g8[id="header__sc-jffbti-1"]{content:"jqAmMb,"}/*!sc*/
+.jUNwJm{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:stretch;}/*!sc*/
+.gxAWzM{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:16px;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:center;}/*!sc*/
+.hZuKMu{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:center;}/*!sc*/
+.kBjhqX{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:8px;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:stretch;}/*!sc*/
+.ggnuAo{width:auto;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:center;align-content:stretch;align-items:center;}/*!sc*/
+.bGIsV{width:8px;height:auto;flex-direction:row;justify-content:flex-start;align-content:stretch;outline:none;gap:unset;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:stretch;}/*!sc*/
+data-styled.g10[id="header__sc-1axb4is-0"]{content:"jUNwJm,gxAWzM,hZuKMu,kBjhqX,ggnuAo,bGIsV,"}/*!sc*/
+.LXGro{position:relative;display:inline-flex;align-items:center;box-sizing:border-box;box-shadow:none;background-color:transparent;color:#0d1d33;height:32px;font-size:14px;line-height:24px;border-radius:80px;font-family:NotoSans-Regular,sans-serif;padding:0 16px 0 16px;cursor:pointer;pointer-events:auto;opacity:1;white-space:nowrap;width:100%;text-align:center;justify-content:center;}/*!sc*/
+.LXGro:focus{outline:none;}/*!sc*/
+.LXGro:after{display:none;}/*!sc*/
+.LXGro:hover::after,.LXGro.hover-class::after{box-sizing:border-box;content:' ';border-radius:80px;display:block;background-color:#0d1d33;opacity:0.08;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+.LXGro:active::after,.LXGro.active-class::after{box-sizing:border-box;background-color:#0d1d33;content:' ';border-radius:80px;display:block;opacity:0.28;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+.cgeqUa{position:relative;display:inline-flex;align-items:center;box-sizing:border-box;box-shadow:none;background-color:#f22c4d;color:#ffffff;height:32px;font-size:14px;line-height:24px;border-radius:80px;font-family:NotoSans-Regular,sans-serif;padding:0 16px 0 16px;cursor:pointer;pointer-events:auto;opacity:1;white-space:nowrap;width:100%;text-align:center;justify-content:center;}/*!sc*/
+.cgeqUa:focus{outline:none;}/*!sc*/
+.cgeqUa:after{display:none;}/*!sc*/
+.cgeqUa:hover::after,.cgeqUa.hover-class::after{box-sizing:border-box;content:' ';border-radius:80px;display:block;background-color:#ffffff;opacity:0.08;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+.cgeqUa:active::after,.cgeqUa.active-class::after{box-sizing:border-box;background-color:#ffffff;content:' ';border-radius:80px;display:block;opacity:0.32;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+.deoAOX{position:relative;display:inline-flex;align-items:center;box-sizing:border-box;box-shadow:none;background-color:#ffffff;color:#0d1d33;height:40px;font-size:16px;line-height:24px;border-radius:80px;font-family:NotoSans-Bold,sans-serif;padding:0 24px 0 24px;cursor:pointer;pointer-events:auto;opacity:1;white-space:nowrap;width:100%;text-align:center;justify-content:center;}/*!sc*/
+.deoAOX:focus{outline:none;}/*!sc*/
+.deoAOX:after{display:none;}/*!sc*/
+.deoAOX:hover::after,.deoAOX.hover-class::after{box-sizing:border-box;content:' ';border-radius:80px;display:block;background-color:#0d1d33;opacity:0.04;position:absolute;top:0;left:0;right:0;bottom:0;}/*!sc*/
+.deoAOX:active::after,.deoAOX.active-class::after{box-sizing:border-box;background-color:#0d1d33;content:' ';border-radius:80px;display:block;opacity:0;position:absolute;top:-1px;left:-1px;right:-1px;bottom:-1px;}/*!sc*/
+.deoAOX:active,.deoAOX.active-class{color:#004cc6;}/*!sc*/
+data-styled.g18[id="header__sc-jqmg7o-0"]{content:"LXGro,cgeqUa,deoAOX,"}/*!sc*/
+.fdAlEO{display:inline-flex;width:fit-content;all:initial;position:relative;align-items:center;-moz-appearance:none;-webkit-appearance:none;background:none;border:none;outline:none;font-size:inherit;border-radius:80px;box-shadow:none;}/*!sc*/
+.fdAlEO.focus-class .header__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(13,29,51,0.12);}/*!sc*/
+.fdAlEO:focus .header__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(13,29,51,0.12);}/*!sc*/
+.joZdLC{display:inline-flex;width:fit-content;all:initial;position:relative;align-items:center;-moz-appearance:none;-webkit-appearance:none;background:none;border:none;outline:none;font-size:inherit;border-radius:80px;box-shadow:none;}/*!sc*/
+.joZdLC.focus-class .header__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(242,44,77,0.76);}/*!sc*/
+.joZdLC:focus .header__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(242,44,77,0.76);}/*!sc*/
+.gzcnhp{display:inline-block;text-decoration:none;position:relative;align-items:center;-moz-appearance:none;-webkit-appearance:none;background:none;border:none;outline:none;font-size:inherit;border-radius:80px;box-shadow:0 0 10px rgba(113,113,113,0.14);}/*!sc*/
+.gzcnhp.focus-class .header__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(13,29,51,0.12);}/*!sc*/
+.gzcnhp:focus .header__sc-jqmg7o-0{box-shadow:0 0 0 6px rgba(0,76,198,0.32);background-color:rgba(13,29,51,0.12);}/*!sc*/
+data-styled.g19[id="header__sc-jqmg7o-1"]{content:"fdAlEO,joZdLC,gzcnhp,"}/*!sc*/
+.kXVVLm{display:inline-flex;pointer-events:auto;border-radius:0px;overflow:hidden;position:relative;background-color:transparent;width:100%;}/*!sc*/
+.kXVVLm:focus{outline:none;}/*!sc*/
+.header__sc-47m12a-0:focus-visible .kXVVLm{box-shadow:0 0 0 6px rgba(0,76,198,0.32);}/*!sc*/
+data-styled.g26[id="header__sc-47m12a-1"]{content:"kXVVLm,"}/*!sc*/
+.jYPWMR{font-size:14px;line-height:24px;color:#000000;vertical-align:top;border-radius:0px;opacity:1;transition:.3s ease-out;width:100%;}/*!sc*/
+.jYPWMR:hover{transform:unset;}/*!sc*/
+data-styled.g28[id="header__sc-47m12a-3"]{content:"jYPWMR,"}/*!sc*/
+.cXsalC{display:block;order:0;flex-basis:auto;flex-grow:1;flex-shrink:1;align-self:auto;}/*!sc*/
+.kGiGYt{display:block;order:0;flex-basis:auto;flex-grow:2;flex-shrink:1;align-self:auto;}/*!sc*/
+.jMCrrz{display:block;order:0;flex-basis:auto;flex-grow:0;flex-shrink:1;align-self:center;}/*!sc*/
+.cFbTOZ{display:flex;order:0;flex-basis:auto;flex-grow:0;flex-shrink:1;align-self:center;}/*!sc*/
+.fieNXP{font-size:0;display:flex;order:0;flex-basis:auto;flex-grow:0;flex-shrink:1;align-self:auto;}/*!sc*/
+data-styled.g30[id="header__sc-k0d70m-0"]{content:"cXsalC,kGiGYt,jMCrrz,cFbTOZ,fieNXP,"}/*!sc*/
+.iruYXU{width:40px;padding:0;}/*!sc*/
+data-styled.g32[id="header__sc-qk582b-1"]{content:"iruYXU,"}/*!sc*/
+.cWACWM{width:1px;height:10px;background:#0d1d33;opacity:1;}/*!sc*/
+data-styled.g35[id="header__sc-1b2hli8-1"]{content:"cWACWM,"}/*!sc*/
+.Nktfm{font-size:0px;}/*!sc*/
+.Nktfm:focus{outline:none;}/*!sc*/
+data-styled.g99[id="header__sc-1co92ds-0"]{content:"Nktfm,"}/*!sc*/
+.gWEXDU{height:48px;width:96px;display:inline-flex;cursor:pointer;pointer-events:auto;border-radius:0px;overflow:hidden;position:relative;opacity:1;}/*!sc*/
+.gWEXDU:focus{outline:none;}/*!sc*/
+.header__sc-1co92ds-0:focus-visible .gWEXDU{box-shadow:0 0 0 6px rgba(0,76,198,0.32);}/*!sc*/
+.gWEXDU:hover{transform:unset;}/*!sc*/
+.gWEXDU>svg{width:100%;height:100%;}/*!sc*/
+data-styled.g100[id="header__sc-1co92ds-1"]{content:"gWEXDU,"}/*!sc*/
+.ftAGwe{position:relative;display:inline-block;}/*!sc*/
+data-styled.g305[id="header__sc-6ldhv8-0"]{content:"ftAGwe,"}/*!sc*/
+.kOwGbC{position:fixed;z-index:9000;top:0px;width:100%;height:auto;min-height:64px;background-color:#f9f9f9;transition:all 0.5s cubic-bezier(0.4,0,0.2,1);}/*!sc*/
+data-styled.g515[id="header__sc-1gs0f8g-0"]{content:"kOwGbC,"}/*!sc*/
+.hSlzpB{box-shadow:0 6px 10px rgba(13,29,51,0.14);}/*!sc*/
+data-styled.g516[id="header__sc-1gs0f8g-1"]{content:"hSlzpB,"}/*!sc*/
+.kWPQwj{background-color:#ffffff;min-width:16px;}/*!sc*/
+data-styled.g517[id="header__sc-1gs0f8g-2"]{content:"kWPQwj,"}/*!sc*/
+.jmiKGU{min-width:16px;}/*!sc*/
+data-styled.g518[id="header__sc-1gs0f8g-3"]{content:"jmiKGU,"}/*!sc*/
+.ckwOBT{display:flex;justify-content:space-between;width:100%;max-width:1248px;}/*!sc*/
+data-styled.g519[id="header__sc-1gs0f8g-4"]{content:"ckwOBT,"}/*!sc*/
+.iBpNmY{height:64px;}/*!sc*/
+data-styled.g520[id="header__sc-1gs0f8g-5"]{content:"iBpNmY,"}/*!sc*/
+.cTBzuG{box-sizing:border-box;height:64px;justify-content:start;padding:20px 16px;}/*!sc*/
+.cTBzuG:hover{background-color:#fff8f9;}/*!sc*/
+data-styled.g521[id="header__sc-ra249t-0"]{content:"cTBzuG,"}/*!sc*/
+.efIJvG{padding:16px 0;box-shadow:none;cursor:pointer;color:#0d1d33;}/*!sc*/
+.dwsskC{padding:16px 0;box-shadow:none;cursor:default;color:#0d1d33;}/*!sc*/
+data-styled.g522[id="header__sc-ra249t-1"]{content:"efIJvG,dwsskC,"}/*!sc*/
+.hCkEuv{margin-left:4px;transform:rotate(0);transition:transform 0.2s linear;}/*!sc*/
+data-styled.g523[id="header__sc-ra249t-2"]{content:"hCkEuv,"}/*!sc*/
+.glUHqv{position:relative;}/*!sc*/
+data-styled.g524[id="header__sc-1xkdp98-0"]{content:"glUHqv,"}/*!sc*/
+.NWXBN{display:none;width:240px;position:absolute;top:50px;z-index:1200100;}/*!sc*/
+data-styled.g525[id="header__sc-1xkdp98-1"]{content:"NWXBN,"}/*!sc*/
+.buQToW{display:flex;flex-direction:column;width:100%;max-height:400px;overflow:auto;background-color:#ffffff;box-shadow:0 6px 10px rgba(13,29,51,0.14);border-radius:12px;}/*!sc*/
+data-styled.g526[id="header__sc-1xkdp98-2"]{content:"buQToW,"}/*!sc*/
+.fulqTY{padding:8px 16px;}/*!sc*/
+.fulqTY:hover{background-color:#fff8f9;}/*!sc*/
+data-styled.g527[id="header__sc-mfyxsn-0"]{content:"fulqTY,"}/*!sc*/
+.erIJTQ:active{background-color:#fef1f3;}/*!sc*/
+data-styled.g531[id="header__sc-34ak8f-1"]{content:"erIJTQ,"}/*!sc*/
+.hLBJWX{background-color:#ffffff;box-shadow:10px 0px 8px -8px rgba(13,29,51,0.14);border-top-right-radius:100px;border-bottom-right-radius:100px;}/*!sc*/
+data-styled.g532[id="header__sc-1px72ar-0"]{content:"hLBJWX,"}/*!sc*/
+.faihtT{display:flex;align-items:center;padding-right:30px;}/*!sc*/
+data-styled.g533[id="header__sc-ekxqos-0"]{content:"faihtT,"}/*!sc*/
+.dXhurL{display:flex;flex-direction:row;gap:8px;padding-inline-end:16px;}/*!sc*/
+data-styled.g536[id="header__sc-b91a9q-2"]{content:"dXhurL,"}/*!sc*/
+</style>
+    <meta name="robots" content="noindex, nofollow" />
+    
+    <meta name="description" content="TheLotter is a fun and easy way to play the lottery online. Get lottery tickets for your favourite lotteries and check lottery results.">
+    <title id="__tle_translation_probe__" data-expected="Lottery Online - Lottery Ticket Results | TheLotter">Lottery Online - Lottery Ticket Results | TheLotter</title>
+    <meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.thelotter.com/img/thelotter-opengraph.20260226110143.png" />
+    
+    
+      <style>
+        * {
+          -webkit-tap-highlight-color: transparent;
+        }
+        body {
+            margin: 0; 
+            padding: 0;
+        }
+        h1, h2, h3 { 
+          font-weight: unset;
+        }
+      </style>
+    
+    
+    
+    <link rel="shortcut icon" type="image/png" href="https://www.thelotter.com/img/thelotter-favicon.20260226105950.png">
+    
+    
+    <script data-pipe>Pipe.start(0)</script>
+      <script>if (!document.getElementById('__tle_translation_probe__')) { document.head.insertAdjacentHTML('beforeend', '<span id="__tle_translation_probe__" data-expected="Welcome" aria-hidden="true" style="display:none">Welcome</span>'); }</script>
+      <link rel="preload" href="/fgmt/common/v/3.0.94/bundle.js" as="script">
+      
+      <script>
+        window.TLE = window.TLE || {};
+        window.TLE.onTailorDoneHandlers = window.TLE.onTailorDoneHandlers || [];
+        window.Pipe.onDone(function() {
+          window.TLE.onTailorDoneHandlers.forEach(function(handler) {
+            handler();
+          });
+          window.TLE.tailorDone = true;
+        });
+      </script>
+    
+      
+      <script>
+       requirejs.config({
+            waitSeconds: 30 // for very slow networks
+        });
+      </script>
+    
+      
+      <script>
+        requirejs.onError = function (error) {
+            window.TLE.ERRORS = window.TLE.ERRORS || [];
+            window.TLE.ERRORS.push(error);
+            
+            
+            var failedCommonModule = (error.requireModules || []).filter(function (m) { return m.indexOf('/fgmt/common/') !== -1; })[0];
+            var shouldRetry = error.requireType === 'scripterror' && !window.TLE.__isCommonBundleRetried__;
+            if (shouldRetry && failedCommonModule) {
+                window.TLE.__isCommonBundleRetried__ = true;
+                requirejs.config({ urlArgs: 'commonRetry=' + Date.now() });
+                requirejs.undef(failedCommonModule);
+                require([failedCommonModule], function () {
+                    if (window.TLE.LOGGING_URL && navigator.sendBeacon) {
+                        var body = JSON.stringify({
+                            events: [{
+                                event: 'commonBundleRetry.succeeded',
+                                level: 'warning',
+                                payload: {
+                                    message: 'Common bundle retry succeeded',
+                                    correlationId: window.TLE.CLIENT_CORRELATION_ID,
+                                    msSinceNavigationStart: Math.round(performance.now()),
+                                    timestamp: String(Date.now())
+                                }
+                            }]
+                        });
+                        navigator.sendBeacon(window.TLE.LOGGING_URL, new Blob([body], { type: 'application/json' }));
+                    }
+                });
+                return;
+            }
+            throw error;
+        }
+      </script>
+    
+      <script>
+        (function (d) {
+          require(d);
+          var arr =  [
+            'react','react-dom','react-dom/client',
+            'redux','react-redux','redux-thunk',
+            'redux-dynamic-modules',
+            'redux-dynamic-modules-thunk',
+            'redux-dynamic-modules-react',
+            'redux-dynamic-modules-core',
+            '@tle/core',
+            'styled-components',
+            '@tle/i18n-react',
+            'lottie-web'
+          ];
+          while (i = arr.pop()) (function (dep) {
+              define(dep, d, function (b) {
+                  return b.main()[dep];
+              })
+          })(i);
+        }(['/fgmt/common/v/3.0.94/bundle.js']));
+      </script>
+      
+      <script>
+        window.TLE.LOGGING_URL = window.TLE.LOGGING_URL || (window.origin + '/api/logger/');
+        window.TLE.CLIENT_CORRELATION_ID = window.TLE.CLIENT_CORRELATION_ID || '8c627e36-e6f3-41ed-8bde-861bedb2c449';
+        window.TLE.LOGGER_OPTIONS = window.TLE.LOGGER_OPTIONS || {"blockedKeywords":[]};
+        window.TLE.IGNORE_GLOBAL_HYDRATION_ERRORS = true;
+        window.TLE.ENABLE_FRAGMENT_DIAGNOSTICS = true;
+        window.TLE.ENABLE_DEFERRED_COMMON_MOUNT = true;
+        window.TLE.__commonState__= {"sharedDataState":{"deviceName":"Chrome - Desktop","deviceTypeID":2,"deviceType":"Desktop","country":409,"state":25,"timezone":"America/Chicago","subsiteID":1,"licenseID":1,"businessModelID":1,"sessionID":"d53a3f1d-9cf0-460e-93f4-39e86df13bb2","persona":"Visitor","visitorID":"e4c310fb-925d-48fd-b006-d7d598283677","visitID":null,"isUserLoggedIn":false,"userID":null,"legacyUserID":0,"referralURL":null,"landingURL":"http://www.thelotter.com/404-error-page","languageID":1,"i18nLanguage":"en-1","languageCode":"en","dateFormats":{"DateTimeWithTZAbbreviationFormat":"dd MMM yyyy HH:mm x","DateTimeNoYearWithTZAbbreviationFormat":"dd MMM HH:mm x","DateTimeFormat":"dd MMM yyyy HH:mm","DateTimeNoYearFormat":"dd MMM HH:mm","DateFormat":"dd MMM yyyy","TimeFormat":"HH:mm","DateTimeWithSecondsAndTZAbbreviationFormat":"dd MMM yyyy HH:mm:ss x","DateTimeWithSecondsFormat":"dd MMM yyyy HH:mm:ss"},"culture":"en-US","languageDirection":"ltr","pageTags":{"app_name":"app_error","id":"not_found"}}};
+      </script>
+    
+    <script data-pipe>Pipe.end(0)</script>
+    
+      <link rel="preconnect" href="https://www.googletagmanager.com">
+      <link rel="preconnect" href="https://www.google-analytics.com">
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      </script>
+      <!-- Google Tag Manager-->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.crossOrigin='anonymous';j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-PDQ5493');</script>
+      <!-- End Google Tag Manager -->
+      
+    
+</head>
+<body>
+<div id="fragment-common"></div>
+  <script data-pipe>Pipe.start(10, "/fgmt/header/v/3.0.127/bundle.js", {"timingGroups":[],"id":"header","primary":false,"range":[10,10]})</script><div><div id="fragment-header"><div style="direction:ltr"><header class="header__sc-1gs0f8g-0 kOwGbC"><div class="header__sc-1axb4is-0 jUNwJm header__sc-1gs0f8g-1 hSlzpB"><div class="header__sc-k0d70m-0 cXsalC header__sc-1gs0f8g-2 kWPQwj"></div><div class="header__sc-k0d70m-0 kGiGYt header__sc-1gs0f8g-4 ckwOBT"><div class="header__sc-1px72ar-0 hLBJWX"><div class="header__sc-1axb4is-0 gxAWzM"><a aria-label="site-logo-desktop" href="https://www.thelotter.com/" target="_self" class="header__sc-1co92ds-0 Nktfm"><span title="" data-test-id="main-header-logo" class="header__sc-1co92ds-1 gWEXDU"><span class="header__sc-47m12a-1 kXVVLm"><img alt="site-logo-desktop" src="/img/site-logo-desktop.svg?v=20260525084025" title="" class="header__sc-47m12a-3 jYPWMR"/></span></span></a><nav class="header__sc-ekxqos-0 faihtT"><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-34ak8f-1 erIJTQ" href="https://www.thelotter.com/lottery-tickets/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb"><div class="header__sc-1axb4is-0 hZuKMu header__sc-ra249t-0 cTBzuG"><p class="header__sc-1ytsgco-0 joHjIk header__sc-ra249t-1 efIJvG">Lotteries</p></div></span></a><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-34ak8f-1 erIJTQ" href="https://www.thelotter.com/raffles/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb"><div class="header__sc-1axb4is-0 hZuKMu header__sc-ra249t-0 cTBzuG"><p class="header__sc-1ytsgco-0 joHjIk header__sc-ra249t-1 efIJvG">Raffles</p></div></span></a><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-34ak8f-1 erIJTQ" href="https://www.thelotter.com/lottery-results/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb"><div class="header__sc-1axb4is-0 hZuKMu header__sc-ra249t-0 cTBzuG"><p class="header__sc-1ytsgco-0 joHjIk header__sc-ra249t-1 efIJvG">Results</p></div></span></a><div class="header__sc-1b2hli8-1 cWACWM header__sc-34ak8f-0 hdUELI"></div><div tabindex="0" class="header__sc-1xkdp98-0 glUHqv"><div class="header__sc-1axb4is-0 hZuKMu header__sc-ra249t-0 cTBzuG"><p class="header__sc-1ytsgco-0 joHjIk header__sc-ra249t-1 dwsskC">Blog</p><span class="header__sc-m9ivf2-0 dAxArF header__sc-ra249t-2 hCkEuv"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 0 0-1.41 0 1 1 0 0 0 0 1.42l4.24 4.24a1 1 0 0 0 1.42 0L17 10.59a1 1 0 0 0 0-1.42z"></path></svg></span></div><div class="header__sc-1xkdp98-1 NWXBN"><div class="header__sc-1xkdp98-2 buQToW"><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-mfyxsn-0 fulqTY" href="/blog/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb">TheLotter Blog</span></a></div></div></div><div tabindex="0" class="header__sc-1xkdp98-0 glUHqv"><div class="header__sc-1axb4is-0 hZuKMu header__sc-ra249t-0 cTBzuG"><p class="header__sc-1ytsgco-0 joHjIk header__sc-ra249t-1 dwsskC">Support</p><span class="header__sc-m9ivf2-0 dAxArF header__sc-ra249t-2 hCkEuv"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 0 0-1.41 0 1 1 0 0 0 0 1.42l4.24 4.24a1 1 0 0 0 1.42 0L17 10.59a1 1 0 0 0 0-1.42z"></path></svg></span></div><div class="header__sc-1xkdp98-1 NWXBN"><div class="header__sc-1xkdp98-2 buQToW"><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-mfyxsn-0 fulqTY" href="https://www.thelotter.com/how-it-works/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb">How Our Service Works</span></a><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-mfyxsn-0 fulqTY" href="https://www.thelotter.com/lottery-syndicates-and-bundles/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb">How Syndicates &amp; Bundles Work</span></a><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-mfyxsn-0 fulqTY" href="https://www.thelotter.com/how-raffles-work/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb">How Raffles Work</span></a><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-mfyxsn-0 fulqTY" href="https://www.thelotter.com/help/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb">Help Center</span></a><a tabindex="0" rel="" class="header__sc-jffbti-0 cuIUqW header__sc-mfyxsn-0 fulqTY" href="https://www.thelotter.com/contact-us/" target="_top"><span tabindex="-1" class="header__sc-jffbti-1 jqAmMb">Contact Us</span></a></div></div></div></nav></div></div><div class="header__sc-b91a9q-2 dXhurL"><div class="header__sc-1axb4is-0 kBjhqX"><div class="header__sc-k0d70m-0 jMCrrz"><div class="header__sc-k0d70m-0 cFbTOZ"><span class="header__sc-6ldhv8-0 ftAGwe"><button title="" data-test-id="header-login-button" type="button" class="header__sc-jqmg7o-1 fdAlEO"><span tabindex="-1" class="header__sc-jqmg7o-0 LXGro"><div color="standard" class="header__sc-1axb4is-0 ggnuAo"><div class="header__sc-k0d70m-0 cFbTOZ"><p class="header__sc-1ytsgco-0 joHjIk">Log In</p></div></div></span></button></span><div class="header__sc-1axb4is-0 bGIsV"></div><span class="header__sc-6ldhv8-0 ftAGwe"><button title="" data-test-id="header-signup-button" type="button" class="header__sc-jqmg7o-1 joZdLC"><span tabindex="-1" class="header__sc-jqmg7o-0 cgeqUa"><div color="white" class="header__sc-1axb4is-0 ggnuAo"><div class="header__sc-k0d70m-0 cFbTOZ"><p class="header__sc-1ytsgco-0 brqzZx">Sign Up</p></div></div></span></button></span></div></div><div class="header__sc-k0d70m-0 jMCrrz"><span class="header__sc-6ldhv8-0 ftAGwe"><a class="header__sc-jqmg7o-1 gzcnhp header__sc-qk582b-1 iruYXU" title="" href="https://www.thelotter.com/lottery-promotions/" target="_self"><span tabindex="-1" class="header__sc-jqmg7o-0 deoAOX header__sc-qk582b-1 iruYXU"><div color="standard" class="header__sc-1axb4is-0 ggnuAo"><div class="header__sc-k0d70m-0 fieNXP header__sc-qk582b-0 iXqYpV"><span class="header__sc-m9ivf2-0 cFBlzb"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" color="standard"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.67019H11.7667C11.9188 4.3587 11.9986 4.01684 12 3.67019C12.0041 2.71999 11.43 1.86276 10.5498 1.50481C9.66962 1.14686 8.6602 1.36012 8 2.04352C7.3398 1.36012 6.33038 1.14686 5.45017 1.50481C4.56996 1.86276 3.99587 2.71999 4 3.67019C4.00142 4.01684 4.08119 4.3587 4.23333 4.67019H4C2.89543 4.67019 2 5.56562 2 6.67019V8.00352C2 8.37171 2.29848 8.67019 2.66667 8.67019H3.33333V12.6702C3.33333 13.7748 4.22876 14.6702 5.33333 14.6702H10.6667C11.7712 14.6702 12.6667 13.7748 12.6667 12.6702V8.67019H13.3333C13.7015 8.67019 14 8.37171 14 8.00352V6.67019C14 5.56562 13.1046 4.67019 12 4.67019ZM7.33333 13.3369H5.33333C4.96514 13.3369 4.66667 13.0384 4.66667 12.6702V8.67019H7.33333V13.3369ZM7.33333 7.33685H3.33333V6.67019C3.33333 6.302 3.63181 6.00352 4 6.00352H7.33333V7.33685ZM7.33333 4.67019H6.33333C5.78105 4.67019 5.33333 4.22247 5.33333 3.67019C5.33333 3.1179 5.78105 2.67019 6.33333 2.67019C6.88562 2.67019 7.33333 3.1179 7.33333 3.67019V4.67019ZM8.66667 3.67019C8.66667 3.1179 9.11438 2.67019 9.66667 2.67019C10.219 2.67019 10.6667 3.1179 10.6667 3.67019C10.6667 4.22247 10.219 4.67019 9.66667 4.67019H8.66667V3.67019ZM11.3333 12.6702C11.3333 13.0384 11.0349 13.3369 10.6667 13.3369H8.66667V8.67019H11.3333V12.6702ZM12.6667 7.33685H8.66667V6.00352H12C12.3682 6.00352 12.6667 6.302 12.6667 6.67019V7.33685Z" fill="currentColor"></path></svg></span></div></div></span></a></span></div></div></div></div><div class="header__sc-k0d70m-0 cXsalC header__sc-1gs0f8g-3 jmiKGU"></div></div></header><div class="header__sc-1gs0f8g-5 iBpNmY"></div></div></div></div><script>window.TLE = window.TLE || {};window.TLE["__HEADER_STATE__"] = {"headerViewModel":{"user":{"registeredSubSiteID":null,"isFullyRegistered":false,"isLoggedIn":false,"balance":0,"isBonusMoneyAllowed":false,"bonusMoney":0,"currencyCode":"USD","isStandAloneDepositAllowed":false},"links":[{"name":"lotteries-menu-button","url":"https://www.thelotter.com/lottery-tickets/","type":1,"tags":{"app_name":"lottery_home_page"},"pageID":"183e298c-0f5e-4250-a673-63aed3440809"},{"name":"raffles-menu-button","url":"https://www.thelotter.com/raffles/","type":2,"tags":{"app_name":"raffle_home_page"},"pageID":"2c7e21c0-f8b2-4b60-9fa2-84490bb52b20"},{"name":"magazine-menu-buttons","url":"/blog/","type":4,"tags":{},"pageID":""},{"name":"magazine-sub-menu-button","url":"/blog/","type":24,"tags":{},"pageID":""},{"name":"support-menu-button","url":"https://www.thelotter.com/","type":6,"tags":{"app_name":"home"},"pageID":"25ba28e3-70bc-47e8-af48-bf784589eac8"},{"name":"contact-us-menu-button","url":"https://www.thelotter.com/contact-us/","type":7,"tags":{"app_name":"support_information","id":"contact_us"},"pageID":"06769a04-b0e9-4083-aa73-20a70d6e86b5"},{"name":"faq-menu-button","url":"https://www.thelotter.com/help/","type":22,"tags":{"app_name":"support_information","id":"help_center"},"pageID":"bee73322-79ba-45c0-b08a-327126669c96"},{"name":"how-it-works-menu-button","url":"https://www.thelotter.com/how-it-works/","type":9,"tags":{"app_name":"how_it_works","id":"lottery"},"pageID":"64aed65b-5255-46ae-83e6-deec49863557"},{"name":"how-it-works-syndicates-menu-buttons","url":"https://www.thelotter.com/lottery-syndicates-and-bundles/","type":10,"tags":{"app_name":"how_it_works","id":"syndication"},"pageID":"6a8c3444-0934-4e0f-b323-e0ce8e9eada6"},{"name":"how-it-works-raffles-menu-button","url":"https://www.thelotter.com/how-raffles-work/","type":12,"tags":{"app_name":"how_it_works","id":"raffle"},"pageID":"a4c3b438-8120-4b94-a342-8b9e9e3c4d1f"},{"name":"login-button","url":"https://www.thelotter.com/login/","type":25,"tags":{"app_name":"onboarding","id":"login"},"pageID":"9524463c-b845-4969-9c5c-c0217ad42314"},{"name":"signup-button","url":"https://www.thelotter.com/sign-up/","type":26,"tags":{"app_name":"onboarding","id":"signup"},"pageID":"2deb9153-88bd-45d1-a983-f33a0160a41a"},{"name":"promotions-title","url":"https://www.thelotter.com/lottery-promotions/","type":15,"tags":{"app_name":"promotions"},"pageID":"ee657cf6-9f2f-4dc3-8ba4-d406892a5844"},{"name":"","url":"https://www.thelotter.com/my-account/","type":16,"tags":{"app_name":"my_account_purchases","id":"dashboard"},"pageID":"79ecc964-a870-4d7e-8f67-64f9e8ab6756"},{"name":"lotteries-results-menu-button","url":"https://www.thelotter.com/lottery-results/","type":21,"tags":{"app_name":"lottery_result_list"},"pageID":"220bdb48-97e4-4851-9b49-9234c98fdc0e"}],"siteLogo":{"alt":"site-logo-desktop","srcImageUrl":"/img/site-logo-desktop.svg?v=20260525084025","href":"https://www.thelotter.com/"},"isUSSubsite":false,"isMyAccountPage":false,"configuration":{"isSyndicationUsed":true,"marginTop":0,"isDetailedBalanceEnabled":true,"isFreeSpinsEnabled":false,"isPromotionsButtonHidden":false,"isGamesButtonAvailable":false,"isRafflesButtonsAvailable":true,"isSwedenLicense":false,"isBlogAvailable":true,"blogSupportedLanguages":["en","es","pt"]},"detailedBalanceInfo":null},"languageDirection":"ltr","initialI18nStore":{"header":{"bonus-money":"{{bonusAmount}} bonus","casino-menu-button":"Casino","contact-us-menu-button":"Contact Us","deposit-menu-button":"Deposit","detailed-balance-bonus-money":"Lottery bonus money","detailed-balance-free-spins":"Free spins","detailed-balance-free-spins-expire":"Expires: {0} days {1}","detailed-balance-free-spins-expire-less-2-days":"Expires: {0} day {1}","detailed-balance-free-spins-expire-soon":"(Expires: {1})","detailed-balance-real-money":"Real money","faq-menu-button":"Help Center","how-it-works-bundles-menu-button":"How Bundles Work","how-it-works-menu-button":"How Our Service Works","how-it-works-raffles-menu-button":"How Raffles Work","how-it-works-syndicates-menu-buttons":{"global":"How Syndicates & Bundles Work","us":"About Lottery Pools & Bundles"},"login-button":"Log In","lotteries-menu-button":"Lotteries","lotteries-results-menu-button":"Results","magazine-menu-buttons":{"global":"Blog","se":"Blog","us":"Blog"},"magazine-sub-menu-button":"TheLotter Blog","my-account-title":"My Account","news-and-media-menu-button":"News And Media","promotions-title":"Promotions","quickdraws-menu-button":"Quick Draws","raffles-menu-button":"Raffles","scratchcards-menu-button":"Scratchcards","signup-button":"Sign Up","support-menu-button":"Support","free-spins-expire":"free-spins-expire"}},"timezone":"America/Chicago","culture":"en-US","i18nLanguage":"en-1","deviceType":"Desktop","currentPageID":"323d6fdb-d038-4007-9cf7-935f023b4cf1","isFocused":false,"fragmentName":"header","fragmentBackendAddress":"/fgmt/header/v/3.0.127"}</script><script data-pipe>Pipe.end(10, "/fgmt/header/v/3.0.127/bundle.js", {"timingGroups":[],"id":"header","primary":false,"range":[10,10]})</script>
+  <script data-pipe>Pipe.start(20)</script><script data-pipe>Pipe.end(20)</script>
+  <script data-pipe>Pipe.start(30)</script><script data-pipe>Pipe.end(30)</script>
+  
+  <script data-pipe>Pipe.start(40, "/fgmt/not-found/v/3.0.11/bundle.js", {"timingGroups":[],"id":"not-found","primary":false,"range":[40,40]})</script><div><div id="fragment-not-found"><div style="direction:ltr"><div class="not-found__sc-2fyt54-0 dKYFiE"><div class="not-found__sc-2fyt54-1 iHMHEf"><div class="not-found__sc-1ps8wx2-0 not-found__sc-1ps8wx2-1 FNhKu jlZcCv"><div class="not-found__sc-1ps8wx2-0 not-found__sc-1ps8wx2-2 FNhKu czmUYX"><p class="not-found__sc-1ytsgco-0 jEa-dnR">That page cannot be found!</p><p class="not-found__sc-1ytsgco-0 gnYZMr not-found__sc-1ps8wx2-3 honpRn">We&#x27;re sorry, the page you are looking for may have been moved or deleted. Check the URL or start anew from our homepage.</p><a class="not-found__sc-jqmg7o-1 eNHgiZ not-found__sc-1ps8wx2-5 iDfuRh" title="" href="https://www.thelotter.com/" target="_self"><span tabindex="-1" class="not-found__sc-jqmg7o-0 REWej not-found__sc-1ps8wx2-5 iDfuRh"><div color="white" class="not-found__sc-1axb4is-0 hntQyN"><div class="not-found__sc-k0d70m-0 kRSiiC not-found__sc-qk582b-0 jRaZNh"><span class="not-found__sc-m9ivf2-0 gPtGiu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" color="white"><path d="m20 8-6-5.26a3 3 0 0 0-4 0L4 8a3 3 0 0 0-1 2.26V19a3 3 0 0 0 3 3h12a3 3 0 0 0 3-3v-8.75A3 3 0 0 0 20 8Zm-6 12h-4v-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1Zm5-1a1 1 0 0 1-1 1h-2v-5a3 3 0 0 0-3-3h-2a3 3 0 0 0-3 3v5H6a1 1 0 0 1-1-1v-8.75a1 1 0 0 1 .34-.75l6-5.25a1 1 0 0 1 1.32 0l6 5.25a1 1 0 0 1 .34.75Z"></path></svg></span></div><div class="not-found__sc-k0d70m-0 cZCrJg">Go to the homepage</div></div></span></a></div><span class="not-found__sc-47m12a-1 kGdacR not-found__sc-1ps8wx2-4 dTdwqU"><img alt="image" src="/fgmt/not-found/v/3.0.11/pageNotFound.c9000404b77efc4c4a50.jpg" title="" class="not-found__sc-47m12a-3 eegXXD"/></span></div></div></div></div></div></div><script>window.TLE = window.TLE || {};window.TLE["__NOT-FOUND_STATE__"] = {"redirectLink":"https://www.thelotter.com/","initialI18nStore":{"not-found":{"button-alt-text":"Go to the homepage","button-text":"Go to the homepage","description":"We're sorry, the page you are looking for may have been moved or deleted. Check the URL or start anew from our homepage.","test-key":"test","title":"That page cannot be found!"}},"i18nLanguage":"en-1","fragmentName":"not-found","fragmentBackendAddress":"/fgmt/not-found/v/3.0.11"}</script><script data-pipe>Pipe.end(40, "/fgmt/not-found/v/3.0.11/bundle.js", {"timingGroups":[],"id":"not-found","primary":false,"range":[40,40]})</script>
+<script data-pipe>Pipe.placeholder(50)</script>
+  <div id="fragment-promotion-popup"></div>
+
+
+  <script data-pipe>Pipe.placeholder(60)</script>
+  <div id="fragment-footer-nestjs"></div>
+  <script data-pipe>Pipe.placeholder(70)</script>
+  <div id="fragment-are-you-gambler-nestjs"></div>
+  <script data-pipe>Pipe.placeholder(80)</script>
+  <div id="fragment-automatic-logout-nestjs"></div>
+  <script data-pipe>Pipe.placeholder(90)</script>
+  <div id="fragment-location-redirect-nestjs"></div>
+  <script data-pipe>Pipe.placeholder(100)</script>
+  <div id="fragment-post-login"></div>
+  <script data-pipe>Pipe.placeholder(110)</script>
+  <script data-pipe>Pipe.placeholder(120)</script>
+  <div id="fragment-site-leaving-acknowledgement"></div>
+  <script data-pipe>Pipe.placeholder(130)</script>
+  <div id="fragment-time-limit"></div>
+  <script data-pipe>Pipe.placeholder(140)</script>
+  <div id="fragment-reality-check-nestjs"></div>
+  <script data-pipe>Pipe.placeholder(150)</script>
+  <div id="fragment-logout"></div>
+  
+
+
+<script data-pipe>Pipe.start(70, "/fgmt/are-you-gambler-nestjs/v/3.0.8/bundle.js", {"timingGroups":[],"id":"are-you-gambler-nestjs","primary":false,"range":[70,70]})</script><script data-pipe>Pipe.end(70, "/fgmt/are-you-gambler-nestjs/v/3.0.8/bundle.js", {"timingGroups":[],"id":"are-you-gambler-nestjs","primary":false,"range":[70,70]})</script><script data-pipe>Pipe.start(80, "/fgmt/automatic-logout-nestjs/v/3.0.30/bundle.js", {"timingGroups":[],"id":"automatic-logout-nestjs","primary":false,"range":[80,80]})</script><script data-pipe>Pipe.end(80, "/fgmt/automatic-logout-nestjs/v/3.0.30/bundle.js", {"timingGroups":[],"id":"automatic-logout-nestjs","primary":false,"range":[80,80]})</script><script data-pipe>Pipe.start(50, "/fgmt/promotion-popup/v/3.0.70/bundle.js", {"timingGroups":[],"id":"promotion-popup","primary":false,"range":[50,50]})</script><script>window.TLE = window.TLE || {};window.TLE["__PROMOTION-POPUP_STATE__"] = {"promotionPopupViewModel":{"promotionPopupDetails":null,"links":{"termsConditions":"","viewOffers":""},"userName":"","isRegisteredFull":false,"isViewAllOffersAvailable":true,"isBadgeEnabled":false},"initialI18nStore":{"promotion-common":{},"promotion-badge":{},"plurals-day":{}},"timezone":"America/Chicago","device":"Desktop","languageDirection":"ltr","i18nLanguage":"en-1","fragmentName":"promotion-popup","fragmentBackendAddress":"/fgmt/promotion-popup/v/3.0.70"}</script><script data-pipe>Pipe.end(50, "/fgmt/promotion-popup/v/3.0.70/bundle.js", {"timingGroups":[],"id":"promotion-popup","primary":false,"range":[50,50]})</script><script data-pipe>Pipe.start(130, "/fgmt/time-limit/v/3.0.11/bundle.js", {"timingGroups":[],"id":"time-limit","primary":false,"range":[130,130]})</script><script>window.TLE = window.TLE || {};window.TLE["__TIME-LIMIT_STATE__"] = {"sessionStartDate":1791757271,"initialI18nStore":{"time-limit":{"time-limit-popup-body":"You have played <TLStrong> {{sessionTimeLimit}} minutes </TLStrong>, and therefore you have been logged out.","time-limit-popup-title":"Time Limit Reached"}},"i18nLanguage":"en-1","fragmentName":"time-limit","fragmentBackendAddress":"/fgmt/time-limit/v/3.0.11"}</script><script data-pipe>Pipe.end(130, "/fgmt/time-limit/v/3.0.11/bundle.js", {"timingGroups":[],"id":"time-limit","primary":false,"range":[130,130]})</script><script data-pipe>Pipe.start(100)</script><script data-pipe>Pipe.end(100)</script><script data-pipe>Pipe.start(110, "/fgmt/user-retention-messages/v/3.0.23/bundle.js", {"timingGroups":[],"id":"user-retention-messages","primary":false,"range":[110,110]})</script><div><div id="fragment-user-retention-messages"><div></div></div></div><script>window.TLE = window.TLE || {};window.TLE["__USER-RETENTION-MESSAGES_STATE__"] = {"userRetentionMessagesViewModel":{},"initialI18nStore":{"user-retention-messages":{"onMultiDrawRenewAlreadyPurchasedToasterMessage":"The next entry in your {{lotteryName}} Multi-Draw was already purchased! You can check the entry details in My Account.","onMultiDrawRenewAlreadyPurchasedToasterTitle":"Your {{lotteryName}} Multi-Draw package was already renewed","onMultiDrawRenewFailedToasterMessage":"Your {{lotteryName}} Multi-Draw package cannot be renewed at this time. We apologize for the inconvenience. Please try one of our other lotteries instead!","onMultiDrawRenewFailedToasterTitle":"Your {{lotteryName}} Multi-Draw package cannot be renewed","onRenewAlreadyPurchasedToasterMessage":"{{packageName}} was already ordered! You can check the entry details in My Account.","onRenewAlreadyPurchasedToasterTitle":"Your {{packageName}} package was renewed","onRenewErrorToasterMessage":"Your {{packageName}} package cannot be renewed at this time.","onRenewErrorToasterTitle":"Your {{packageName}} package could not be renewed","onRenewFailedToasterMessage":"Your {{packageName}} package cannot be renewed at this time. We apologize for the inconvenience. Please try one of our other lotteries instead!","onRenewFailedToasterTitle":"Your {{packageName}} package could not be renewed","onSubscriptionRenewAlreadyPurchasedToasterMessage":"The next entry in your {{lotteryName}} Subscription was already purchased! You can check the entry details in My Account.","onSubscriptionRenewAlreadyPurchasedToasterTitle":"Your {{lotteryName}} Subscription package was already renewed","onSubscriptionRenewFailedToasterMessage":"The next entry in your {{lotteryName}} Subscription cannot be purchased at this time. We apologize for the inconvenience. Please try one of our other lotteries instead!","onSubscriptionRenewFailedToasterTitle":"Your {{lotteryName}} Subscription package cannot be renewed","renewButtonText":"Renew"}},"timezone":"America/Chicago","languageDirection":"ltr","i18nLanguage":"en-1","canDisplayUserRetentionMessage":false,"isUserLoggedIn":false,"languageID":"1","isMobile":false,"latestMessage":null,"lotteryName":"","fragmentName":"user-retention-messages","fragmentBackendAddress":"/fgmt/user-retention-messages/v/3.0.23"}</script><script data-pipe>Pipe.end(110, "/fgmt/user-retention-messages/v/3.0.23/bundle.js", {"timingGroups":[],"id":"user-retention-messages","primary":false,"range":[110,110]})</script><script data-pipe>Pipe.start(140)</script><script data-pipe>Pipe.end(140)</script><script data-pipe>Pipe.start(90, "/fgmt/location-redirect-nestjs/v/3.0.13/bundle.js", {"timingGroups":[],"id":"location-redirect-nestjs","primary":false,"range":[90,90]})</script><script data-pipe>Pipe.end(90, "/fgmt/location-redirect-nestjs/v/3.0.13/bundle.js", {"timingGroups":[],"id":"location-redirect-nestjs","primary":false,"range":[90,90]})</script><script data-pipe>Pipe.start(120)</script><script data-pipe>Pipe.end(120)</script><script data-pipe>Pipe.start(150, "/fgmt/logout/v/3.0.15/bundle.js", {"timingGroups":[],"id":"logout","primary":false,"range":[150,150]})</script><script>window.TLE = window.TLE || {};window.TLE["__LOGOUT_STATE__"] = {"languageDirection":"ltr","device":"Desktop","timezone":"America/Chicago","i18nLanguage":"en-1","homePage":"https://www.thelotter.com/","sessionID":"d53a3f1d-9cf0-460e-93f4-39e86df13bb2","fragmentName":"logout","fragmentBackendAddress":"/fgmt/logout/v/3.0.15"}</script><script data-pipe>Pipe.end(150, "/fgmt/logout/v/3.0.15/bundle.js", {"timingGroups":[],"id":"logout","primary":false,"range":[150,150]})</script><script data-pipe>Pipe.start(60, "/fgmt/footer-nestjs/v/3.0.127/bundle.js", {"timingGroups":[],"id":"footer-nestjs","primary":false,"range":[60,60]})</script><div><div id="fragment-footer-nestjs"><div style="direction:ltr"><div class="footer-nestjs__sc-2fyt54-0 Vidof"><div class="footer-nestjs__sc-2fyt54-1 dNLEqh"><footer class="footer-nestjs__sc-1pom33w-0 dwlwhR"><div class="footer-nestjs__sc-1pom33w-1 bgOJgc"><div class="footer-nestjs__sc-1pom33w-3 duHCyB"><div class="footer-nestjs__sc-1pazsso-0 jAJeZb"><a tabindex="0" rel="noopener noreferrer" href="https://ios-global.onelink.me/neUY/96c6fa59" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/appleStoreUS.a0d1797ef4ec4cbd353a.png" alt="theLotter IOS TLE"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://www.thelotter.com/lottery-android-app/?utm_source=site&amp;utm_medium=site_footer&amp;utm_campaign=SFC_Android_Download_Footer" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/img/footer-download-android-logo-en.png?version=20251214113239" alt="theLotter Android TLE"/></span></a></div><div class="footer-nestjs__sc-1kl4vxs-0 dkrcCQ"><a tabindex="0" rel="noopener noreferrer" href="https://www.facebook.com/thelotteronline" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/facebook.12ec5b1336623368ebe9.png" alt="Facebook Global"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://www.instagram.com/thelotterglobal/" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/instagram.0e735332c9e85ffd975b.png" alt="Instagram Global"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://x.com/theLotterX" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/twitter.d9b7c69398f2aadd9067.png" alt="Twitter Global"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCQpwixd8NKN390Dl5Ubfsug" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/youtube.94701aecafba8849b8a9.png" alt="YouTube Global"/></span></a></div></div><div data-dlag-seal-container="true" class="footer-nestjs__sc-1hqnnpp-0 dIIxCI"><div class="footer-nestjs__sc-qex9wl-0 kDUWVZ"><img src="/fgmt/footer-nestjs/v/3.0.127/sg-icon-eng.55ec3f87ad7f4d2a0700.png" alt="sg"/></div><a tabindex="0" rel="noopener noreferrer" href="https://www.rgf.org.mt/" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/rgf-LG.a23c4e11a825e2fcb95f.png" alt="rfg"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://www.geotrust.com/" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/GeoTrust-LG.f597d18e957b48410bce.png" alt="goTrust"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://www.gamblersanonymous.org.uk/" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/GA.c7be7d9ab65a324a64cc.png" alt="ga"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://www.thelotter.com/terms-of-use/" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/AgeLimit-icon.c38746c18cefd7d95e9c.png" alt="ageLimit"/></span></a><a tabindex="0" rel="noopener noreferrer" href="https://authorisation.mga.org.mt/verification.aspx?lang=EN&amp;company=653d15b5-4a2e-461c-8928-13cf3a03b2e5&amp;details=1" target="_blank" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><img src="/fgmt/footer-nestjs/v/3.0.127/MaltaAuthority23-LG.d1f6cc59c5009b0203f0.png" alt="maltaAuthority23"/></span></a></div><div class="footer-nestjs__sc-1pom33w-2 eDLaCl"><div class="footer-nestjs__sc-1ytsgco-0 bZGORK">This website is operated by Lotto Direct Limited, a company registered in Malta (registration number: C77583) having its registered office at Vision Exchange Building, Level 1, Triq it-Territorjals, Zone 1, Central Business District, CBD 1070, Birkirkara, Malta. Phone number: +44 20 3150 0476. Lotto Direct Limited is licensed and regulated by the Malta Gaming Authority (License: MGA/CRP/402/2017 issued on 01/08/2018).
+<br/> <br/> 
+Lotto Direct Limited and its associated brands operate as an independent ticket purchasing service and are neither associated with nor endorsed by MUSL, Française des Jeux, Loterías y Apuestas del Estado, Lotto NZ, or any company that manages any product for which their services are employed.</div><a tabindex="0" rel="" href="https://www.thelotter.com/responsible-gaming/" target="_black" class="footer-nestjs__sc-jffbti-0 kqhtGe"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ"><div class="footer-nestjs__sc-1axb4is-0 iQCotY footer-nestjs__sc-ith8qv-0"><div class="footer-nestjs__sc-k0d70m-0 jDkkIZ"><div class="footer-nestjs__sc-1axb4is-0 gOQKvM"><span class="footer-nestjs__sc-m9ivf2-0 bwfcBw"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 14a1.25 1.25 0 1 0 1.25 1.25A1.25 1.25 0 0 0 12 14zm0-1.5a1 1 0 0 0 1-1v-3a1 1 0 0 0-2 0v3a1 1 0 0 0 1 1zM12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.01 8.01 0 0 1-8 8z"></path></svg></span></div></div><div class="footer-nestjs__sc-k0d70m-0 jDkkIZ"><div class="footer-nestjs__sc-1q42c02-0 ggcfso"></div></div><div class="footer-nestjs__sc-k0d70m-0 jDkkIZ"><span class="footer-nestjs__sc-1ytsgco-0 eWjcDG">Gambling can be harmful if not controlled. Please play responsibly.</span></div></div></span></a></div><div class="footer-nestjs__sc-1czmrh6-0 dxDCBQ"><div class="footer-nestjs__sc-1czmrh6-2 hcUdLI"><div class="footer-nestjs__sc-1czmrh6-1 DScp"><b class="footer-nestjs__sc-1czmrh6-4 gDqZyA">Policies</b><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/terms-of-use/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Terms of Use</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/cookie-policy/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Cookie Policy</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/privacy-policy/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Privacy Notice</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/responsible-gaming/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Responsible Gaming</span></a></div><div class="footer-nestjs__sc-1czmrh6-1 DScp"><b class="footer-nestjs__sc-1czmrh6-4 gDqZyA">About</b><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/about-us/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">About Us</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter-affiliates.com/affiliates/signup.php#SignupForm" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">theLotter Affiliates</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/contact-us/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Contact Us</span></a></div><div class="footer-nestjs__sc-1czmrh6-1 DScp"><b class="footer-nestjs__sc-1czmrh6-4 gDqZyA">Information</b><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/lottery-results/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Lottery Results</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/help/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Help Center</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/payment-methods/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Payment Methods</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="https://www.thelotter.com/lottery-taxes/" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Lottery Taxes</span></a><a tabindex="0" rel="noopener noreferrer" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1czmrh6-3 gCzbgY" href="/rss.xml" target="_blank"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">RSS</span></a></div></div></div><div class="footer-nestjs__sc-1j0mivf-0 chlyJA"><a tabindex="0" rel="" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1j0mivf-1 kVMFro" href="https://www.thelotter.com/404-error-page/" target="_top"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">English</span></a><a tabindex="0" rel="" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1j0mivf-1 gukwLv" href="https://www.thelotter.com/es/pagina-error-404/" target="_top"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Español</span></a><a tabindex="0" rel="" class="footer-nestjs__sc-jffbti-0 kqhtGe footer-nestjs__sc-1j0mivf-1 gukwLv" href="https://www.thelotter.com/pt/not_found" target="_top"><span tabindex="-1" class="footer-nestjs__sc-jffbti-1 dyGSMJ">Português</span></a></div></div></footer></div></div></div></div></div><script>window.TLE = window.TLE || {};window.TLE["__FOOTER-NESTJS_STATE__"] = {"footerViewModel":{"licenseID":1,"downloadStores":[{"src":"/fgmt/footer-nestjs/v/3.0.127/appleStoreUS.a0d1797ef4ec4cbd353a.png","href":"https://ios-global.onelink.me/neUY/96c6fa59","alt":"theLotter IOS TLE"},{"src":"/img/footer-download-android-logo-en.png?version=20251214113239","href":"https://www.thelotter.com/lottery-android-app/?utm_source=site&utm_medium=site_footer&utm_campaign=SFC_Android_Download_Footer","alt":"theLotter Android TLE"}],"socialMediaChannels":[{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/facebook.12ec5b1336623368ebe9.png","dark":"/fgmt/footer-nestjs/v/3.0.127/facebook-dark.9ee4255bac508ea2a122.png"},"href":"https://www.facebook.com/thelotteronline","alt":"Facebook Global"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/instagram.0e735332c9e85ffd975b.png","dark":"/fgmt/footer-nestjs/v/3.0.127/instagram-dark.b25740f5ab44d8f3ac9b.png"},"href":"https://www.instagram.com/thelotterglobal/","alt":"Instagram Global"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/twitter.d9b7c69398f2aadd9067.png","dark":"/fgmt/footer-nestjs/v/3.0.127/twitter-dark.2892dc7b3cce2a3ccdf1.png"},"href":"https://x.com/theLotterX","alt":"Twitter Global"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/youtube.94701aecafba8849b8a9.png","dark":"/fgmt/footer-nestjs/v/3.0.127/youtube-dark.334cc5bd3af3766d8770.png"},"href":"https://www.youtube.com/channel/UCQpwixd8NKN390Dl5Ubfsug","alt":"YouTube Global"}],"certifications":[{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/sg-icon-eng.55ec3f87ad7f4d2a0700.png","dark":"/fgmt/footer-nestjs/v/3.0.127/sg-icon-eng-dark.d3880449193ce9e65c71.png"},"href":"","alt":"sg"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/rgf-LG.a23c4e11a825e2fcb95f.png","dark":"/fgmt/footer-nestjs/v/3.0.127/rgf-LG-dark.a8430df6b429e8201b49.png"},"href":"https://www.rgf.org.mt/","alt":"rfg"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/GeoTrust-LG.f597d18e957b48410bce.png","dark":"/fgmt/footer-nestjs/v/3.0.127/GeoTrust-LG-dark.12cfd25a1677c4e159c8.png"},"href":"https://www.geotrust.com/","alt":"goTrust"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/GA.c7be7d9ab65a324a64cc.png","dark":"/fgmt/footer-nestjs/v/3.0.127/GA-dark.0fde3e347fa79fc7df69.png"},"href":"https://www.gamblersanonymous.org.uk/","alt":"ga"},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/AgeLimit-icon.c38746c18cefd7d95e9c.png","dark":"/fgmt/footer-nestjs/v/3.0.127/AgeLimit-icon-dark.e072942620382fd1f198.png"},"href":"https://www.thelotter.com/terms-of-use/","alt":"ageLimit","tagsForHref":{"app_name":"support_information","id":"terms_of_use"}},{"src":{"default":"/fgmt/footer-nestjs/v/3.0.127/MaltaAuthority23-LG.d1f6cc59c5009b0203f0.png","dark":"/fgmt/footer-nestjs/v/3.0.127/MaltaAuthority23-LG-dark.03cb74070d0c8b0fbf37.png"},"href":"https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=653d15b5-4a2e-461c-8928-13cf3a03b2e5&details=1","alt":"maltaAuthority23"}],"scriptSeals":[],"isFocus":false,"languages":[{"languageID":1,"href":"https://www.thelotter.com/404-error-page/","selected":true},{"languageID":2,"href":"https://www.thelotter.com/es/pagina-error-404/"},{"languageID":10,"href":"https://www.thelotter.com/pt/not_found"}],"navigationLinks":[{"title":"polices_title","links":[{"text":"polices_link_terms_of_use","href":"https://www.thelotter.com/terms-of-use/"},{"text":"polices_link_cookie_policy","href":"https://www.thelotter.com/cookie-policy/"},{"text":"polices_link_privacy_notice","href":"https://www.thelotter.com/privacy-policy/"},{"text":"polices_link_responsible_gaming","href":"https://www.thelotter.com/responsible-gaming/"}]},{"title":"about_title","links":[{"text":"about_link_about_us","href":"https://www.thelotter.com/about-us/"},{"text":"about_link_affiliates","href":"https://www.thelotter-affiliates.com/affiliates/signup.php#SignupForm"},{"text":"about_link_contact_us","href":"https://www.thelotter.com/contact-us/"}]},{"title":"information_title","links":[{"text":"information_link_lottery_results","href":"https://www.thelotter.com/lottery-results/"},{"text":"information_link_help_center","href":"https://www.thelotter.com/help/"},{"text":"information_link_banking","href":"https://www.thelotter.com/payment-methods/"},{"text":"information_link_lottery_taxes","href":"https://www.thelotter.com/lottery-taxes/"},{"text":"about_link_rss","href":"/rss.xml"}]}],"sessionInfo":{"shouldDisplaySessionInfo":false},"gamblingAwarnessLinks":[{"translationsKey":"gamblingAwareness1","href":"https://www.thelotter.com/responsible-gaming/"}]},"omnichannelConfig":false,"omnichannelLoadingDelay":5000,"chatbuttonImage":"/img/chatbutton.svg?version=20251218200519","initialI18nStore":{"footer-nestjs":{"navigation_links":{"about_link_about_us":"About Us","about_link_affiliates":"theLotter Affiliates","about_link_complaints":"Complaints and Arbitration","about_link_contact_us":"Contact Us","about_link_rss":"RSS","about_title":"About","information_link_banking":"Payment Methods","information_link_help_center":"Help Center","information_link_lottery_results":"Lottery Results","information_link_lottery_taxes":"Lottery Taxes","information_title":"Information","polices_link_aml_kyc":"AML & KYC policy","polices_link_cookie_policy":"Cookie Policy","polices_link_privacy_notice":"Privacy Notice","polices_link_responsible_gaming":"Responsible Gaming","polices_link_terms_of_use":"Terms of Use","polices_title":"Policies","thelotter":"TheLotter","thelotter-app":"TheLotter App","thelotter-blog":"TheLotter Blog"},"languages":{"1":"English","2":"Español","10":"Português"},"license_info":{"1":{"content":"This website is operated by Lotto Direct Limited, a company registered in Malta (registration number: C77583) having its registered office at Vision Exchange Building, Level 1, Triq it-Territorjals, Zone 1, Central Business District, CBD 1070, Birkirkara, Malta. Phone number: +44 20 3150 0476. Lotto Direct Limited is licensed and regulated by the Malta Gaming Authority (License: MGA/CRP/402/2017 issued on 01/08/2018).\n<TLBr /> <TLBr /> \nLotto Direct Limited and its associated brands operate as an independent ticket purchasing service and are neither associated with nor endorsed by MUSL, Française des Jeux, Loterías y Apuestas del Estado, Lotto NZ, or any company that manages any product for which their services are employed."}},"gamblingAwareness":["Gambling can be harmful if not controlled. Please play responsibly."],"session_info":{"current_session":"Current Session","last_session":"Last Session"}}},"i18nLanguage":"en-1","timezone":"America/Chicago","device":"Desktop","languageDirection":"ltr","currentTheme":"default","fragmentName":"footer-nestjs","fragmentBackendAddress":"/fgmt/footer-nestjs/v/3.0.127"}</script><script data-pipe>Pipe.end(60, "/fgmt/footer-nestjs/v/3.0.127/bundle.js", {"timingGroups":[],"id":"footer-nestjs","primary":false,"range":[60,60]})</script></body></html>

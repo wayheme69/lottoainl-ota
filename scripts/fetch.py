@@ -6,12 +6,16 @@ UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 st = {}
 sp = json.load(open('out/_status.json')) if os.path.exists('out/_status.json') else {}
 delay = float(os.environ.get('DELAY', '1.5'))
-for jid, url in jobs:
+for job in jobs:
+    jid, url = job[0], job[1]; post = job[2] if len(job) > 2 else None
     h = {'User-Agent': UA, 'Accept': 'text/html,application/json,*/*', 'Accept-Language': 'nl-NL,nl;q=0.9,en;q=0.8', 'Accept-Encoding': 'gzip'}
     code, body, final, err = None, b'', url, None
     for attempt in range(2):
         try:
-            r = urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=40)
+            ctx = ssl._create_unverified_context() if attempt else None
+            data = post.encode() if post else None
+            if data: h['Content-Type'] = 'application/x-www-form-urlencoded'
+            r = urllib.request.urlopen(urllib.request.Request(url, data=data, headers=h), timeout=40, context=ctx)
             code, final = r.status, r.geturl(); body = r.read()
             if r.headers.get('Content-Encoding') == 'gzip': body = gzip.decompress(body)
             break

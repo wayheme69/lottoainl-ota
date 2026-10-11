@@ -6,11 +6,13 @@ UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 st = {}
 sp = json.load(open('out/_status.json')) if os.path.exists('out/_status.json') else {}
 delay = float(os.environ.get('DELAY', '1.5'))
+if jobs and 'web.archive.org' in jobs[0][1]: delay = max(delay, 5)
 for job in jobs:
     jid, url = job[0], job[1]; post = job[2] if len(job) > 2 else None
     h = {'User-Agent': UA, 'Accept': 'text/html,application/json,*/*', 'Accept-Language': 'nl-NL,nl;q=0.9,en;q=0.8', 'Accept-Encoding': 'gzip'}
     code, body, final, err = None, b'', url, None
-    for attempt in range(2):
+    if os.path.exists(f'out/{jid}') and sp.get(jid, {}).get('code') == 200: continue
+    for attempt in range(7):
         try:
             ctx = ssl._create_unverified_context() if attempt else None
             data = post.encode() if post else None
@@ -21,6 +23,8 @@ for job in jobs:
             break
         except urllib.error.HTTPError as e:
             code = e.code; body = e.read() or b''
+            if code in (429, 503, 502, 504) and attempt < 6:
+                print(jid, code, 'backoff', flush=True); time.sleep(30 * (attempt + 1)); continue
             try:
                 if e.headers.get('Content-Encoding') == 'gzip': body = gzip.decompress(body)
             except Exception: pass

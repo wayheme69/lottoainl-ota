@@ -1,7 +1,38 @@
 {
  "source": "Nederlandse Loterij (official API)",
- "updated": "2026-10-23T14:09:06Z",
+ "updated": "2026-10-24T19:29:12Z",
  "lotto": [
+  {
+   "date": "2026-10-24",
+   "draw": 1,
+   "superZaterdag": false,
+   "numbers": [
+    7,
+    20,
+    27,
+    31,
+    36,
+    39
+   ],
+   "bonus": [
+    10
+   ],
+   "jackpot": 1100000.0,
+   "jackpotWon": false,
+   "xl": {
+    "numbers": [
+     4,
+     9,
+     11,
+     19,
+     38,
+     45
+    ],
+    "bonus": [
+     3
+    ]
+   }
+  },
   {
    "date": "2026-10-17",
    "draw": 1,
@@ -900,42 +931,11 @@
      17
     ]
    }
-  },
-  {
-   "date": "2026-05-02",
-   "draw": 1,
-   "superZaterdag": false,
-   "numbers": [
-    10,
-    13,
-    21,
-    24,
-    32,
-    43
-   ],
-   "bonus": [
-    44
-   ],
-   "jackpot": 1000000.0,
-   "jackpotWon": false,
-   "xl": {
-    "numbers": [
-     15,
-     28,
-     37,
-     40,
-     43,
-     44
-    ],
-    "bonus": [
-     21
-    ]
-   }
   }
  ],
  "next": {
-  "date": "2026-10-24",
-  "salesClose": "2026-10-24T17:58:00+02:00",
-  "estimatedPrize": 1100000.0
+  "date": "2026-10-31",
+  "salesClose": "2026-10-31T17:58:00+01:00",
+  "estimatedPrize": 1200000.0
  }
 }

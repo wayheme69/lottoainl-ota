@@ -1,6 +1,6 @@
 {
  "source": "Nederlandse Loterij (official API)",
- "updated": "2026-10-30T15:44:18Z",
+ "updated": "2026-10-31T20:27:14Z",
  "lotto": [
   {
    "date": "2026-10-24",
@@ -934,8 +934,8 @@
   }
  ],
  "next": {
-  "date": "2026-10-31",
-  "salesClose": "2026-10-31T17:58:00+01:00",
-  "estimatedPrize": 1200000.0
+  "date": "2026-11-07",
+  "salesClose": "2026-11-07T17:58:00+01:00",
+  "estimatedPrize": null
  }
 }
